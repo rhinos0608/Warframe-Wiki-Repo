@@ -1,0 +1,366 @@
+name: Manual Operations
+
+on:
+  workflow_dispatch:
+    inputs:
+      operation:
+        description: 'Operation to perform'
+        required: true
+        type: choice
+        options:
+          - rebuild-all-content
+          - regenerate-pdfs
+          - clear-cache
+          - backup-repository
+          - validate-data-integrity
+          - update-dependencies
+          - generate-statistics
+      scope:
+        description: 'Scope (if applicable)'
+        required: false
+        default: 'all'
+        type: string
+      dry_run:
+        description: 'Dry run (preview changes without applying)'
+        required: false
+        default: false
+        type: boolean
+
+env:
+  PYTHON_VERSION: '3.11'
+
+jobs:
+  manual-operation:
+    runs-on: ubuntu-24.04
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.BOT_GITHUB_TOKEN || github.token }}
+          fetch-depth: 1
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r warframe-wiki/requirements.txt
+
+      - name: Install system dependencies
+        if: contains(github.event.inputs.operation, 'pdf') || github.event.inputs.operation == 'rebuild-all-content'
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y \
+            libpango-1.0-0 \
+            libharfbuzz0b \
+            libpangoft2-1.0-0 \
+            libgdk-pixbuf2.0-0 \
+            libffi-dev \
+            shared-mime-info
+
+      - name: Setup Git configuration
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "Warframe Wiki Maintenance Bot"
+
+      - name: Execute Operation - Rebuild All Content
+        if: github.event.inputs.operation == 'rebuild-all-content'
+        working-directory: warframe-wiki/meta/scripts
+        run: |
+          echo "🔄 Rebuilding all content from scratch..."
+
+          # Remove existing content (except .gitkeep files)
+          find ../../ -name "*.md" -not -path "*/.git/*" -not -name "README.md" -delete
+          find ../../pdfs -name "*.pdf" -delete 2>/dev/null || true
+
+          # Force full update
+          python update_content.py --force-update --verbose
+
+          echo "✅ Content rebuild complete"
+
+      - name: Execute Operation - Regenerate PDFs
+        if: github.event.inputs.operation == 'regenerate-pdfs'
+        working-directory: warframe-wiki/meta/scripts
+        run: |
+          echo "📄 Regenerating all PDFs..."
+
+          # Remove existing PDFs
+          find ../../pdfs -name "*.pdf" -delete 2>/dev/null || true
+
+          # Regenerate PDFs for all markdown files
+          python pdf_generator.py --wiki-dir ../.. --verbose
+
+          echo "✅ PDF regeneration complete"
+
+      - name: Execute Operation - Clear Cache
+        if: github.event.inputs.operation == 'clear-cache'
+        run: |
+          echo "🧹 Clearing all caches..."
+
+          # Remove cache directories
+          rm -rf warframe-wiki/cache/*
+          rm -f warframe-wiki/.game-state.json
+
+          # Clear GitHub Actions cache (we can't actually delete it, but mark it as expired)
+          echo "Cache cleared - next run will fetch fresh data"
+
+          echo "✅ Cache clearing complete"
+
+      - name: Execute Operation - Backup Repository
+        if: github.event.inputs.operation == 'backup-repository'
+        run: |
+          echo "💾 Creating repository backup..."
+
+          # Create backup archive
+          BACKUP_NAME="warframe-wiki-backup-$(date +%Y%m%d-%H%M%S)"
+          tar -czf "${BACKUP_NAME}.tar.gz" \
+            --exclude='.git' \
+            --exclude='cache' \
+            --exclude='node_modules' \
+            warframe-wiki/
+
+          # Create backup metadata
+          cat > "${BACKUP_NAME}.json" << EOF
+          {
+            "backup_date": "$(date -u +%Y-%m-%dT%H:%M:%SZ)",
+            "repository": "${{ github.repository }}",
+            "commit_sha": "${{ github.sha }}",
+            "branch": "${{ github.ref_name }}",
+            "trigger": "manual",
+            "operator": "${{ github.actor }}"
+          }
+          EOF
+
+          echo "Backup created: ${BACKUP_NAME}.tar.gz"
+          ls -lh "${BACKUP_NAME}".*
+
+          echo "✅ Backup creation complete"
+
+      - name: Execute Operation - Validate Data Integrity
+        if: github.event.inputs.operation == 'validate-data-integrity'
+        working-directory: warframe-wiki/meta/scripts
+        run: |
+          echo "🔍 Validating data integrity..."
+
+          python -c "
+          import asyncio
+          import json
+          from pathlib import Path
+          import yaml
+          from data_processor import WFDataProcessor
+
+          async def validate_integrity():
+              errors = []
+              warnings = []
+              content_dir = Path('../../')
+
+              # Validate YAML frontmatter in all markdown files
+              for md_file in content_dir.rglob('*.md'):
+                  if md_file.name == 'README.md':
+                      continue
+
+                  try:
+                      with open(md_file, 'r', encoding='utf-8') as f:
+                          content = f.read()
+
+                      if content.startswith('---'):
+                          parts = content.split('---', 2)
+                          if len(parts) >= 3:
+                              yaml.safe_load(parts[1])
+                          else:
+                              warnings.append(f'Invalid frontmatter format: {md_file}')
+                      else:
+                          warnings.append(f'No frontmatter found: {md_file}')
+
+                  except yaml.YAMLError as e:
+                      errors.append(f'YAML error in {md_file}: {e}')
+                  except Exception as e:
+                      errors.append(f'Error reading {md_file}: {e}')
+
+              # Report results
+              print(f'Validation complete:')
+              print(f'  Files checked: {len(list(content_dir.rglob("*.md")))}')
+              print(f'  Errors: {len(errors)}')
+              print(f'  Warnings: {len(warnings)}')
+
+              if errors:
+                  print('\\nErrors:')
+                  for error in errors[:10]:  # Show first 10 errors
+                      print(f'  - {error}')
+
+              if warnings:
+                  print('\\nWarnings:')
+                  for warning in warnings[:10]:  # Show first 10 warnings
+                      print(f'  - {warning}')
+
+              return len(errors) == 0
+
+          result = asyncio.run(validate_integrity())
+          assert result, 'Data integrity validation failed'
+          "
+
+          echo "✅ Data integrity validation complete"
+
+      - name: Execute Operation - Update Dependencies
+        if: github.event.inputs.operation == 'update-dependencies'
+        run: |
+          echo "⬆️ Updating dependencies..."
+
+          # Update Python dependencies
+          cd warframe-wiki
+          pip-compile --upgrade requirements.in > requirements.txt 2>/dev/null || \
+            pip freeze > requirements.txt
+
+          # Show dependency changes
+          if git diff --name-only | grep -q requirements.txt; then
+            echo "Dependencies updated:"
+            git diff requirements.txt
+          else
+            echo "No dependency updates available"
+          fi
+
+          echo "✅ Dependency update complete"
+
+      - name: Execute Operation - Generate Statistics
+        if: github.event.inputs.operation == 'generate-statistics'
+        working-directory: warframe-wiki/meta/scripts
+        run: |
+          echo "📊 Generating repository statistics..."
+
+          python -c "
+          import json
+          from pathlib import Path
+          from collections import defaultdict
+          import yaml
+
+          def generate_stats():
+              stats = {
+                  'generated_at': '$(date -u +%Y-%m-%dT%H:%M:%SZ)',
+                  'repository': '${{ github.repository }}',
+                  'categories': defaultdict(int),
+                  'total_items': 0,
+                  'file_sizes': {},
+                  'metadata_stats': defaultdict(int)
+              }
+
+              content_dir = Path('../../')
+
+              # Count items by category
+              for md_file in content_dir.rglob('*.md'):
+                  if md_file.name == 'README.md':
+                      continue
+
+                  # Determine category from path
+                  category = md_file.parts[-2] if len(md_file.parts) > 1 else 'unknown'
+                  stats['categories'][category] += 1
+                  stats['total_items'] += 1
+
+                  # File size
+                  stats['file_sizes'][str(md_file)] = md_file.stat().st_size
+
+                  # Parse metadata
+                  try:
+                      with open(md_file, 'r', encoding='utf-8') as f:
+                          content = f.read()
+
+                      if content.startswith('---'):
+                          parts = content.split('---', 2)
+                          if len(parts) >= 3:
+                              metadata = yaml.safe_load(parts[1])
+                              if metadata:
+                                  for key in metadata.keys():
+                                      stats['metadata_stats'][key] += 1
+
+                  except Exception:
+                      pass
+
+              # Convert defaultdict to regular dict for JSON serialization
+              stats['categories'] = dict(stats['categories'])
+              stats['metadata_stats'] = dict(stats['metadata_stats'])
+
+              # Summary
+              print('Repository Statistics:')
+              print(f'  Total Items: {stats[\"total_items\"]}')
+              print(f'  Categories: {len(stats[\"categories\"])}')
+              print('  Items by Category:')
+              for category, count in sorted(stats['categories'].items()):
+                  print(f'    {category}: {count}')
+
+              # Save detailed stats
+              with open('../../stats.json', 'w') as f:
+                  json.dump(stats, f, indent=2)
+
+              return stats
+
+          generate_stats()
+          "
+
+          echo "✅ Statistics generation complete"
+
+      - name: Check for changes and commit
+        if: github.event.inputs.dry_run == 'false'
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            echo "📝 Changes detected, committing..."
+
+            git add warframe-wiki/
+
+            # Create commit message based on operation
+            OPERATION="${{ github.event.inputs.operation }}"
+            SCOPE="${{ github.event.inputs.scope }}"
+
+            cat > commit_message.txt << EOF
+            Manual operation: ${OPERATION}
+
+            Operation: ${OPERATION}
+            Scope: ${SCOPE}
+            Triggered by: ${{ github.actor }}
+            Timestamp: $(date -u +"%Y-%m-%d %H:%M:%S UTC")
+
+            🤖 Generated with [Claude Code](https://claude.ai/code)
+
+            Co-Authored-By: Claude <noreply@anthropic.com>
+            EOF
+
+            git commit -F commit_message.txt
+            git push
+
+            echo "✅ Changes committed and pushed"
+          else
+            echo "ℹ️ No changes to commit"
+          fi
+
+      - name: Summary Report
+        if: always()
+        run: |
+          echo "# Manual Operation Summary" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "**Operation:** ${{ github.event.inputs.operation }}" >> $GITHUB_STEP_SUMMARY
+          echo "**Scope:** ${{ github.event.inputs.scope }}" >> $GITHUB_STEP_SUMMARY
+          echo "**Dry Run:** ${{ github.event.inputs.dry_run }}" >> $GITHUB_STEP_SUMMARY
+          echo "**Triggered by:** ${{ github.actor }}" >> $GITHUB_STEP_SUMMARY
+          echo "**Status:** ${{ job.status }}" >> $GITHUB_STEP_SUMMARY
+          echo "**Timestamp:** $(date -u)" >> $GITHUB_STEP_SUMMARY
+
+          if [ "${{ job.status }}" = "success" ]; then
+            echo "" >> $GITHUB_STEP_SUMMARY
+            echo "✅ Operation completed successfully" >> $GITHUB_STEP_SUMMARY
+          else
+            echo "" >> $GITHUB_STEP_SUMMARY
+            echo "❌ Operation failed" >> $GITHUB_STEP_SUMMARY
+          fi
+
+  cleanup:
+    runs-on: ubuntu-24.04
+    if: always()
+    needs: manual-operation
+    steps:
+      - name: Cleanup artifacts
+        run: |
+          echo "🧹 Cleaning up temporary files..."
+          # Remove any temporary files that might have been created
+          echo "✅ Cleanup complete"

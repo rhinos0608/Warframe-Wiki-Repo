@@ -1,0 +1,409 @@
+{
+  "data": [
+    {
+      "id": "68c7294e08eff8967489b040",
+      "activation": "2025-09-14T20:53:47.857Z",
+      "node": "Adaro (Sedna)",
+      "nodeKey": "Adaro (Sedna)",
+      "desc": "Corpus Siege",
+      "attacker": {
+        "reward": {
+          "items": [],
+          "countedItems": [
+            {
+              "count": 1,
+              "type": "Snipetron Vandal Blueprint",
+              "key": "Snipetron Vandal Blueprint"
+            }
+          ],
+          "credits": 0,
+          "thumbnail": "https://cdn.warframestat.us/img/dera-vandal.png",
+          "color": 6052435
+        },
+        "faction": "Corpus",
+        "factionKey": "Corpus"
+      },
+      "defender": {
+        "reward": {
+          "items": [],
+          "countedItems": [
+            {
+              "count": 1,
+              "type": "Sheev Heatsink",
+              "key": "Sheev Heatsink"
+            }
+          ],
+          "credits": 0,
+          "thumbnail": "",
+          "color": 5198940
+        },
+        "faction": "Grineer",
+        "factionKey": "Grineer"
+      },
+      "vsInfestation": false,
+      "count": 26471,
+      "requiredRuns": 38000,
+      "completion": 84.83026315789473,
+      "completed": false,
+      "rewardTypes": [
+        "vandal",
+        "other"
+      ]
+    },
+    {
+      "id": "68c7294e08eff8967489b03f",
+      "activation": "2025-09-14T20:58:22.172Z",
+      "node": "Adaro (Sedna)",
+      "nodeKey": "Adaro (Sedna)",
+      "desc": "Corpus Siege",
+      "attacker": {
+        "reward": {
+          "items": [],
+          "countedItems": [
+            {
+              "count": 1,
+              "type": "Snipetron Vandal Receiver",
+              "key": "Snipetron Vandal Receiver"
+            }
+          ],
+          "credits": 0,
+          "thumbnail": "https://cdn.warframestat.us/img/dera-vandal.png",
+          "color": 6052435
+        },
+        "faction": "Corpus",
+        "factionKey": "Corpus"
+      },
+      "defender": {
+        "reward": {
+          "items": [],
+          "countedItems": [
+            {
+              "count": 1,
+              "type": "Sheev Blueprint",
+              "key": "Sheev Blueprint"
+            }
+          ],
+          "credits": 0,
+          "thumbnail": "",
+          "color": 5198940
+        },
+        "faction": "Grineer",
+        "factionKey": "Grineer"
+      },
+      "vsInfestation": false,
+      "count": 0,
+      "requiredRuns": 31000,
+      "completion": 50,
+      "completed": false,
+      "rewardTypes": [
+        "vandal",
+        "other"
+      ]
+    },
+    {
+      "id": "68c6032b1982da300289b03e",
+      "activation": "2025-09-14T20:15:23.189Z",
+      "node": "Sorath (Europa)",
+      "nodeKey": "Sorath (Europa)",
+      "desc": "Grineer Offensive",
+      "attacker": {
+        "reward": {
+          "items": [],
+          "countedItems": [
+            {
+              "count": 3,
+              "type": "Detonite Injector",
+              "key": "Detonite Injector"
+            }
+          ],
+          "credits": 0,
+          "thumbnail": "https://cdn.warframestat.us/img/detonite-injector.png",
+          "color": 5068118
+        },
+        "faction": "Grineer",
+        "factionKey": "Grineer"
+      },
+      "defender": {
+        "reward": {
+          "items": [],
+          "countedItems": [
+            {
+              "count": 3,
+              "type": "Fieldron",
+              "key": "Fieldron"
+            }
+          ],
+          "credits": 0,
+          "thumbnail": "https://cdn.warframestat.us/img/fieldron.png",
+          "color": 5068118
+        },
+        "faction": "Corpus",
+        "factionKey": "Corpus"
+      },
+      "vsInfestation": false,
+      "count": -35100,
+      "requiredRuns": 35000,
+      "completion": -0.14285714285714457,
+      "completed": true,
+      "rewardTypes": [
+        "detonite",
+        "fieldron"
+      ]
+    },
+    {
+      "id": "68c9296a22c057f49989b03e",
+      "activation": "2025-09-16T10:34:37.041Z",
+      "node": "Ara (Mars)",
+      "nodeKey": "Ara (Mars)",
+      "desc": "Infested Outbreak",
+      "attacker": {
+        "faction": "Infested",
+        "factionKey": "Infested"
+      },
+      "defender": {
+        "reward": {
+          "items": [],
+          "countedItems": [
+            {
+              "count": 3,
+              "type": "Detonite Injector",
+              "key": "Detonite Injector"
+            }
+          ],
+          "credits": 0,
+          "thumbnail": "https://cdn.warframestat.us/img/detonite-injector.png",
+          "color": 5068118
+        },
+        "faction": "Grineer",
+        "factionKey": "Grineer"
+      },
+      "vsInfestation": true,
+      "count": -44103,
+      "requiredRuns": 44000,
+      "completion": -0.23409090909090047,
+      "completed": true,
+      "rewardTypes": [
+        "detonite"
+      ]
+    },
+    {
+      "id": "68c96786935e81c8dd89b03e",
+      "activation": "2025-09-16T13:35:02.406Z",
+      "node": "Alator (Mars)",
+      "nodeKey": "Alator (Mars)",
+      "desc": "Infested Outbreak",
+      "attacker": {
+        "faction": "Infested",
+        "factionKey": "Infested"
+      },
+      "defender": {
+        "reward": {
+          "items": [],
+          "countedItems": [
+            {
+              "count": 3,
+              "type": "Detonite Injector",
+              "key": "Detonite Injector"
+            }
+          ],
+          "credits": 0,
+          "thumbnail": "https://cdn.warframestat.us/img/detonite-injector.png",
+          "color": 5068118
+        },
+        "faction": "Grineer",
+        "factionKey": "Grineer"
+      },
+      "vsInfestation": true,
+      "count": -43816,
+      "requiredRuns": 43000,
+      "completion": -1.8976744186046446,
+      "completed": true,
+      "rewardTypes": [
+        "detonite"
+      ]
+    },
+    {
+      "id": "68c9377a7fccc3780489b03e",
+      "activation": "2025-09-16T11:56:01.276Z",
+      "node": "Monolith (Phobos)",
+      "nodeKey": "Monolith (Phobos)",
+      "desc": "Infested Outbreak",
+      "attacker": {
+        "faction": "Infested",
+        "factionKey": "Infested"
+      },
+      "defender": {
+        "reward": {
+          "items": [],
+          "countedItems": [
+            {
+              "count": 3,
+              "type": "Fieldron",
+              "key": "Fieldron"
+            }
+          ],
+          "credits": 0,
+          "thumbnail": "https://cdn.warframestat.us/img/fieldron.png",
+          "color": 5068118
+        },
+        "faction": "Corpus",
+        "factionKey": "Corpus"
+      },
+      "vsInfestation": true,
+      "count": -44867,
+      "requiredRuns": 44000,
+      "completion": -1.9704545454545475,
+      "completed": true,
+      "rewardTypes": [
+        "fieldron"
+      ]
+    },
+    {
+      "id": "68c968b273809e4f1f89b044",
+      "activation": "2025-09-16T13:40:02.241Z",
+      "node": "Skyresh (Phobos)",
+      "nodeKey": "Skyresh (Phobos)",
+      "desc": "Infested Outbreak",
+      "attacker": {
+        "faction": "Infested",
+        "factionKey": "Infested"
+      },
+      "defender": {
+        "reward": {
+          "items": [],
+          "countedItems": [
+            {
+              "count": 1,
+              "type": "Mutalist Alad V Nav Coordinate",
+              "key": "Mutalist Alad V Nav Coordinate"
+            }
+          ],
+          "credits": 0,
+          "thumbnail": "https://cdn.warframestat.us/img/mutalist-alad-v-nav-coordinate.png",
+          "color": 158519
+        },
+        "faction": "Corpus",
+        "factionKey": "Corpus"
+      },
+      "vsInfestation": true,
+      "count": -33468,
+      "requiredRuns": 33000,
+      "completion": -1.4181818181818073,
+      "completed": true,
+      "rewardTypes": [
+        "mutalist"
+      ]
+    },
+    {
+      "id": "68c968b273809e4f1f89b045",
+      "activation": "2025-09-16T13:40:02.241Z",
+      "node": "Iliad (Phobos)",
+      "nodeKey": "Iliad (Phobos)",
+      "desc": "Phorid Manifestation",
+      "attacker": {
+        "faction": "Infested",
+        "factionKey": "Infested"
+      },
+      "defender": {
+        "reward": {
+          "items": [],
+          "countedItems": [
+            {
+              "count": 2,
+              "type": "Mutagen Mass",
+              "key": "Mutagen Mass"
+            }
+          ],
+          "credits": 0,
+          "thumbnail": "https://cdn.warframestat.us/img/mutagen-mass.png",
+          "color": 5068118
+        },
+        "faction": "Corpus",
+        "factionKey": "Corpus"
+      },
+      "vsInfestation": true,
+      "count": -15048,
+      "requiredRuns": 30000,
+      "completion": 49.839999999999996,
+      "completed": false,
+      "rewardTypes": [
+        "mutagen"
+      ]
+    },
+    {
+      "id": "68c985ff18045e36cb89b03f",
+      "activation": "2025-09-16T15:45:02.646Z",
+      "node": "Stickney (Phobos)",
+      "nodeKey": "Stickney (Phobos)",
+      "desc": "Infested Outbreak",
+      "attacker": {
+        "faction": "Infested",
+        "factionKey": "Infested"
+      },
+      "defender": {
+        "reward": {
+          "items": [],
+          "countedItems": [
+            {
+              "count": 2,
+              "type": "Mutagen Mass",
+              "key": "Mutagen Mass"
+            }
+          ],
+          "credits": 0,
+          "thumbnail": "https://cdn.warframestat.us/img/mutagen-mass.png",
+          "color": 5068118
+        },
+        "faction": "Corpus",
+        "factionKey": "Corpus"
+      },
+      "vsInfestation": true,
+      "count": -32373,
+      "requiredRuns": 32000,
+      "completion": -1.1656249999999924,
+      "completed": true,
+      "rewardTypes": [
+        "mutagen"
+      ]
+    },
+    {
+      "id": "68c9c79ea4a9b46d3689b03e",
+      "activation": "2025-09-16T21:56:26.668Z",
+      "node": "Nuovo (Ceres)",
+      "nodeKey": "Nuovo (Ceres)",
+      "desc": "Infested Outbreak",
+      "attacker": {
+        "faction": "Infested",
+        "factionKey": "Infested"
+      },
+      "defender": {
+        "reward": {
+          "items": [],
+          "countedItems": [
+            {
+              "count": 3,
+              "type": "Detonite Injector",
+              "key": "Detonite Injector"
+            }
+          ],
+          "credits": 0,
+          "thumbnail": "https://cdn.warframestat.us/img/detonite-injector.png",
+          "color": 5068118
+        },
+        "faction": "Grineer",
+        "factionKey": "Grineer"
+      },
+      "vsInfestation": true,
+      "count": -379,
+      "requiredRuns": 38000,
+      "completion": 99.00263157894736,
+      "completed": false,
+      "rewardTypes": [
+        "detonite"
+      ]
+    }
+  ],
+  "timestamp": "2025-09-17T09:04:00.492821",
+  "etag": "W/\"1924-Lxjb7Rxpz3+PwqolyfVEF7pYT6k\"",
+  "endpoint": "https://api.warframestat.us/pc/invasions"
+}

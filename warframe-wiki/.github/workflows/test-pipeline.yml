@@ -1,0 +1,437 @@
+name: Test Pipeline
+
+on:
+  pull_request:
+    branches: [ main, develop ]
+    paths:
+      - 'warframe-wiki/**'
+      - '.github/workflows/**'
+  push:
+    branches: [ develop ]
+  workflow_dispatch:
+    inputs:
+      test_scope:
+        description: 'Test scope'
+        required: false
+        default: 'unit'
+        type: choice
+        options:
+          - unit
+          - integration
+          - full
+
+env:
+  PYTHON_VERSION: '3.11'
+
+jobs:
+  lint-and-type-check:
+    runs-on: ubuntu-24.04
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r warframe-wiki/requirements.txt
+          pip install black isort flake8 mypy
+
+      - name: Run Black formatter check
+        run: |
+          black --check --diff warframe-wiki/meta/scripts/
+
+      - name: Run isort import sorting check
+        run: |
+          isort --check-only --diff warframe-wiki/meta/scripts/
+
+      - name: Run flake8 linting
+        run: |
+          flake8 warframe-wiki/meta/scripts/ --max-line-length=100 --extend-ignore=E203,W503
+
+      - name: Run type checking with mypy
+        run: |
+          mypy warframe-wiki/meta/scripts/ --ignore-missing-imports
+
+  unit-tests:
+    runs-on: ubuntu-24.04
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r warframe-wiki/requirements.txt
+          pip install pytest pytest-asyncio pytest-cov
+
+      - name: Create test directory
+        run: mkdir -p warframe-wiki/tests
+
+      - name: Create basic tests
+        run: |
+          cat > warframe-wiki/tests/test_wfcd_client.py << 'EOF'
+          import pytest
+          import asyncio
+          from unittest.mock import AsyncMock, patch
+          import sys
+          import os
+
+          # Add the scripts directory to the path
+          sys.path.insert(0, os.path.join(os.path.dirname(__file__), '../meta/scripts'))
+
+          from wfcd_client import WFCDClient, APIResponse
+
+          @pytest.mark.asyncio
+          async def test_client_init():
+              """Test WFCD client initialization"""
+              client = WFCDClient()
+              assert client.base_urls['items'] == 'https://api.warframestat.us'
+              assert 'pc' in client.platforms
+
+          @pytest.mark.asyncio
+          async def test_cache_path_generation():
+              """Test cache path generation"""
+              client = WFCDClient()
+              path = client._get_cache_path("test_endpoint")
+              assert path.suffix == '.json'
+              assert 'cache' in str(path)
+
+          def test_api_response_creation():
+              """Test APIResponse dataclass"""
+              from datetime import datetime
+              response = APIResponse(
+                  data={"test": "data"},
+                  timestamp=datetime.now()
+              )
+              assert response.data == {"test": "data"}
+              assert not response.cached
+          EOF
+
+          cat > warframe-wiki/tests/test_data_processor.py << 'EOF'
+          import pytest
+          from pathlib import Path
+          import tempfile
+          import sys
+          import os
+
+          # Add the scripts directory to the path
+          sys.path.insert(0, os.path.join(os.path.dirname(__file__), '../meta/scripts'))
+
+          from data_processor import WFDataProcessor
+
+          def test_sanitize_filename():
+              """Test filename sanitization"""
+              processor = WFDataProcessor(Path("/tmp"))
+
+              # Test basic sanitization
+              assert processor.sanitize_filename("Braton Prime") == "braton-prime"
+              assert processor.sanitize_filename("Nikana Prime") == "nikana-prime"
+              assert processor.sanitize_filename("Test/Item:Name") == "testitemname"
+
+          def test_category_path_determination():
+              """Test category path determination"""
+              processor = WFDataProcessor(Path("/tmp"))
+
+              # Test weapon categorization
+              weapon_item = {"type": "Primary", "category": "Assault Rifle"}
+              assert processor.determine_category_path(weapon_item) == "weapons/primary"
+
+              # Test warframe categorization
+              warframe_item = {"type": "Warframes", "category": ""}
+              assert processor.determine_category_path(warframe_item) == "warframes"
+
+          def test_damage_data_extraction():
+              """Test damage data extraction"""
+              processor = WFDataProcessor(Path("/tmp"))
+
+              weapon_data = {
+                  "damage": {
+                      "impact": 10.0,
+                      "puncture": 15.0,
+                      "slash": 25.0
+                  }
+              }
+
+              damage = processor.extract_damage_data(weapon_data)
+              assert damage is not None
+              assert damage["Impact"] == 10.0
+              assert damage["Puncture"] == 15.0
+              assert damage["Slash"] == 25.0
+          EOF
+
+      - name: Run unit tests
+        run: |
+          cd warframe-wiki
+          python -m pytest tests/ -v --cov=meta/scripts --cov-report=xml
+
+      - name: Upload coverage reports
+        uses: codecov/codecov-action@v3
+        with:
+          file: ./warframe-wiki/coverage.xml
+          fail_ci_if_error: false
+
+  integration-tests:
+    runs-on: ubuntu-24.04
+    if: github.event.inputs.test_scope == 'integration' || github.event.inputs.test_scope == 'full'
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r warframe-wiki/requirements.txt
+
+      - name: Install system dependencies for PDF generation
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y \
+            libpango-1.0-0 \
+            libharfbuzz0b \
+            libpangoft2-1.0-0 \
+            libgdk-pixbuf2.0-0 \
+            libffi-dev \
+            shared-mime-info
+
+      - name: Test WFCD API connectivity
+        run: |
+          cd warframe-wiki/meta/scripts
+          python -c "
+          import asyncio
+          from wfcd_client import WFCDClient
+
+          async def test_api():
+              async with WFCDClient() as client:
+                  response = await client.get_warframes()
+                  print(f'Fetched {len(response.data)} warframes')
+                  assert len(response.data) > 0
+                  print('✅ WFCD API connectivity test passed')
+
+          asyncio.run(test_api())
+          "
+
+      - name: Test change detection
+        run: |
+          cd warframe-wiki/meta/scripts
+          # Test change detection with forced update
+          python detect_game_changes.py --force-update --output-format text --verbose
+
+      - name: Test data processing with sample data
+        run: |
+          cd warframe-wiki/meta/scripts
+
+          # Create sample API data
+          mkdir -p ../../../test_output
+
+          python -c "
+          import json
+          import asyncio
+          from wfcd_client import WFCDClient
+          from data_processor import WFDataProcessor
+
+          async def test_processing():
+              # Fetch small sample of data
+              async with WFCDClient() as client:
+                  warframes = await client.get_warframes()
+
+                  # Take only first few items for testing
+                  sample_data = warframes.data[:3] if len(warframes.data) > 3 else warframes.data
+                  warframes.data = sample_data
+
+                  # Process sample data
+                  processor = WFDataProcessor('../../../test_output')
+                  processed = await processor.process_api_response(warframes, 'Warframes')
+
+                  print(f'✅ Processed {len(processed)} sample items')
+                  return len(processed) > 0
+
+          result = asyncio.run(test_processing())
+          assert result
+          "
+
+      - name: Test PDF generation
+        run: |
+          cd warframe-wiki/meta/scripts
+
+          # Test PDF generation with sample file
+          mkdir -p ../../../test_content
+          cat > ../../../test_content/test-item.md << 'EOF'
+          ---
+          name: "Test Item"
+          type: "Primary Weapon"
+          mastery_rank: 5
+          damage_types:
+            Impact: 10
+            Puncture: 15
+            Slash: 25
+          fire_rate: 8.8
+          crit_chance: 0.25
+          status_chance: 0.15
+          ---
+
+          # Test Item
+
+          This is a test item for PDF generation.
+
+          ## Overview
+          Test item with sample stats.
+          EOF
+
+          python -c "
+          from pdf_generator import WarframePDFGenerator
+          import tempfile
+
+          generator = WarframePDFGenerator('../../../', '../../../test_pdfs')
+          success = generator.generate_pdf('../../../test_content/test-item.md')
+          print(f'✅ PDF generation test: {success}')
+          assert success
+          "
+
+  security-scan:
+    runs-on: ubuntu-24.04
+    if: github.event_name == 'pull_request'
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+
+      - name: Install security scanning tools
+        run: |
+          python -m pip install --upgrade pip
+          pip install bandit safety
+
+      - name: Run Bandit security scan
+        run: |
+          bandit -r warframe-wiki/meta/scripts/ -f json -o bandit-report.json || true
+          bandit -r warframe-wiki/meta/scripts/
+
+      - name: Run Safety dependency check
+        run: |
+          safety check --json --output safety-report.json || true
+          safety check
+
+      - name: Upload security reports
+        uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: security-reports
+          path: |
+            bandit-report.json
+            safety-report.json
+
+  performance-test:
+    runs-on: ubuntu-24.04
+    if: github.event.inputs.test_scope == 'full'
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r warframe-wiki/requirements.txt
+          pip install memory-profiler
+
+      - name: Performance test - API fetching
+        run: |
+          cd warframe-wiki/meta/scripts
+          python -c "
+          import asyncio
+          import time
+          from wfcd_client import WFCDClient
+
+          async def performance_test():
+              start_time = time.time()
+
+              async with WFCDClient() as client:
+                  # Test concurrent API calls
+                  tasks = [
+                      client.get_warframes(),
+                      client.get_weapons(),
+                      client.get_mods()
+                  ]
+
+                  results = await asyncio.gather(*tasks)
+
+              end_time = time.time()
+              duration = end_time - start_time
+
+              print(f'✅ Fetched data from 3 APIs in {duration:.2f} seconds')
+              assert duration < 30  # Should complete within 30 seconds
+
+              total_items = sum(len(r.data) for r in results if r and r.data)
+              print(f'Total items fetched: {total_items}')
+
+          asyncio.run(performance_test())
+          "
+
+      - name: Memory usage test
+        run: |
+          cd warframe-wiki/meta/scripts
+          mprof run --python python -c "
+          import asyncio
+          from wfcd_client import WFCDClient
+
+          async def memory_test():
+              async with WFCDClient() as client:
+                  result = await client.batch_fetch_all_data()
+                  print(f'Batch fetch completed')
+
+          asyncio.run(memory_test())
+          "
+
+          mprof plot -o memory_usage.png || echo "Memory plot generation failed (no display)"
+          echo "✅ Memory usage test completed"
+
+  test-summary:
+    needs: [lint-and-type-check, unit-tests, integration-tests, security-scan]
+    if: always()
+    runs-on: ubuntu-24.04
+    steps:
+      - name: Test Summary
+        run: |
+          echo "# Test Pipeline Summary" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "| Test Suite | Status |" >> $GITHUB_STEP_SUMMARY
+          echo "|------------|--------|" >> $GITHUB_STEP_SUMMARY
+          echo "| Lint & Type Check | ${{ needs.lint-and-type-check.result }} |" >> $GITHUB_STEP_SUMMARY
+          echo "| Unit Tests | ${{ needs.unit-tests.result }} |" >> $GITHUB_STEP_SUMMARY
+          echo "| Integration Tests | ${{ needs.integration-tests.result }} |" >> $GITHUB_STEP_SUMMARY
+          echo "| Security Scan | ${{ needs.security-scan.result }} |" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+
+          # Check if any critical tests failed
+          if [[ "${{ needs.lint-and-type-check.result }}" == "failure" || "${{ needs.unit-tests.result }}" == "failure" ]]; then
+            echo "❌ Critical tests failed" >> $GITHUB_STEP_SUMMARY
+            exit 1
+          else
+            echo "✅ All critical tests passed" >> $GITHUB_STEP_SUMMARY
+          fi

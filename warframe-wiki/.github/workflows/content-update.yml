@@ -1,0 +1,275 @@
+name: Warframe Content Update Pipeline
+
+on:
+  schedule:
+    # Run every 6 hours to check for game updates
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+    inputs:
+      force_update:
+        description: 'Force full content update'
+        required: false
+        default: 'false'
+        type: boolean
+      categories:
+        description: 'Categories to update (comma-separated: warframes,weapons,mods,relics)'
+        required: false
+        default: 'all'
+        type: string
+      generate_pdfs:
+        description: 'Generate PDFs'
+        required: false
+        default: 'true'
+        type: boolean
+  repository_dispatch:
+    types: [external-trigger, game-update]
+
+env:
+  PYTHON_VERSION: '3.11'
+  WFCD_CACHE_TTL: '3600'  # 1 hour cache
+
+jobs:
+  detect-changes:
+    runs-on: ubuntu-24.04
+    outputs:
+      has-changes: ${{ steps.check.outputs.changed }}
+      affected-categories: ${{ steps.check.outputs.categories }}
+      summary: ${{ steps.check.outputs.summary }}
+      new-items: ${{ steps.check.outputs.new_items_count }}
+      modified-items: ${{ steps.check.outputs.modified_items_count }}
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.BOT_GITHUB_TOKEN || github.token }}
+          fetch-depth: 1
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+          cache: 'pip'
+
+      - name: Cache WFCD API responses
+        uses: actions/cache@v4
+        with:
+          path: |
+            warframe-wiki/cache
+            warframe-wiki/.game-state.json
+          key: wfcd-cache-${{ runner.os }}-${{ hashFiles('warframe-wiki/.game-state.json') }}
+          restore-keys: |
+            wfcd-cache-${{ runner.os }}-
+
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r warframe-wiki/requirements.txt
+
+      - name: Check for game updates
+        id: check
+        env:
+          FORCE_UPDATE: ${{ github.event.inputs.force_update }}
+        working-directory: warframe-wiki/meta/scripts
+        run: |
+          # Set force update flag if requested
+          ARGS=""
+          if [[ "$FORCE_UPDATE" == "true" ]]; then
+            ARGS="--force-update"
+          fi
+
+          # Run change detection with GitHub output format
+          python detect_game_changes.py $ARGS --output-format github --verbose
+
+      - name: Log change detection results
+        run: |
+          echo "Change Detection Results:"
+          echo "Has Changes: ${{ steps.check.outputs.changed }}"
+          echo "Categories: ${{ steps.check.outputs.categories }}"
+          echo "Summary: ${{ steps.check.outputs.summary }}"
+          echo "New Items: ${{ steps.check.outputs.new_items_count }}"
+          echo "Modified Items: ${{ steps.check.outputs.modified_items_count }}"
+
+  update-content:
+    needs: detect-changes
+    if: needs.detect-changes.outputs.has-changes == 'true' || github.event.inputs.force_update == 'true'
+    runs-on: ubuntu-24.04
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.BOT_GITHUB_TOKEN || github.token }}
+          fetch-depth: 1
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+          cache: 'pip'
+
+      - name: Restore WFCD cache
+        uses: actions/cache@v4
+        with:
+          path: |
+            warframe-wiki/cache
+            warframe-wiki/.game-state.json
+          key: wfcd-cache-${{ runner.os }}-${{ hashFiles('warframe-wiki/.game-state.json') }}
+          restore-keys: |
+            wfcd-cache-${{ runner.os }}-
+
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r warframe-wiki/requirements.txt
+
+      - name: Install system dependencies for PDF generation
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y \
+            libpango-1.0-0 \
+            libharfbuzz0b \
+            libpangoft2-1.0-0 \
+            libgdk-pixbuf2.0-0 \
+            libffi-dev \
+            shared-mime-info
+
+      - name: Set up Git configuration
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "Warframe Wiki Bot"
+
+      - name: Run content update pipeline
+        id: update
+        env:
+          CATEGORIES: ${{ github.event.inputs.categories }}
+          GENERATE_PDFS: ${{ github.event.inputs.generate_pdfs }}
+          FORCE_UPDATE: ${{ github.event.inputs.force_update }}
+        working-directory: warframe-wiki/meta/scripts
+        run: |
+          # Prepare arguments
+          ARGS="--verbose"
+
+          # Add force update if requested
+          if [[ "$FORCE_UPDATE" == "true" ]]; then
+            ARGS="$ARGS --force-update"
+          fi
+
+          # Add categories if specified
+          if [[ "$CATEGORIES" != "all" && -n "$CATEGORIES" ]]; then
+            IFS=',' read -ra CATEGORY_ARRAY <<< "$CATEGORIES"
+            ARGS="$ARGS --categories ${CATEGORY_ARRAY[@]}"
+          fi
+
+          # Disable PDFs if requested
+          if [[ "$GENERATE_PDFS" == "false" ]]; then
+            ARGS="$ARGS --no-pdfs"
+          fi
+
+          # Run the update pipeline
+          python update_content.py $ARGS
+
+      - name: Check for file changes
+        id: changes
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            echo "files-changed=true" >> $GITHUB_OUTPUT
+            git status --porcelain > changes.txt
+            echo "changed-files=$(wc -l < changes.txt)" >> $GITHUB_OUTPUT
+          else
+            echo "files-changed=false" >> $GITHUB_OUTPUT
+            echo "changed-files=0" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Generate commit message
+        id: commit-msg
+        if: steps.changes.outputs.files-changed == 'true'
+        run: |
+          # Read current game version
+          GAME_VERSION="Unknown"
+          if [[ -f "warframe-wiki/.game-version" ]]; then
+            GAME_VERSION=$(cat warframe-wiki/.game-version | head -1)
+          fi
+
+          # Generate comprehensive commit message
+          cat > commit_message.txt << EOF
+          Update Warframe content - $GAME_VERSION
+
+          ## Changes Summary
+          ${{ needs.detect-changes.outputs.summary }}
+
+          ## Details
+          - Categories affected: ${{ needs.detect-changes.outputs.affected-categories }}
+          - New items: ${{ needs.detect-changes.outputs.new-items }}
+          - Modified items: ${{ needs.detect-changes.outputs.modified-items }}
+          - Files changed: ${{ steps.changes.outputs.changed-files }}
+
+          ## Automation
+          - Triggered: ${{ github.event_name }}
+          - Timestamp: $(date -u +"%Y-%m-%d %H:%M:%S UTC")
+          - Workflow: ${{ github.workflow }}
+
+          🤖 Generated with [Claude Code](https://claude.ai/code)
+
+          Co-Authored-By: Claude <noreply@anthropic.com>
+          EOF
+
+      - name: Commit and push changes
+        if: steps.changes.outputs.files-changed == 'true'
+        run: |
+          # Add all changed files
+          git add warframe-wiki/
+
+          # Create commit with detailed message
+          git commit -F commit_message.txt
+
+          # Push changes
+          git push
+
+      - name: Create summary comment
+        if: steps.changes.outputs.files-changed == 'true'
+        run: |
+          echo "## ✅ Content Update Complete" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "**Changes:** ${{ needs.detect-changes.outputs.summary }}" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "**Categories Updated:** ${{ needs.detect-changes.outputs.affected-categories }}" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "**Files Changed:** ${{ steps.changes.outputs.changed-files }}" >> $GITHUB_STEP_SUMMARY
+
+  notify-completion:
+    needs: [detect-changes, update-content]
+    if: always() && (needs.detect-changes.outputs.has-changes == 'true' || github.event.inputs.force_update == 'true')
+    runs-on: ubuntu-24.04
+    steps:
+      - name: Notify completion status
+        run: |
+          if [[ "${{ needs.update-content.result }}" == "success" ]]; then
+            echo "✅ Content update completed successfully"
+            echo "NOTIFICATION_STATUS=success" >> $GITHUB_ENV
+          else
+            echo "❌ Content update failed"
+            echo "NOTIFICATION_STATUS=failure" >> $GITHUB_ENV
+          fi
+
+          echo "Summary: ${{ needs.detect-changes.outputs.summary }}"
+
+      - name: Create workflow summary
+        run: |
+          echo "# Warframe Wiki Update Summary" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "**Status:** ${{ env.NOTIFICATION_STATUS }}" >> $GITHUB_STEP_SUMMARY
+          echo "**Trigger:** ${{ github.event_name }}" >> $GITHUB_STEP_SUMMARY
+          echo "**Changes Detected:** ${{ needs.detect-changes.outputs.has-changes }}" >> $GITHUB_STEP_SUMMARY
+          echo "**Categories:** ${{ needs.detect-changes.outputs.affected-categories }}" >> $GITHUB_STEP_SUMMARY
+          echo "**Timestamp:** $(date -u)" >> $GITHUB_STEP_SUMMARY
+
+  cleanup-old-runs:
+    runs-on: ubuntu-24.04
+    if: github.event_name == 'schedule'  # Only run cleanup on scheduled builds
+    steps:
+      - name: Delete old workflow runs
+        uses: Mattraks/delete-workflow-runs@v2
+        with:
+          token: ${{ github.token }}
+          repository: ${{ github.repository }}
+          retain_days: 7
+          keep_minimum_runs: 5

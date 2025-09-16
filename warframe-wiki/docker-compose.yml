@@ -1,0 +1,166 @@
+version: '3.8'
+
+services:
+  # Main application
+  warframe-wiki:
+    build:
+      context: .
+      target: development
+    container_name: warframe-wiki-app
+    volumes:
+      - .:/app
+      - wiki_cache:/app/cache
+      - wiki_pdfs:/app/pdfs
+      - wiki_images:/app/images
+    environment:
+      - ENVIRONMENT=development
+      - LOG_LEVEL=DEBUG
+      - PYTHONPATH=/app/meta/scripts
+    networks:
+      - warframe-network
+    depends_on:
+      - qdrant
+      - redis
+    command: >
+      bash -c "
+        echo 'Starting Warframe Wiki development environment...' &&
+        tail -f /dev/null
+      "
+
+  # Vector database for RAG
+  qdrant:
+    image: qdrant/qdrant:v1.7.0
+    container_name: warframe-qdrant
+    ports:
+      - "6333:6333"
+      - "6334:6334"
+    volumes:
+      - qdrant_data:/qdrant/storage
+    environment:
+      - QDRANT__SERVICE__HTTP_PORT=6333
+      - QDRANT__SERVICE__GRPC_PORT=6334
+    networks:
+      - warframe-network
+    restart: unless-stopped
+
+  # Redis for caching
+  redis:
+    image: redis:7-alpine
+    container_name: warframe-redis
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis_data:/data
+    command: redis-server --appendonly yes
+    networks:
+      - warframe-network
+    restart: unless-stopped
+
+  # FastAPI service (when implemented)
+  api-service:
+    build:
+      context: .
+      target: development
+    container_name: warframe-api
+    ports:
+      - "8000:8000"
+    volumes:
+      - .:/app
+      - wiki_cache:/app/cache
+    environment:
+      - ENVIRONMENT=development
+      - QDRANT_HOST=qdrant
+      - REDIS_HOST=redis
+      - LOG_LEVEL=INFO
+    networks:
+      - warframe-network
+    depends_on:
+      - qdrant
+      - redis
+    command: >
+      bash -c "
+        echo 'Waiting for dependencies...' &&
+        sleep 10 &&
+        echo 'Starting FastAPI service...' &&
+        uvicorn src.api.main:app --host 0.0.0.0 --port 8000 --reload
+      "
+    profiles:
+      - api
+
+  # Discord bot (when implemented)
+  discord-bot:
+    build:
+      context: .
+      dockerfile: discord-bot/Dockerfile
+    container_name: warframe-discord-bot
+    volumes:
+      - ./discord-bot:/app
+    environment:
+      - NODE_ENV=development
+      - API_BASE_URL=http://api-service:8000
+    networks:
+      - warframe-network
+    depends_on:
+      - api-service
+    profiles:
+      - bot
+
+  # Development tools
+  jupyter:
+    build:
+      context: .
+      target: development
+    container_name: warframe-jupyter
+    ports:
+      - "8888:8888"
+    volumes:
+      - .:/app
+      - wiki_cache:/app/cache
+    environment:
+      - JUPYTER_ENABLE_LAB=yes
+    networks:
+      - warframe-network
+    command: >
+      bash -c "
+        pip install jupyter jupyterlab &&
+        jupyter lab --ip=0.0.0.0 --port=8888 --no-browser --allow-root --notebook-dir=/app
+      "
+    profiles:
+      - tools
+
+  # Database management UI for Qdrant
+  qdrant-web:
+    image: qdrant/qdrant:v1.7.0
+    container_name: warframe-qdrant-web
+    ports:
+      - "6333:6333"
+    environment:
+      - QDRANT__SERVICE__HTTP_PORT=6333
+    networks:
+      - warframe-network
+    depends_on:
+      - qdrant
+    command: ./qdrant --config-path config/config.yaml
+    profiles:
+      - tools
+
+# Named volumes for data persistence
+volumes:
+  qdrant_data:
+    driver: local
+  redis_data:
+    driver: local
+  wiki_cache:
+    driver: local
+  wiki_pdfs:
+    driver: local
+  wiki_images:
+    driver: local
+
+# Custom network
+networks:
+  warframe-network:
+    driver: bridge
+
+# Additional compose files for different environments
+# Use with: docker-compose -f docker-compose.yml -f docker-compose.prod.yml up

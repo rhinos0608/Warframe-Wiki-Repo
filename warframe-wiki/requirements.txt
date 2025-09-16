@@ -1,0 +1,46 @@
+# Core Dependencies
+pyyaml>=6.0.1
+markdown>=3.5.1
+requests>=2.31.0
+python-frontmatter>=1.0.1
+
+# PDF Generation
+weasyprint>=60.2
+cffi>=1.16.0
+
+# Data Processing & APIs
+pydantic>=2.5.0
+fastapi>=0.104.0
+uvicorn>=0.24.0
+
+# Vector Database & AI
+qdrant-client>=1.7.0
+openai>=1.6.1
+langchain>=0.1.0
+langchain-openai>=0.0.2
+sentence-transformers>=2.2.2
+
+# Git Automation
+GitPython>=3.1.40
+
+# CLI & Utilities
+click>=8.1.7
+rich>=13.7.0
+httpx>=0.26.0
+tenacity>=8.2.3
+aiofiles>=23.2.1
+aiohttp>=3.9.1
+
+# Development & Testing
+pytest>=7.4.3
+pytest-asyncio>=0.21.1
+black>=23.11.0
+isort>=5.12.0
+flake8>=6.1.0
+
+# Discord Bot (Optional)
+discord.py>=2.3.2
+
+# Web Dashboard (Optional)
+jinja2>=3.1.2
+aiofiles>=23.2.1
