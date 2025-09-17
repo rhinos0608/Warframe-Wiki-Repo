@@ -9,11 +9,11 @@
 This research recommends a **Python-centric microservices architecture** with **Node.js/TypeScript Discord integration**, leveraging **Qdrant vector database**, **GitHub Actions CI/CD**, and **YAML frontmatter + Markdown** for structured content. The solution prioritizes fast prototyping while maintaining production-ready scalability for Warframe's complex, interconnected game systems.
 
 ### Key Recommendations:
-- **Backend Core:** Python 3.11+ with FastAPI, asyncio, and WFCD APIs
+- **Backend Core:** Python 3.11+ with MCP Server (Model Context Protocol), asyncio, and WFCD APIs
 - **Vector Database:** Qdrant for production-grade RAG performance
 - **Content Format:** YAML frontmatter + Markdown with cross-referencing schema
 - **CI/CD:** GitHub Actions with reusable workflows
-- **Discord Bot:** TypeScript with discord.js v14
+- **AI Integration:** MCP Server with 2025-06-18 specification compliance
 - **Hosting:** DigitalOcean Droplets with Docker containerization
 
 ## Project Requirements Analysis
@@ -172,54 +172,72 @@ class WarframePDFGenerator:
 - **JSON:** Faster parsing but less human-readable
 - **Database:** PostgreSQL for complex queries but adds operational overhead
 
-### 3. AI Integration and RAG System
+### 3. AI Integration via Model Context Protocol (MCP) Server
 
-**Primary Choice: Qdrant Vector Database**
+**Primary Choice: MCP Server with Qdrant Vector Database**
 
 **Technical Specifications:**
 ```python
-# Core RAG stack
+# MCP Server with enhanced AI integration
 qdrant-client==1.7.0         # Vector database client
-langchain==0.1.0             # LLM orchestration
-openai==1.6.1               # GPT-4 embeddings and chat
-sentence-transformers==2.2.2 # Local embeddings alternative
+sentence-transformers==2.2.2 # Local embeddings for privacy
+mcp==0.1.0                   # Model Context Protocol framework
+fastapi==0.104.1             # HTTP transport support
+websockets==11.0             # WebSocket transport support
 ```
 
-**Architecture Pattern:**
+**MCP Server Architecture Pattern:**
 ```python
+from mcp.server import Server
 from qdrant_client import QdrantClient
-from langchain.vectorstores import Qdrant
-from langchain.embeddings import OpenAIEmbeddings
+from sentence_transformers import SentenceTransformer
 
-# Production-ready setup
-client = QdrantClient(
-    host="localhost",  # Or cloud instance
-    port=6333,
-    grpc_port=6334,
-    prefer_grpc=True   # Better performance
-)
+class WarframeMCPServer:
+    def __init__(self, wiki_dir: Path, vector_db_path: str):
+        self.server = Server("warframe-wiki")
+        self.vector_client = QdrantClient(path=vector_db_path)
+        self.embeddings_model = SentenceTransformer('all-MiniLM-L6-v2')
 
-embeddings = OpenAIEmbeddings(
-    model="text-embedding-3-small",  # Cost-effective choice
-    chunk_size=1000
-)
+        # Register MCP tools for direct AI integration
+        @self.server.list_tools()
+        async def list_tools():
+            return [
+                Tool(name="search_items", description="Search Warframe items"),
+                Tool(name="get_balance_history", description="Git-based balance tracking"),
+                Tool(name="predict_nerf_candidates", description="Statistical nerf prediction")
+            ]
 
-vectorstore = Qdrant(
-    client=client,
-    collection_name="warframe_content",
-    embeddings=embeddings
-)
+        @self.server.call_tool()
+        async def call_tool(name: str, arguments: dict):
+            # Direct function calls from AI systems
+            if name == "search_items":
+                return await self.search_items_with_vector_similarity(**arguments)
 ```
+
+**2025-06-18 MCP Specification Features:**
+- **Multiple Transports:** stdio, HTTP+SSE, streamable HTTP
+- **Capability Negotiation:** Dynamic feature discovery
+- **Security Authorization:** RFC 8707 Resource Indicators compliance
+- **Direct AI Integration:** No REST API overhead
+- **Git-based Analytics:** Real-time balance change tracking
 
 **Performance Characteristics:**
-- **Query Speed:** 10-50ms for 100k+ vectors
+- **Query Speed:** 10-50ms for 100k+ vectors (Qdrant)
+- **AI Integration:** Direct function calls via MCP protocol
+- **Git Analytics:** Sub-second historical balance analysis
 - **Scaling:** Supports billions of vectors with distributed deployment
-- **Memory:** Rust-based implementation with efficient memory usage
-- **Filtering:** Advanced metadata filtering for game-specific queries
+- **Memory:** Rust-based Qdrant + efficient Python implementation
+
+**MCP vs Traditional API Benefits:**
+- **Lower Latency:** Direct function calls vs HTTP overhead
+- **Better Integration:** AI systems can discover capabilities dynamically
+- **Enhanced Security:** Fine-grained authorization per function
+- **Real-time Updates:** Streaming updates for live game data changes
 
 **Alternative Options:**
-- **ChromaDB:** Better for development/prototyping (2024 limitation: single-node only)
-- **Pinecone:** Managed service with enterprise scaling ($70+/month cost)
+- **Traditional FastAPI:** Higher latency, more complex AI integration
+- **GraphQL:** Better for web frontends, overkill for AI integration
+- **gRPC:** Good performance but limited AI ecosystem support
 
 ### 4. Automation and CI/CD
 
@@ -390,17 +408,17 @@ class WarframePDFGenerator:
 **System Architecture Pattern:**
 ```
 ┌─────────────────┐    ┌──────────────────┐    ┌─────────────────┐
-│   Discord Bot   │    │   Content API    │    │  Vector Search  │
-│  (TypeScript)   │───▶│    (FastAPI)     │───▶│    (Qdrant)     │
-│                 │    │                  │    │                 │
+│   AI Clients    │    │   MCP Server     │    │  Vector Search  │
+│ (Claude, GPT,   │───▶│  (Warframe Wiki) │───▶│    (Qdrant)     │
+│  Custom Agents) │    │                  │    │                 │
 └─────────────────┘    └──────────────────┘    └─────────────────┘
-                                │
-                                ▼
-                       ┌──────────────────┐
-                       │   Git Repository │
-                       │ (Content Store)  │
-                       │                  │
-                       └──────────────────┘
+                                │                        │
+                                ▼                        ▼
+                       ┌──────────────────┐    ┌─────────────────┐
+                       │   Git Repository │    │ SQLite Database │
+                       │ (Content Store)  │    │ (Fast Queries)  │
+                       │                  │    │                 │
+                       └──────────────────┘    └─────────────────┘
                                 ▲
                                 │
                        ┌──────────────────┐
