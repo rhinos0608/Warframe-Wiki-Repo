@@ -1,0 +1,397 @@
+---
+acquisition:
+- Void/Belenus (Defense), Rotation A
+- Void/Ani (Survival), Rotation A
+- Void/Taranis (Defense), Rotation B
+- Void/Ani (Survival), Rotation B
+- Void/Ani (Survival), Rotation C
+- Deimos/Cambion Drift (Level 25 - 30 Cambion Drift Bounty), Rotation A
+- Void/Belenus (Defense), Rotation C
+- Venus/Orb Vallis (Level 5 - 15 Orb Vallis Bounty), Rotation A
+- Venus/Orb Vallis (Level 5 - 15 Orb Vallis Bounty), Rotation B
+- Venus/Orb Vallis (Level 5 - 15 Orb Vallis Bounty), Rotation C
+- Deimos/Cambion Drift (Level 25 - 30 Cambion Drift Bounty), Rotation B
+- Deimos/Cambion Drift (Level 25 - 30 Cambion Drift Bounty), Rotation C
+- Deimos/Cambion Drift (Level 25 - 30 Cambion Drift Bounty), Rotation A
+- Deimos/Cambion Drift (Level 25 - 30 Cambion Drift Bounty), Rotation A
+- Deimos/Cambion Drift (Level 5 - 15 Cambion Drift Bounty), Rotation A
+- Deimos/Cambion Drift (Level 5 - 15 Cambion Drift Bounty), Rotation B
+- Deimos/Cambion Drift (Level 5 - 15 Cambion Drift Bounty), Rotation C
+- Deimos/Cambion Drift (Level 5 - 15 Cambion Drift Bounty), Rotation A
+- Deimos/Cambion Drift (Level 5 - 15 Cambion Drift Bounty), Rotation B
+- Deimos/Cambion Drift (Level 5 - 15 Cambion Drift Bounty), Rotation C
+- Deimos/Cambion Drift (Level 25 - 30 Cambion Drift Bounty), Rotation B
+- Deimos/Cambion Drift (Level 25 - 30 Cambion Drift Bounty), Rotation C
+- Deimos/Cambion Drift (Level 25 - 30 Cambion Drift Bounty), Rotation B
+- Deimos/Cambion Drift (Level 25 - 30 Cambion Drift Bounty), Rotation C
+- Earth/Cetus (Level 10 - 30 Cetus Bounty), Rotation A
+- Earth/Cetus (Level 10 - 30 Cetus Bounty), Rotation B
+- Earth/Cetus (Level 10 - 30 Cetus Bounty), Rotation C
+- Earth/Cetus (Level 10 - 30 Cetus Bounty), Rotation A
+- Earth/Cetus (Level 10 - 30 Cetus Bounty), Rotation B
+- Earth/Cetus (Level 10 - 30 Cetus Bounty), Rotation C
+- Void/Ani (Survival), Rotation C
+- Void/Aten (Mobile Defense)
+- Void/Marduk (Sabotage)
+- Void/Oxomoco (Exterminate)
+- Void/Stribog (Sabotage)
+- Void/Taranis (Defense), Rotation C
+- Void/Tiwaz (Mobile Defense)
+- Void/Ukko (Capture)
+- Void/Belenus (Defense), Rotation A
+- Void/Hepit (Capture)
+- Void/Taranis (Defense), Rotation A
+- Void/Teshub (Exterminate)
+- Venus/Orb Vallis (Level 10 - 30 Orb Vallis Bounty), Rotation A
+- Venus/Orb Vallis (Level 10 - 30 Orb Vallis Bounty), Rotation B
+- Venus/Orb Vallis (Level 10 - 30 Orb Vallis Bounty), Rotation C
+- Venus/Orb Vallis (Level 20 - 40 Orb Vallis Bounty), Rotation A
+- Venus/Orb Vallis (Level 20 - 40 Orb Vallis Bounty), Rotation B
+- Venus/Orb Vallis (Level 20 - 40 Orb Vallis Bounty), Rotation C
+- Earth/Cetus (Level 20 - 40 Cetus Bounty), Rotation A
+- Earth/Cetus (Level 20 - 40 Cetus Bounty), Rotation A
+- Höllvania (Level  95 - 100 WF1999 Bounty), Rotation C
+- Earth/Cetus (Level 20 - 40 Cetus Bounty), Rotation B
+- Höllvania (Level  105 - 110 WF1999 Bounty), Rotation C
+- Venus/Orb Vallis (Level 10 - 30 Orb Vallis Bounty), Rotation A
+- Venus/Orb Vallis (Level 10 - 30 Orb Vallis Bounty), Rotation B
+- Venus/Orb Vallis (Level 10 - 30 Orb Vallis Bounty), Rotation C
+- Venus/Orb Vallis (Level 20 - 40 Orb Vallis Bounty), Rotation A
+- Venus/Orb Vallis (Level 20 - 40 Orb Vallis Bounty), Rotation B
+- Venus/Orb Vallis (Level 20 - 40 Orb Vallis Bounty), Rotation C
+- Venus/Orb Vallis (Level 5 - 15 Orb Vallis Bounty), Rotation A
+- Venus/Orb Vallis (Level 5 - 15 Orb Vallis Bounty), Rotation B
+- Venus/Orb Vallis (Level 5 - 15 Orb Vallis Bounty), Rotation C
+- Earth/Cetus (Level 20 - 40 Cetus Bounty), Rotation B
+- Deimos/Albrecht's Laboratories (Level  65 - 70 Entrati Lab Bounty), Rotation C
+- Earth/Cetus (Level 20 - 40 Cetus Bounty), Rotation C
+- Zariman Ten Zero (Level  60 - 65 Zariman Bounty), Rotation C
+- Earth/Cetus (Level 20 - 40 Cetus Bounty), Rotation C
+- Deimos/Albrecht's Laboratories (Level  55 - 60 Entrati Lab Bounty), Rotation C
+- Zariman Ten Zero (Level  50 - 55 Zariman Bounty), Rotation C
+- Zariman Ten Zero (Level  70 - 75 Zariman Bounty), Rotation C
+- Höllvania (Level  75 - 80 WF1999 Bounty), Rotation C
+- Deimos/Albrecht's Laboratories (Level  75 - 80 Entrati Lab Bounty), Rotation C
+- Void/Belenus (Defense), Rotation B
+- Void/Mithra (Interception), Rotation A
+- Void/Mot (Survival), Rotation A
+- Höllvania (Level  65 - 70 WF1999 Bounty), Rotation C
+- Void/Belenus (Defense), Rotation C
+- Höllvania (Level  55 - 60 WF1999 Bounty), Rotation C
+- Void Surplus
+- Earth/Cetus (Level 30 - 50 Cetus Bounty), Rotation C
+- Earth/Cetus (Level 30 - 50 Cetus Bounty), Rotation C
+- Earth/Cetus (Level 30 - 50 Cetus Bounty), Rotation A
+- Earth/Cetus (Level 30 - 50 Cetus Bounty), Rotation B
+- Höllvania (Level  85 - 90 WF1999 Bounty), Rotation C
+- Earth/Cetus (Level 30 - 50 Cetus Bounty), Rotation A
+- Earth/Cetus (Level 30 - 50 Cetus Bounty), Rotation B
+- Deimos/Cambion Drift (Level 15 - 25 Cambion Drift Bounty), Rotation A
+- Deimos/Cambion Drift (Level 15 - 25 Cambion Drift Bounty), Rotation B
+- Deimos/Cambion Drift (Level 15 - 25 Cambion Drift Bounty), Rotation C
+- Zariman Ten Zero (Level  110 - 115 Zariman Bounty), Rotation C
+- Zariman Ten Zero (Level  90 - 95 Zariman Bounty), Rotation C
+- Void/Mithra (Interception), Rotation B
+- Void/Mot (Survival), Rotation B
+- Deimos/Cambion Drift (Level 30 - 40 Cambion Drift Bounty), Rotation A
+- Deimos/Cambion Drift (Level 30 - 40 Cambion Drift Bounty), Rotation B
+- Earth/Cetus (Level 10 - 30 Cetus Bounty), Rotation A
+- Earth/Cetus (Level 10 - 30 Cetus Bounty), Rotation B
+- Earth/Cetus (Level 10 - 30 Cetus Bounty), Rotation C
+- Deimos/Cambion Drift (Level 15 - 25 Cambion Drift Bounty), Rotation A
+- Deimos/Cambion Drift (Level 15 - 25 Cambion Drift Bounty), Rotation B
+- Deimos/Cambion Drift (Level 15 - 25 Cambion Drift Bounty), Rotation C
+- Venus/Orb Vallis (Level 10 - 30 Orb Vallis Bounty), Rotation A
+- Venus/Orb Vallis (Level 10 - 30 Orb Vallis Bounty), Rotation B
+- Venus/Orb Vallis (Level 10 - 30 Orb Vallis Bounty), Rotation C
+- Venus/Orb Vallis (Level 20 - 40 Orb Vallis Bounty), Rotation A
+- Venus/Orb Vallis (Level 20 - 40 Orb Vallis Bounty), Rotation B
+- Venus/Orb Vallis (Level 20 - 40 Orb Vallis Bounty), Rotation C
+- Earth/Cetus (Level 15 - 25 Ghoul Bounty), Rotation A
+- Earth/Cetus (Level 40 - 50 Ghoul Bounty), Rotation A
+- Deimos/Albrecht's Laboratories (Level  115 - 120 Entrati Lab Bounty), Rotation C
+- Deimos/Albrecht's Laboratories (Level  95 - 100 Entrati Lab Bounty), Rotation C
+- Venus/Orb Vallis (Level 100 - 100 Orb Vallis Bounty), Rotation A
+- Venus/Orb Vallis (Level 100 - 100 Orb Vallis Bounty), Rotation B
+- Venus/Orb Vallis (Level 100 - 100 Orb Vallis Bounty), Rotation C
+- Venus/Orb Vallis (Level 30 - 50 Orb Vallis Bounty), Rotation A
+- Venus/Orb Vallis (Level 30 - 50 Orb Vallis Bounty), Rotation B
+- Venus/Orb Vallis (Level 30 - 50 Orb Vallis Bounty), Rotation C
+- Venus/Orb Vallis (Level 40 - 60 Orb Vallis Bounty), Rotation A
+- Venus/Orb Vallis (Level 40 - 60 Orb Vallis Bounty), Rotation B
+- Venus/Orb Vallis (Level 40 - 60 Orb Vallis Bounty), Rotation C
+- Deimos/Cambion Drift (Level 30 - 40 Cambion Drift Bounty), Rotation A
+- Deimos/Cambion Drift (Level 30 - 40 Cambion Drift Bounty), Rotation B
+- Deimos/Cambion Drift (Level 5 - 15 Cambion Drift Bounty), Rotation A
+- Deimos/Cambion Drift (Level 5 - 15 Cambion Drift Bounty), Rotation B
+- Deimos/Cambion Drift (Level 5 - 15 Cambion Drift Bounty), Rotation C
+- Deimos/Cambion Drift (Level 15 - 25 Cambion Drift Bounty), Rotation A
+- Deimos/Cambion Drift (Level 15 - 25 Cambion Drift Bounty), Rotation B
+- Deimos/Cambion Drift (Level 15 - 25 Cambion Drift Bounty), Rotation C
+- Earth/Cetus (Level 20 - 40 Cetus Bounty), Rotation A
+- Venus/Orb Vallis (Level 100 - 100 Orb Vallis Bounty), Rotation A
+- Venus/Orb Vallis (Level 100 - 100 Orb Vallis Bounty), Rotation B
+- Venus/Orb Vallis (Level 100 - 100 Orb Vallis Bounty), Rotation C
+- Venus/Orb Vallis (Level 30 - 50 Orb Vallis Bounty), Rotation A
+- Venus/Orb Vallis (Level 30 - 50 Orb Vallis Bounty), Rotation B
+- Venus/Orb Vallis (Level 30 - 50 Orb Vallis Bounty), Rotation C
+- Venus/Orb Vallis (Level 40 - 60 Orb Vallis Bounty), Rotation A
+- Venus/Orb Vallis (Level 40 - 60 Orb Vallis Bounty), Rotation B
+- Venus/Orb Vallis (Level 40 - 60 Orb Vallis Bounty), Rotation C
+- Earth/Cetus (Level 20 - 40 Cetus Bounty), Rotation B
+- Earth/Cetus (Level 15 - 25 Ghoul Bounty), Rotation A
+- Earth/Cetus (Level 40 - 50 Ghoul Bounty), Rotation A
+- Earth/Cetus (Level 20 - 40 Cetus Bounty), Rotation C
+- Void/Mithra (Interception), Rotation C
+- Void/Mot (Survival), Rotation C
+- Deimos/Cambion Drift (Level 100 - 100 Cambion Drift Bounty), Rotation A
+- Deimos/Cambion Drift (Level 40 - 60 Cambion Drift Bounty), Rotation A
+- Deimos/Cambion Drift (Level 30 - 40 Cambion Drift Bounty), Rotation A
+- Deimos/Cambion Drift (Level 30 - 40 Cambion Drift Bounty), Rotation B
+- Earth/Cetus (Level 100 - 100 Cetus Bounty), Rotation A
+- Earth/Cetus (Level 100 - 100 Cetus Bounty), Rotation B
+- Earth/Cetus (Level 100 - 100 Cetus Bounty), Rotation C
+- Earth/Cetus (Level 40 - 60 Cetus Bounty), Rotation A
+- Earth/Cetus (Level 40 - 60 Cetus Bounty), Rotation B
+- Earth/Cetus (Level 40 - 60 Cetus Bounty), Rotation C
+- Earth/Cetus (Level 30 - 50 Cetus Bounty), Rotation A
+- Earth/Cetus (Level 30 - 50 Cetus Bounty), Rotation B
+- Earth/Cetus (Level 30 - 50 Cetus Bounty), Rotation C
+- Deimos/Cambion Drift (Level 100 - 100 Cambion Drift Bounty), Rotation A
+- Deimos/Cambion Drift (Level 40 - 60 Cambion Drift Bounty), Rotation A
+- Earth/Cetus (Level 100 - 100 Cetus Bounty), Rotation A
+- Earth/Cetus (Level 100 - 100 Cetus Bounty), Rotation B
+- Earth/Cetus (Level 100 - 100 Cetus Bounty), Rotation C
+- Earth/Cetus (Level 40 - 60 Cetus Bounty), Rotation A
+- Earth/Cetus (Level 40 - 60 Cetus Bounty), Rotation B
+- Earth/Cetus (Level 40 - 60 Cetus Bounty), Rotation C
+- Venus/Orb Vallis (Level 100 - 100 Orb Vallis Bounty), Rotation A
+- Venus/Orb Vallis (Level 100 - 100 Orb Vallis Bounty), Rotation B
+- Venus/Orb Vallis (Level 100 - 100 Orb Vallis Bounty), Rotation C
+- Venus/Orb Vallis (Level 30 - 50 Orb Vallis Bounty), Rotation A
+- Venus/Orb Vallis (Level 30 - 50 Orb Vallis Bounty), Rotation B
+- Venus/Orb Vallis (Level 30 - 50 Orb Vallis Bounty), Rotation C
+- Venus/Orb Vallis (Level 40 - 60 Orb Vallis Bounty), Rotation A
+- Venus/Orb Vallis (Level 40 - 60 Orb Vallis Bounty), Rotation B
+- Venus/Orb Vallis (Level 40 - 60 Orb Vallis Bounty), Rotation C
+- Earth/Cetus (Level 100 - 100 Cetus Bounty), Rotation A
+- Earth/Cetus (Level 100 - 100 Cetus Bounty), Rotation B
+- Earth/Cetus (Level 100 - 100 Cetus Bounty), Rotation C
+- Earth/Cetus (Level 40 - 60 Cetus Bounty), Rotation A
+- Earth/Cetus (Level 40 - 60 Cetus Bounty), Rotation B
+- Earth/Cetus (Level 40 - 60 Cetus Bounty), Rotation C
+- Deimos/Cambion Drift (Level 100 - 100 Cambion Drift Bounty), Rotation A
+- Deimos/Cambion Drift (Level 40 - 60 Cambion Drift Bounty), Rotation A
+category: Misc
+description: 'Raw Orokin memory plasma. Varzia''s Foundry can consume Aya to create
+  Void Relics. Find her in Maroo''s Bazaar on Mars.
+
+
+  Location: Void Missions and Bounties '
+image: ../images/aya-e2d16ae283.png
+last_updated: '2025-09-17'
+name: Aya
+source: WFCD
+tags:
+- Resource
+- Misc
+tradable: false
+type: Resource
+---
+
+# Aya
+
+Raw Orokin memory plasma. Varzia's Foundry can consume Aya to create Void Relics. Find her in Maroo's Bazaar on Mars.
+
+Location: Void Missions and Bounties 
+
+## Resource Information
+
+**Aya** is a resource in the Misc category.
+
+## Acquisition
+
+Available from:
+- Void/Belenus (Defense), Rotation A
+- Void/Ani (Survival), Rotation A
+- Void/Taranis (Defense), Rotation B
+- Void/Ani (Survival), Rotation B
+- Void/Ani (Survival), Rotation C
+- Deimos/Cambion Drift (Level 25 - 30 Cambion Drift Bounty), Rotation A
+- Void/Belenus (Defense), Rotation C
+- Venus/Orb Vallis (Level 5 - 15 Orb Vallis Bounty), Rotation A
+- Venus/Orb Vallis (Level 5 - 15 Orb Vallis Bounty), Rotation B
+- Venus/Orb Vallis (Level 5 - 15 Orb Vallis Bounty), Rotation C
+- Deimos/Cambion Drift (Level 25 - 30 Cambion Drift Bounty), Rotation B
+- Deimos/Cambion Drift (Level 25 - 30 Cambion Drift Bounty), Rotation C
+- Deimos/Cambion Drift (Level 25 - 30 Cambion Drift Bounty), Rotation A
+- Deimos/Cambion Drift (Level 25 - 30 Cambion Drift Bounty), Rotation A
+- Deimos/Cambion Drift (Level 5 - 15 Cambion Drift Bounty), Rotation A
+- Deimos/Cambion Drift (Level 5 - 15 Cambion Drift Bounty), Rotation B
+- Deimos/Cambion Drift (Level 5 - 15 Cambion Drift Bounty), Rotation C
+- Deimos/Cambion Drift (Level 5 - 15 Cambion Drift Bounty), Rotation A
+- Deimos/Cambion Drift (Level 5 - 15 Cambion Drift Bounty), Rotation B
+- Deimos/Cambion Drift (Level 5 - 15 Cambion Drift Bounty), Rotation C
+- Deimos/Cambion Drift (Level 25 - 30 Cambion Drift Bounty), Rotation B
+- Deimos/Cambion Drift (Level 25 - 30 Cambion Drift Bounty), Rotation C
+- Deimos/Cambion Drift (Level 25 - 30 Cambion Drift Bounty), Rotation B
+- Deimos/Cambion Drift (Level 25 - 30 Cambion Drift Bounty), Rotation C
+- Earth/Cetus (Level 10 - 30 Cetus Bounty), Rotation A
+- Earth/Cetus (Level 10 - 30 Cetus Bounty), Rotation B
+- Earth/Cetus (Level 10 - 30 Cetus Bounty), Rotation C
+- Earth/Cetus (Level 10 - 30 Cetus Bounty), Rotation A
+- Earth/Cetus (Level 10 - 30 Cetus Bounty), Rotation B
+- Earth/Cetus (Level 10 - 30 Cetus Bounty), Rotation C
+- Void/Ani (Survival), Rotation C
+- Void/Aten (Mobile Defense)
+- Void/Marduk (Sabotage)
+- Void/Oxomoco (Exterminate)
+- Void/Stribog (Sabotage)
+- Void/Taranis (Defense), Rotation C
+- Void/Tiwaz (Mobile Defense)
+- Void/Ukko (Capture)
+- Void/Belenus (Defense), Rotation A
+- Void/Hepit (Capture)
+- Void/Taranis (Defense), Rotation A
+- Void/Teshub (Exterminate)
+- Venus/Orb Vallis (Level 10 - 30 Orb Vallis Bounty), Rotation A
+- Venus/Orb Vallis (Level 10 - 30 Orb Vallis Bounty), Rotation B
+- Venus/Orb Vallis (Level 10 - 30 Orb Vallis Bounty), Rotation C
+- Venus/Orb Vallis (Level 20 - 40 Orb Vallis Bounty), Rotation A
+- Venus/Orb Vallis (Level 20 - 40 Orb Vallis Bounty), Rotation B
+- Venus/Orb Vallis (Level 20 - 40 Orb Vallis Bounty), Rotation C
+- Earth/Cetus (Level 20 - 40 Cetus Bounty), Rotation A
+- Earth/Cetus (Level 20 - 40 Cetus Bounty), Rotation A
+- Höllvania (Level  95 - 100 WF1999 Bounty), Rotation C
+- Earth/Cetus (Level 20 - 40 Cetus Bounty), Rotation B
+- Höllvania (Level  105 - 110 WF1999 Bounty), Rotation C
+- Venus/Orb Vallis (Level 10 - 30 Orb Vallis Bounty), Rotation A
+- Venus/Orb Vallis (Level 10 - 30 Orb Vallis Bounty), Rotation B
+- Venus/Orb Vallis (Level 10 - 30 Orb Vallis Bounty), Rotation C
+- Venus/Orb Vallis (Level 20 - 40 Orb Vallis Bounty), Rotation A
+- Venus/Orb Vallis (Level 20 - 40 Orb Vallis Bounty), Rotation B
+- Venus/Orb Vallis (Level 20 - 40 Orb Vallis Bounty), Rotation C
+- Venus/Orb Vallis (Level 5 - 15 Orb Vallis Bounty), Rotation A
+- Venus/Orb Vallis (Level 5 - 15 Orb Vallis Bounty), Rotation B
+- Venus/Orb Vallis (Level 5 - 15 Orb Vallis Bounty), Rotation C
+- Earth/Cetus (Level 20 - 40 Cetus Bounty), Rotation B
+- Deimos/Albrecht's Laboratories (Level  65 - 70 Entrati Lab Bounty), Rotation C
+- Earth/Cetus (Level 20 - 40 Cetus Bounty), Rotation C
+- Zariman Ten Zero (Level  60 - 65 Zariman Bounty), Rotation C
+- Earth/Cetus (Level 20 - 40 Cetus Bounty), Rotation C
+- Deimos/Albrecht's Laboratories (Level  55 - 60 Entrati Lab Bounty), Rotation C
+- Zariman Ten Zero (Level  50 - 55 Zariman Bounty), Rotation C
+- Zariman Ten Zero (Level  70 - 75 Zariman Bounty), Rotation C
+- Höllvania (Level  75 - 80 WF1999 Bounty), Rotation C
+- Deimos/Albrecht's Laboratories (Level  75 - 80 Entrati Lab Bounty), Rotation C
+- Void/Belenus (Defense), Rotation B
+- Void/Mithra (Interception), Rotation A
+- Void/Mot (Survival), Rotation A
+- Höllvania (Level  65 - 70 WF1999 Bounty), Rotation C
+- Void/Belenus (Defense), Rotation C
+- Höllvania (Level  55 - 60 WF1999 Bounty), Rotation C
+- Void Surplus
+- Earth/Cetus (Level 30 - 50 Cetus Bounty), Rotation C
+- Earth/Cetus (Level 30 - 50 Cetus Bounty), Rotation C
+- Earth/Cetus (Level 30 - 50 Cetus Bounty), Rotation A
+- Earth/Cetus (Level 30 - 50 Cetus Bounty), Rotation B
+- Höllvania (Level  85 - 90 WF1999 Bounty), Rotation C
+- Earth/Cetus (Level 30 - 50 Cetus Bounty), Rotation A
+- Earth/Cetus (Level 30 - 50 Cetus Bounty), Rotation B
+- Deimos/Cambion Drift (Level 15 - 25 Cambion Drift Bounty), Rotation A
+- Deimos/Cambion Drift (Level 15 - 25 Cambion Drift Bounty), Rotation B
+- Deimos/Cambion Drift (Level 15 - 25 Cambion Drift Bounty), Rotation C
+- Zariman Ten Zero (Level  110 - 115 Zariman Bounty), Rotation C
+- Zariman Ten Zero (Level  90 - 95 Zariman Bounty), Rotation C
+- Void/Mithra (Interception), Rotation B
+- Void/Mot (Survival), Rotation B
+- Deimos/Cambion Drift (Level 30 - 40 Cambion Drift Bounty), Rotation A
+- Deimos/Cambion Drift (Level 30 - 40 Cambion Drift Bounty), Rotation B
+- Earth/Cetus (Level 10 - 30 Cetus Bounty), Rotation A
+- Earth/Cetus (Level 10 - 30 Cetus Bounty), Rotation B
+- Earth/Cetus (Level 10 - 30 Cetus Bounty), Rotation C
+- Deimos/Cambion Drift (Level 15 - 25 Cambion Drift Bounty), Rotation A
+- Deimos/Cambion Drift (Level 15 - 25 Cambion Drift Bounty), Rotation B
+- Deimos/Cambion Drift (Level 15 - 25 Cambion Drift Bounty), Rotation C
+- Venus/Orb Vallis (Level 10 - 30 Orb Vallis Bounty), Rotation A
+- Venus/Orb Vallis (Level 10 - 30 Orb Vallis Bounty), Rotation B
+- Venus/Orb Vallis (Level 10 - 30 Orb Vallis Bounty), Rotation C
+- Venus/Orb Vallis (Level 20 - 40 Orb Vallis Bounty), Rotation A
+- Venus/Orb Vallis (Level 20 - 40 Orb Vallis Bounty), Rotation B
+- Venus/Orb Vallis (Level 20 - 40 Orb Vallis Bounty), Rotation C
+- Earth/Cetus (Level 15 - 25 Ghoul Bounty), Rotation A
+- Earth/Cetus (Level 40 - 50 Ghoul Bounty), Rotation A
+- Deimos/Albrecht's Laboratories (Level  115 - 120 Entrati Lab Bounty), Rotation C
+- Deimos/Albrecht's Laboratories (Level  95 - 100 Entrati Lab Bounty), Rotation C
+- Venus/Orb Vallis (Level 100 - 100 Orb Vallis Bounty), Rotation A
+- Venus/Orb Vallis (Level 100 - 100 Orb Vallis Bounty), Rotation B
+- Venus/Orb Vallis (Level 100 - 100 Orb Vallis Bounty), Rotation C
+- Venus/Orb Vallis (Level 30 - 50 Orb Vallis Bounty), Rotation A
+- Venus/Orb Vallis (Level 30 - 50 Orb Vallis Bounty), Rotation B
+- Venus/Orb Vallis (Level 30 - 50 Orb Vallis Bounty), Rotation C
+- Venus/Orb Vallis (Level 40 - 60 Orb Vallis Bounty), Rotation A
+- Venus/Orb Vallis (Level 40 - 60 Orb Vallis Bounty), Rotation B
+- Venus/Orb Vallis (Level 40 - 60 Orb Vallis Bounty), Rotation C
+- Deimos/Cambion Drift (Level 30 - 40 Cambion Drift Bounty), Rotation A
+- Deimos/Cambion Drift (Level 30 - 40 Cambion Drift Bounty), Rotation B
+- Deimos/Cambion Drift (Level 5 - 15 Cambion Drift Bounty), Rotation A
+- Deimos/Cambion Drift (Level 5 - 15 Cambion Drift Bounty), Rotation B
+- Deimos/Cambion Drift (Level 5 - 15 Cambion Drift Bounty), Rotation C
+- Deimos/Cambion Drift (Level 15 - 25 Cambion Drift Bounty), Rotation A
+- Deimos/Cambion Drift (Level 15 - 25 Cambion Drift Bounty), Rotation B
+- Deimos/Cambion Drift (Level 15 - 25 Cambion Drift Bounty), Rotation C
+- Earth/Cetus (Level 20 - 40 Cetus Bounty), Rotation A
+- Venus/Orb Vallis (Level 100 - 100 Orb Vallis Bounty), Rotation A
+- Venus/Orb Vallis (Level 100 - 100 Orb Vallis Bounty), Rotation B
+- Venus/Orb Vallis (Level 100 - 100 Orb Vallis Bounty), Rotation C
+- Venus/Orb Vallis (Level 30 - 50 Orb Vallis Bounty), Rotation A
+- Venus/Orb Vallis (Level 30 - 50 Orb Vallis Bounty), Rotation B
+- Venus/Orb Vallis (Level 30 - 50 Orb Vallis Bounty), Rotation C
+- Venus/Orb Vallis (Level 40 - 60 Orb Vallis Bounty), Rotation A
+- Venus/Orb Vallis (Level 40 - 60 Orb Vallis Bounty), Rotation B
+- Venus/Orb Vallis (Level 40 - 60 Orb Vallis Bounty), Rotation C
+- Earth/Cetus (Level 20 - 40 Cetus Bounty), Rotation B
+- Earth/Cetus (Level 15 - 25 Ghoul Bounty), Rotation A
+- Earth/Cetus (Level 40 - 50 Ghoul Bounty), Rotation A
+- Earth/Cetus (Level 20 - 40 Cetus Bounty), Rotation C
+- Void/Mithra (Interception), Rotation C
+- Void/Mot (Survival), Rotation C
+- Deimos/Cambion Drift (Level 100 - 100 Cambion Drift Bounty), Rotation A
+- Deimos/Cambion Drift (Level 40 - 60 Cambion Drift Bounty), Rotation A
+- Deimos/Cambion Drift (Level 30 - 40 Cambion Drift Bounty), Rotation A
+- Deimos/Cambion Drift (Level 30 - 40 Cambion Drift Bounty), Rotation B
+- Earth/Cetus (Level 100 - 100 Cetus Bounty), Rotation A
+- Earth/Cetus (Level 100 - 100 Cetus Bounty), Rotation B
+- Earth/Cetus (Level 100 - 100 Cetus Bounty), Rotation C
+- Earth/Cetus (Level 40 - 60 Cetus Bounty), Rotation A
+- Earth/Cetus (Level 40 - 60 Cetus Bounty), Rotation B
+- Earth/Cetus (Level 40 - 60 Cetus Bounty), Rotation C
+- Earth/Cetus (Level 30 - 50 Cetus Bounty), Rotation A
+- Earth/Cetus (Level 30 - 50 Cetus Bounty), Rotation B
+- Earth/Cetus (Level 30 - 50 Cetus Bounty), Rotation C
+- Deimos/Cambion Drift (Level 100 - 100 Cambion Drift Bounty), Rotation A
+- Deimos/Cambion Drift (Level 40 - 60 Cambion Drift Bounty), Rotation A
+- Earth/Cetus (Level 100 - 100 Cetus Bounty), Rotation A
+- Earth/Cetus (Level 100 - 100 Cetus Bounty), Rotation B
+- Earth/Cetus (Level 100 - 100 Cetus Bounty), Rotation C
+- Earth/Cetus (Level 40 - 60 Cetus Bounty), Rotation A
+- Earth/Cetus (Level 40 - 60 Cetus Bounty), Rotation B
+- Earth/Cetus (Level 40 - 60 Cetus Bounty), Rotation C
+- Venus/Orb Vallis (Level 100 - 100 Orb Vallis Bounty), Rotation A
+- Venus/Orb Vallis (Level 100 - 100 Orb Vallis Bounty), Rotation B
+- Venus/Orb Vallis (Level 100 - 100 Orb Vallis Bounty), Rotation C
+- Venus/Orb Vallis (Level 30 - 50 Orb Vallis Bounty), Rotation A
+- Venus/Orb Vallis (Level 30 - 50 Orb Vallis Bounty), Rotation B
+- Venus/Orb Vallis (Level 30 - 50 Orb Vallis Bounty), Rotation C
+- Venus/Orb Vallis (Level 40 - 60 Orb Vallis Bounty), Rotation A
+- Venus/Orb Vallis (Level 40 - 60 Orb Vallis Bounty), Rotation B
+- Venus/Orb Vallis (Level 40 - 60 Orb Vallis Bounty), Rotation C
+- Earth/Cetus (Level 100 - 100 Cetus Bounty), Rotation A
+- Earth/Cetus (Level 100 - 100 Cetus Bounty), Rotation B
+- Earth/Cetus (Level 100 - 100 Cetus Bounty), Rotation C
+- Earth/Cetus (Level 40 - 60 Cetus Bounty), Rotation A
+- Earth/Cetus (Level 40 - 60 Cetus Bounty), Rotation B
+- Earth/Cetus (Level 40 - 60 Cetus Bounty), Rotation C
+- Deimos/Cambion Drift (Level 100 - 100 Cambion Drift Bounty), Rotation A
+- Deimos/Cambion Drift (Level 40 - 60 Cambion Drift Bounty), Rotation A
+

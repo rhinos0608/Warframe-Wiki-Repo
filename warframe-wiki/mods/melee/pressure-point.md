@@ -1,0 +1,302 @@
+---
+acquisition:
+- Ceres/Lex (Capture)
+- Earth/Mantle (Capture)
+- Eris/Cosis (Capture)
+- Eris/Isos (Capture)
+- Europa/Abaddon (Capture)
+- Europa/Beleth (Capture)
+- Europa/Cryotic Front (Capture)
+- Jupiter/Ananke (Capture)
+- Lua/Copernicus (Capture)
+- Mars/Ara (Capture)
+- Mars/Quirinus (Capture)
+- Mercury/Elion (Capture)
+- Neptune/Galatea (Capture)
+- Phobos/Limtoc (Capture)
+- Phobos/Skyresh (Capture)
+- Phobos/Todd (Capture)
+- Pluto/Corb (Capture)
+- Pluto/Hydra (Capture)
+- Saturn/Cassini (Capture)
+- Saturn/Phoebe (Capture)
+- Uranus/Ariel (Capture)
+- Uranus/Trinculo (Capture)
+- Venus/Venera (Capture)
+- Bailiff
+- Butcher
+- Drahk Master
+- Drekar Butcher
+- Drekar Manic
+- Frontier Bailiff
+- Kuva Butcher
+- Kuva Drahk Master
+- Lobber Crawler
+- Toxic Crawler
+- Tusk Butcher
+- Aurax Baculus
+- Guardsman
+- Hyekka Master
+- Kuva Hyekka Master
+- Ceres/Seimeni (Defense), Rotation A
+- Earth/Coba (Defense), Rotation A
+- Eris/Akkad (Defense), Rotation A
+- Europa/Larzac (Defense), Rotation A
+- Jupiter/Sinai (Defense), Rotation A
+- Mars/Kadesh (Defense), Rotation A
+- Pluto/Sechura (Defense), Rotation A
+- Sedna/Sangeru (Defense), Rotation A
+- Venus/Romula (Defense), Rotation A
+- Arid Hellion
+- Arid Lancer
+- Coildrive
+- Deimos Venin Mutalist
+- Drekar Elite Lancer
+- Drekar Lancer
+- Drekar Scorpion
+- Frontier Hellion
+- Frontier Lancer
+- Hellion
+- Juno Jactus Osprey
+- Kuva Hellion
+- Kuva Lancer
+- Kuva Lich Agor Rok (Level 0 - 69)
+- Lancer Survivor
+- Lancer
+- Mine Osprey
+- Mutalist Osprey
+- Narmer Coildrive
+- Narmer Commander
+- Narmer Hellion
+- Narmer Lancer
+- Narmer Mine Osprey
+- Nightwatch Reaver
+- Rogg-417
+- Scaldra Ti-92
+- Sikula
+- Special Duty Coildrive
+- Tusk Hellion
+- Tusk Lancer
+- Tusk Reaver
+- Venin Mutalist
+- Drekar Heavy Gunner
+- Ghoul Rictus
+- Another Betrayer, Rotation A
+- Family Reunion, Rotation A
+- Hot Mess, Rotation A
+- Phobos/Opik (Rush), Rotation A
+- Recover The Orokin Archive, Rotation A
+- Sunkiller, Rotation A
+- Table For Two, Rotation A
+- The Aftermath, Rotation A
+- Time's Up, Rotation A
+- Bailiff Defector
+- Bailiff
+- Kuva Bailiff
+- Ghoul Devourer
+- Another Betrayer, Rotation B
+- Ceres/Seimeni (Defense), Rotation B
+- Earth/Coba (Defense), Rotation B
+- Eris/Akkad (Defense), Rotation B
+- Europa/Larzac (Defense), Rotation B
+- Family Reunion, Rotation B
+- Hot Mess, Rotation B
+- Jupiter/Sinai (Defense), Rotation B
+- Mars/Kadesh (Defense), Rotation B
+- Phobos/Opik (Rush), Rotation B
+- Pluto/Sechura (Defense), Rotation B
+- Recover The Orokin Archive, Rotation B
+- Sedna/Sangeru (Defense), Rotation B
+- Sunkiller, Rotation B
+- Table For Two, Rotation B
+- The Aftermath, Rotation B
+- Time's Up, Rotation B
+- Venus/Romula (Defense), Rotation B
+- Ceres/Bode (Spy), Rotation A
+- Ceres/Casta (Defense), Rotation A
+- Ceres/Egeria (Defense), Rotation A
+- Ceres/Varro (Defense), Rotation A
+- Earth/Lith (Defense), Rotation A
+- Europa/Valac (Spy), Rotation A
+- Jupiter/Amalthea (Spy), Rotation A
+- Mars/Spear (Defense), Rotation A
+- Mercury/Lares (Defense), Rotation A
+- Phobos/Drunlo (Defense), Rotation A
+- Phobos/Gulliver (Defense), Rotation A
+- Saturn/Aegaeon (Spy), Rotation A
+- Saturn/Dione (Spy), Rotation A
+- Venus/Tessera (Defense), Rotation A
+- Grineer Manic
+- Earth/Cetus (Level 5 - 15 Cetus Bounty), Rotation B
+- Earth/Cetus (Level 5 - 15 Cetus Bounty), Rotation B
+- Earth/Cetus (Level 5 - 15 Cetus Bounty), Rotation B
+- Commander
+- General Sargas Ruk
+- J3 Jordas Golem
+- Jordas Golem
+- Ancient Infested
+- Infested Corpus
+- Infested Grineer
+- Ambulas
+- NecraLoid (Loid), Clearance Odima
+category: Mods
+description: ''
+drain: 4
+image: ../images/pressure-point-4042267a26.jpg
+last_updated: '2025-09-17'
+name: Pressure Point
+polarity: madurai
+rarity: Common
+source: WFCD
+tags:
+- Melee Mod
+- Mods
+tradable: true
+type: Melee Mod
+---
+
+# Pressure Point
+
+## Acquisition
+
+Available from:
+- Ceres/Lex (Capture)
+- Earth/Mantle (Capture)
+- Eris/Cosis (Capture)
+- Eris/Isos (Capture)
+- Europa/Abaddon (Capture)
+- Europa/Beleth (Capture)
+- Europa/Cryotic Front (Capture)
+- Jupiter/Ananke (Capture)
+- Lua/Copernicus (Capture)
+- Mars/Ara (Capture)
+- Mars/Quirinus (Capture)
+- Mercury/Elion (Capture)
+- Neptune/Galatea (Capture)
+- Phobos/Limtoc (Capture)
+- Phobos/Skyresh (Capture)
+- Phobos/Todd (Capture)
+- Pluto/Corb (Capture)
+- Pluto/Hydra (Capture)
+- Saturn/Cassini (Capture)
+- Saturn/Phoebe (Capture)
+- Uranus/Ariel (Capture)
+- Uranus/Trinculo (Capture)
+- Venus/Venera (Capture)
+- Bailiff
+- Butcher
+- Drahk Master
+- Drekar Butcher
+- Drekar Manic
+- Frontier Bailiff
+- Kuva Butcher
+- Kuva Drahk Master
+- Lobber Crawler
+- Toxic Crawler
+- Tusk Butcher
+- Aurax Baculus
+- Guardsman
+- Hyekka Master
+- Kuva Hyekka Master
+- Ceres/Seimeni (Defense), Rotation A
+- Earth/Coba (Defense), Rotation A
+- Eris/Akkad (Defense), Rotation A
+- Europa/Larzac (Defense), Rotation A
+- Jupiter/Sinai (Defense), Rotation A
+- Mars/Kadesh (Defense), Rotation A
+- Pluto/Sechura (Defense), Rotation A
+- Sedna/Sangeru (Defense), Rotation A
+- Venus/Romula (Defense), Rotation A
+- Arid Hellion
+- Arid Lancer
+- Coildrive
+- Deimos Venin Mutalist
+- Drekar Elite Lancer
+- Drekar Lancer
+- Drekar Scorpion
+- Frontier Hellion
+- Frontier Lancer
+- Hellion
+- Juno Jactus Osprey
+- Kuva Hellion
+- Kuva Lancer
+- Kuva Lich Agor Rok (Level 0 - 69)
+- Lancer Survivor
+- Lancer
+- Mine Osprey
+- Mutalist Osprey
+- Narmer Coildrive
+- Narmer Commander
+- Narmer Hellion
+- Narmer Lancer
+- Narmer Mine Osprey
+- Nightwatch Reaver
+- Rogg-417
+- Scaldra Ti-92
+- Sikula
+- Special Duty Coildrive
+- Tusk Hellion
+- Tusk Lancer
+- Tusk Reaver
+- Venin Mutalist
+- Drekar Heavy Gunner
+- Ghoul Rictus
+- Another Betrayer, Rotation A
+- Family Reunion, Rotation A
+- Hot Mess, Rotation A
+- Phobos/Opik (Rush), Rotation A
+- Recover The Orokin Archive, Rotation A
+- Sunkiller, Rotation A
+- Table For Two, Rotation A
+- The Aftermath, Rotation A
+- Time's Up, Rotation A
+- Bailiff Defector
+- Bailiff
+- Kuva Bailiff
+- Ghoul Devourer
+- Another Betrayer, Rotation B
+- Ceres/Seimeni (Defense), Rotation B
+- Earth/Coba (Defense), Rotation B
+- Eris/Akkad (Defense), Rotation B
+- Europa/Larzac (Defense), Rotation B
+- Family Reunion, Rotation B
+- Hot Mess, Rotation B
+- Jupiter/Sinai (Defense), Rotation B
+- Mars/Kadesh (Defense), Rotation B
+- Phobos/Opik (Rush), Rotation B
+- Pluto/Sechura (Defense), Rotation B
+- Recover The Orokin Archive, Rotation B
+- Sedna/Sangeru (Defense), Rotation B
+- Sunkiller, Rotation B
+- Table For Two, Rotation B
+- The Aftermath, Rotation B
+- Time's Up, Rotation B
+- Venus/Romula (Defense), Rotation B
+- Ceres/Bode (Spy), Rotation A
+- Ceres/Casta (Defense), Rotation A
+- Ceres/Egeria (Defense), Rotation A
+- Ceres/Varro (Defense), Rotation A
+- Earth/Lith (Defense), Rotation A
+- Europa/Valac (Spy), Rotation A
+- Jupiter/Amalthea (Spy), Rotation A
+- Mars/Spear (Defense), Rotation A
+- Mercury/Lares (Defense), Rotation A
+- Phobos/Drunlo (Defense), Rotation A
+- Phobos/Gulliver (Defense), Rotation A
+- Saturn/Aegaeon (Spy), Rotation A
+- Saturn/Dione (Spy), Rotation A
+- Venus/Tessera (Defense), Rotation A
+- Grineer Manic
+- Earth/Cetus (Level 5 - 15 Cetus Bounty), Rotation B
+- Earth/Cetus (Level 5 - 15 Cetus Bounty), Rotation B
+- Earth/Cetus (Level 5 - 15 Cetus Bounty), Rotation B
+- Commander
+- General Sargas Ruk
+- J3 Jordas Golem
+- Jordas Golem
+- Ancient Infested
+- Infested Corpus
+- Infested Grineer
+- Ambulas
+- NecraLoid (Loid), Clearance Odima
+

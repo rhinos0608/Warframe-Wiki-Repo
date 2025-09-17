@@ -1,0 +1,575 @@
+---
+acquisition:
+- 'Duviri/Endless: Tier 1 (Normal)'
+- 'Duviri/Endless: Tier 1 (Normal)'
+- 'Duviri/Endless: Tier 1 (Normal)'
+- 'Duviri/Endless: Tier 1 (Normal)'
+- 'Duviri/Endless: Tier 1 (Normal)'
+- 'Duviri/Endless: Tier 1 (Normal)'
+- 'Duviri/Endless: Tier 1 (Normal)'
+- 'Duviri/Endless: Tier 1 (Normal)'
+- 'Duviri/Endless: Tier 1 (Normal)'
+- 'Duviri/Endless: Tier 1 (Normal)'
+- 'Duviri/Endless: Tier 1 (Normal)'
+- 'Duviri/Endless: Tier 1 (Normal)'
+- 'Duviri/Endless: Tier 1 (Normal)'
+- 'Duviri/Endless: Tier 1 (Normal)'
+- 'Duviri/Endless: Tier 1 (Normal)'
+- 'Duviri/Endless: Tier 1 (Normal)'
+- 'Duviri/Endless: Tier 1 (Normal)'
+- 'Duviri/Endless: Tier 1 (Normal)'
+- 'Duviri/Endless: Tier 1 (Normal)'
+- 'Duviri/Endless: Tier 1 (Normal)'
+- 'Duviri/Endless: Tier 1 (Normal)'
+- 'Duviri/Endless: Tier 1 (Normal)'
+- 'Duviri/Endless: Tier 1 (Normal)'
+- 'Duviri/Endless: Tier 1 (Normal)'
+- 'Duviri/Endless: Tier 1 (Normal)'
+- 'Duviri/Endless: Tier 3 (Normal)'
+- 'Duviri/Endless: Tier 3 (Normal)'
+- 'Duviri/Endless: Tier 3 (Normal)'
+- 'Duviri/Endless: Tier 3 (Normal)'
+- 'Duviri/Endless: Tier 3 (Normal)'
+- 'Duviri/Endless: Tier 3 (Normal)'
+- 'Duviri/Endless: Tier 3 (Normal)'
+- 'Duviri/Endless: Tier 3 (Normal)'
+- 'Duviri/Endless: Tier 3 (Normal)'
+- 'Duviri/Endless: Tier 3 (Normal)'
+- 'Duviri/Endless: Tier 3 (Normal)'
+- 'Duviri/Endless: Tier 3 (Normal)'
+- 'Duviri/Endless: Tier 3 (Normal)'
+- 'Duviri/Endless: Tier 3 (Normal)'
+- 'Duviri/Endless: Tier 3 (Normal)'
+- 'Duviri/Endless: Tier 3 (Normal)'
+- 'Duviri/Endless: Tier 3 (Normal)'
+- 'Duviri/Endless: Tier 3 (Normal)'
+- 'Duviri/Endless: Tier 3 (Normal)'
+- 'Duviri/Endless: Tier 3 (Normal)'
+- 'Duviri/Endless: Tier 3 (Normal)'
+- 'Duviri/Endless: Tier 3 (Normal)'
+- 'Duviri/Endless: Tier 3 (Normal)'
+- 'Duviri/Endless: Tier 3 (Normal)'
+- 'Duviri/Endless: Tier 3 (Normal)'
+- Veil/Erato (Skirmish), Rotation C
+- Veil/Erato (Skirmish), Rotation C
+- Veil/Erato (Skirmish), Rotation C
+- Duviri Static Undercroft Portal (Steel Path)
+- Veil/Erato (Skirmish), Rotation C
+- Veil/Erato (Skirmish), Rotation C
+- Veil/Erato (Skirmish), Rotation C
+- Veil/Erato (Skirmish), Rotation C
+- Veil/Erato (Skirmish), Rotation C
+- Veil/Erato (Skirmish), Rotation C
+- Veil/Erato (Skirmish), Rotation C
+- Veil/Erato (Skirmish), Rotation C
+- Pluto/Khufu Envoy (Skirmish), Rotation C
+- Pluto/Khufu Envoy (Skirmish), Rotation C
+- Neptune/Mammon's Prospect (Skirmish), Rotation C
+- Neptune/Mammon's Prospect (Skirmish), Rotation C
+- Neptune/Mammon's Prospect (Skirmish), Rotation C
+- Venus/Vesper Strait (Skirmish), Rotation C
+- Venus/Vesper Strait (Skirmish), Rotation C
+- Venus/Vesper Strait (Skirmish), Rotation C
+- 'Duviri/Endless: Tier 9 (Normal)'
+- 'Duviri/Endless: Tier 9 (Normal)'
+- 'Duviri/Endless: Tier 9 (Normal)'
+- 'Duviri/Endless: Tier 9 (Normal)'
+- 'Duviri/Endless: Tier 9 (Normal)'
+- 'Duviri/Endless: Tier 9 (Normal)'
+- 'Duviri/Endless: Tier 9 (Normal)'
+- 'Duviri/Endless: Tier 9 (Normal)'
+- 'Duviri/Endless: Tier 9 (Normal)'
+- 'Duviri/Endless: Tier 9 (Normal)'
+- 'Duviri/Endless: Tier 9 (Normal)'
+- 'Duviri/Endless: Tier 9 (Normal)'
+- 'Duviri/Endless: Tier 9 (Normal)'
+- 'Duviri/Endless: Tier 9 (Normal)'
+- 'Duviri/Endless: Tier 9 (Normal)'
+- 'Duviri/Endless: Tier 9 (Normal)'
+- 'Duviri/Endless: Tier 9 (Normal)'
+- 'Duviri/Endless: Tier 9 (Normal)'
+- 'Duviri/Endless: Tier 9 (Normal)'
+- 'Duviri/Endless: Tier 9 (Normal)'
+- 'Duviri/Endless: Tier 9 (Normal)'
+- 'Duviri/Endless: Tier 9 (Normal)'
+- 'Duviri/Endless: Tier 9 (Normal)'
+- 'Duviri/Endless: Tier 9 (Normal)'
+- 'Duviri/Endless: Tier 9 (Normal)'
+- 'Duviri/Endless: Tier 1 (Hard)'
+- 'Duviri/Endless: Tier 1 (Hard)'
+- 'Duviri/Endless: Tier 3 (Hard)'
+- 'Duviri/Endless: Tier 3 (Hard)'
+- 'Duviri/Endless: Tier 4 (Hard)'
+- 'Duviri/Endless: Tier 4 (Hard)'
+- Arbitrations, Rotation A
+- Arbitrations, Rotation A
+- Arbitrations, Rotation A
+- Arbitrations, Rotation B
+- Arbitrations, Rotation B
+- Arbitrations, Rotation B
+- Arbitrations, Rotation C
+- Arbitrations, Rotation C
+- Arbitrations, Rotation C
+- Arbitrations, Rotation C
+- Eidolon Hydrolyst (Capture)
+- Eidolon Hydrolyst (Capture)
+- Eidolon Hydrolyst (Capture)
+- Eidolon Gantulyst (Capture)
+- Eidolon Gantulyst (Capture)
+- Eidolon Gantulyst (Capture)
+- Veil/Erato (Skirmish), Rotation C
+- Veil/Erato (Skirmish), Rotation C
+- Veil/Erato (Skirmish), Rotation C
+- Veil/Erato (Skirmish), Rotation C
+- Veil/Erato (Skirmish), Rotation C
+- Veil/Erato (Skirmish), Rotation C
+- Veil/Erato (Skirmish), Rotation C
+- Veil/Erato (Skirmish), Rotation C
+- Veil/Erato (Skirmish), Rotation C
+- Veil/Erato (Skirmish), Rotation C
+- Veil/Erato (Skirmish), Rotation C
+- Veil/Erato (Skirmish), Rotation C
+- Veil/Erato (Skirmish), Rotation C
+- Mars/Tyana Pass (Defense), Rotation C
+- Mars/Tyana Pass (Defense), Rotation C
+- Eidolon Gantulyst (Capture)
+- 'Duviri/Endless: Tier 6 (Hard)'
+- 'Duviri/Endless: Tier 6 (Hard)'
+- 'Duviri/Endless: Tier 7 (Hard)'
+- 'Duviri/Endless: Tier 7 (Hard)'
+- Eidolon Teralyst (Capture)
+- Eidolon Teralyst (Capture)
+- Eidolon Teralyst (Capture)
+- Eidolon Teralyst (Capture)
+- Sister Of Parvos (Ascension Mode)
+- Sister Of Parvos (Ascension Mode)
+- Pluto/Khufu Envoy (Skirmish), Rotation C
+- Pluto/Khufu Envoy (Skirmish), Rotation C
+- Pluto/Khufu Envoy (Skirmish), Rotation C
+- Pluto/Khufu Envoy (Skirmish), Rotation C
+- Pluto/Khufu Envoy (Skirmish), Rotation C
+- Eidolon Teralyst
+- Neptune/Mammon's Prospect (Skirmish), Rotation C
+- Neptune/Mammon's Prospect (Skirmish), Rotation C
+- Neptune/Mammon's Prospect (Skirmish), Rotation C
+- Neptune/Mammon's Prospect (Skirmish), Rotation C
+- Venus/Vesper Strait (Skirmish), Rotation C
+- Venus/Vesper Strait (Skirmish), Rotation C
+- Venus/Vesper Strait (Skirmish), Rotation C
+- Venus/Vesper Strait (Skirmish), Rotation C
+- Eidolon Gantulyst
+- Duviri Static Undercroft Portal
+- Duviri Static Undercroft Portal
+- Duviri Static Undercroft Portal
+- Duviri Static Undercroft Portal
+- Duviri Static Undercroft Portal
+- Duviri Static Undercroft Portal
+- Duviri Static Undercroft Portal
+- Duviri Static Undercroft Portal
+- Duviri Static Undercroft Portal
+- Duviri Static Undercroft Portal
+- Duviri Static Undercroft Portal
+- Duviri Static Undercroft Portal
+- Duviri Static Undercroft Portal
+- Duviri Static Undercroft Portal
+- Lua/Circulus (Survival), Rotation B
+- Temporal Archimedea Gold Rewards
+- Temporal Archimedea Gold Rewards
+- Temporal Archimedea Gold Rewards
+- Temporal Archimedea Silver Rewards
+- Temporal Archimedea Silver Rewards
+- Temporal Archimedea Silver Rewards
+- 'Duviri/Endless: Repeated Rewards (Hard)'
+- 'Duviri/Endless: Repeated Rewards (Hard)'
+- Eidolon Gantulyst (Capture)
+- Eidolon Gantulyst (Capture)
+- Eidolon Gantulyst (Capture)
+- Eidolon Gantulyst (Capture)
+- Pluto/Khufu Envoy (Skirmish), Rotation C
+- Pluto/Khufu Envoy (Skirmish), Rotation C
+- Pluto/Khufu Envoy (Skirmish), Rotation C
+- Pluto/Khufu Envoy (Skirmish), Rotation C
+- Pluto/Khufu Envoy (Skirmish), Rotation C
+- Pluto/Khufu Envoy (Skirmish), Rotation C
+- Duviri Static Undercroft Portal (Steel Path)
+- Duviri Static Undercroft Portal (Steel Path)
+- Eidolon Gantulyst
+- Eidolon Gantulyst
+- Eidolon Gantulyst
+- Eidolon Gantulyst
+- Lua/Circulus (Survival), Rotation C
+- Neptune/Mammon's Prospect (Skirmish), Rotation C
+- Neptune/Mammon's Prospect (Skirmish), Rotation C
+- Neptune/Mammon's Prospect (Skirmish), Rotation C
+- Neptune/Mammon's Prospect (Skirmish), Rotation C
+- Neptune/Mammon's Prospect (Skirmish), Rotation C
+- Neptune/Mammon's Prospect (Skirmish), Rotation C
+- Venus/Vesper Strait (Skirmish), Rotation C
+- Venus/Vesper Strait (Skirmish), Rotation C
+- Venus/Vesper Strait (Skirmish), Rotation C
+- Venus/Vesper Strait (Skirmish), Rotation C
+- Venus/Vesper Strait (Skirmish), Rotation C
+- Venus/Vesper Strait (Skirmish), Rotation C
+- Eidolon Hydrolyst (Capture)
+- Eidolon Hydrolyst (Capture)
+- Eidolon Hydrolyst
+- Eidolon Gantulyst (Capture)
+- Eidolon Teralyst (Capture)
+- Eidolon Teralyst (Capture)
+- Eidolon Teralyst (Capture)
+- Eidolon Teralyst (Capture)
+- Eidolon Teralyst (Capture)
+- H-09 Apex
+- H-09 Apex
+- H-09 Apex
+- H-09 Apex
+- H-09 Apex
+- H-09 Efervon Tank
+- H-09 Efervon Tank
+- H-09 Efervon Tank
+- H-09 Efervon Tank
+- H-09 Efervon Tank
+- Höllvania/Antivirus Bounty (Caches)
+- Höllvania/Antivirus Bounty (Caches)
+- Höllvania/Antivirus Bounty (Caches)
+- Höllvania/Antivirus Bounty (Caches)
+- Höllvania/Antivirus Bounty (Caches)
+- 'Höllvania/Exterminate: Scaldra (Caches)'
+- 'Höllvania/Exterminate: Scaldra (Caches)'
+- 'Höllvania/Exterminate: Scaldra (Caches)'
+- 'Höllvania/Exterminate: Scaldra (Caches)'
+- 'Höllvania/Exterminate: Scaldra (Caches)'
+- 'Höllvania/Exterminate: Techrot (Caches)'
+- 'Höllvania/Exterminate: Techrot (Caches)'
+- 'Höllvania/Exterminate: Techrot (Caches)'
+- 'Höllvania/Exterminate: Techrot (Caches)'
+- 'Höllvania/Exterminate: Techrot (Caches)'
+- Scaldra Screamer
+- Scaldra Screamer
+- Scaldra Screamer
+- Scaldra Screamer
+- Scaldra Screamer
+- Eidolon Hydrolyst (Capture)
+- Eidolon Hydrolyst (Capture)
+- Temporal Archimedea Legendary Rewards
+- Temporal Archimedea Legendary Rewards
+- Temporal Archimedea Legendary Rewards
+- Eidolon Hydrolyst
+- Eidolon Hydrolyst
+- Eidolon Hydrolyst
+- Eidolon Gantulyst (Capture)
+- Eidolon Gantulyst (Capture)
+- Eidolon Teralyst
+- Eidolon Teralyst
+- Eidolon Teralyst
+- Eidolon Teralyst
+- Eidolon Teralyst
+- Eidolon Gantulyst
+- Eidolon Teralyst (Capture)
+- Eidolon Hydrolyst (Capture)
+- Eidolon Gantulyst
+- Eidolon Gantulyst
+- Eidolon Teralyst
+- Sister Of Parvos (Ascension Hard Mode)
+- Sister Of Parvos (Ascension Hard Mode)
+- Eidolon Hydrolyst (Capture)
+- Eidolon Hydrolyst
+- Eidolon Hydrolyst
+- 'Duviri/Endless: Tier 2 (Hard)'
+- 'Duviri/Endless: Tier 8 (Hard)'
+category: Arcanes
+description: ''
+image: ../images/arcane.png
+last_updated: '2025-09-17'
+name: Arcane
+source: WFCD
+tags:
+- Arcane
+- Arcanes
+tradable: true
+type: Arcane
+---
+
+# Arcane
+
+## Acquisition
+
+Available from:
+- Duviri/Endless: Tier 1 (Normal)
+- Duviri/Endless: Tier 1 (Normal)
+- Duviri/Endless: Tier 1 (Normal)
+- Duviri/Endless: Tier 1 (Normal)
+- Duviri/Endless: Tier 1 (Normal)
+- Duviri/Endless: Tier 1 (Normal)
+- Duviri/Endless: Tier 1 (Normal)
+- Duviri/Endless: Tier 1 (Normal)
+- Duviri/Endless: Tier 1 (Normal)
+- Duviri/Endless: Tier 1 (Normal)
+- Duviri/Endless: Tier 1 (Normal)
+- Duviri/Endless: Tier 1 (Normal)
+- Duviri/Endless: Tier 1 (Normal)
+- Duviri/Endless: Tier 1 (Normal)
+- Duviri/Endless: Tier 1 (Normal)
+- Duviri/Endless: Tier 1 (Normal)
+- Duviri/Endless: Tier 1 (Normal)
+- Duviri/Endless: Tier 1 (Normal)
+- Duviri/Endless: Tier 1 (Normal)
+- Duviri/Endless: Tier 1 (Normal)
+- Duviri/Endless: Tier 1 (Normal)
+- Duviri/Endless: Tier 1 (Normal)
+- Duviri/Endless: Tier 1 (Normal)
+- Duviri/Endless: Tier 1 (Normal)
+- Duviri/Endless: Tier 1 (Normal)
+- Duviri/Endless: Tier 3 (Normal)
+- Duviri/Endless: Tier 3 (Normal)
+- Duviri/Endless: Tier 3 (Normal)
+- Duviri/Endless: Tier 3 (Normal)
+- Duviri/Endless: Tier 3 (Normal)
+- Duviri/Endless: Tier 3 (Normal)
+- Duviri/Endless: Tier 3 (Normal)
+- Duviri/Endless: Tier 3 (Normal)
+- Duviri/Endless: Tier 3 (Normal)
+- Duviri/Endless: Tier 3 (Normal)
+- Duviri/Endless: Tier 3 (Normal)
+- Duviri/Endless: Tier 3 (Normal)
+- Duviri/Endless: Tier 3 (Normal)
+- Duviri/Endless: Tier 3 (Normal)
+- Duviri/Endless: Tier 3 (Normal)
+- Duviri/Endless: Tier 3 (Normal)
+- Duviri/Endless: Tier 3 (Normal)
+- Duviri/Endless: Tier 3 (Normal)
+- Duviri/Endless: Tier 3 (Normal)
+- Duviri/Endless: Tier 3 (Normal)
+- Duviri/Endless: Tier 3 (Normal)
+- Duviri/Endless: Tier 3 (Normal)
+- Duviri/Endless: Tier 3 (Normal)
+- Duviri/Endless: Tier 3 (Normal)
+- Duviri/Endless: Tier 3 (Normal)
+- Veil/Erato (Skirmish), Rotation C
+- Veil/Erato (Skirmish), Rotation C
+- Veil/Erato (Skirmish), Rotation C
+- Duviri Static Undercroft Portal (Steel Path)
+- Veil/Erato (Skirmish), Rotation C
+- Veil/Erato (Skirmish), Rotation C
+- Veil/Erato (Skirmish), Rotation C
+- Veil/Erato (Skirmish), Rotation C
+- Veil/Erato (Skirmish), Rotation C
+- Veil/Erato (Skirmish), Rotation C
+- Veil/Erato (Skirmish), Rotation C
+- Veil/Erato (Skirmish), Rotation C
+- Pluto/Khufu Envoy (Skirmish), Rotation C
+- Pluto/Khufu Envoy (Skirmish), Rotation C
+- Neptune/Mammon's Prospect (Skirmish), Rotation C
+- Neptune/Mammon's Prospect (Skirmish), Rotation C
+- Neptune/Mammon's Prospect (Skirmish), Rotation C
+- Venus/Vesper Strait (Skirmish), Rotation C
+- Venus/Vesper Strait (Skirmish), Rotation C
+- Venus/Vesper Strait (Skirmish), Rotation C
+- Duviri/Endless: Tier 9 (Normal)
+- Duviri/Endless: Tier 9 (Normal)
+- Duviri/Endless: Tier 9 (Normal)
+- Duviri/Endless: Tier 9 (Normal)
+- Duviri/Endless: Tier 9 (Normal)
+- Duviri/Endless: Tier 9 (Normal)
+- Duviri/Endless: Tier 9 (Normal)
+- Duviri/Endless: Tier 9 (Normal)
+- Duviri/Endless: Tier 9 (Normal)
+- Duviri/Endless: Tier 9 (Normal)
+- Duviri/Endless: Tier 9 (Normal)
+- Duviri/Endless: Tier 9 (Normal)
+- Duviri/Endless: Tier 9 (Normal)
+- Duviri/Endless: Tier 9 (Normal)
+- Duviri/Endless: Tier 9 (Normal)
+- Duviri/Endless: Tier 9 (Normal)
+- Duviri/Endless: Tier 9 (Normal)
+- Duviri/Endless: Tier 9 (Normal)
+- Duviri/Endless: Tier 9 (Normal)
+- Duviri/Endless: Tier 9 (Normal)
+- Duviri/Endless: Tier 9 (Normal)
+- Duviri/Endless: Tier 9 (Normal)
+- Duviri/Endless: Tier 9 (Normal)
+- Duviri/Endless: Tier 9 (Normal)
+- Duviri/Endless: Tier 9 (Normal)
+- Duviri/Endless: Tier 1 (Hard)
+- Duviri/Endless: Tier 1 (Hard)
+- Duviri/Endless: Tier 3 (Hard)
+- Duviri/Endless: Tier 3 (Hard)
+- Duviri/Endless: Tier 4 (Hard)
+- Duviri/Endless: Tier 4 (Hard)
+- Arbitrations, Rotation A
+- Arbitrations, Rotation A
+- Arbitrations, Rotation A
+- Arbitrations, Rotation B
+- Arbitrations, Rotation B
+- Arbitrations, Rotation B
+- Arbitrations, Rotation C
+- Arbitrations, Rotation C
+- Arbitrations, Rotation C
+- Arbitrations, Rotation C
+- Eidolon Hydrolyst (Capture)
+- Eidolon Hydrolyst (Capture)
+- Eidolon Hydrolyst (Capture)
+- Eidolon Gantulyst (Capture)
+- Eidolon Gantulyst (Capture)
+- Eidolon Gantulyst (Capture)
+- Veil/Erato (Skirmish), Rotation C
+- Veil/Erato (Skirmish), Rotation C
+- Veil/Erato (Skirmish), Rotation C
+- Veil/Erato (Skirmish), Rotation C
+- Veil/Erato (Skirmish), Rotation C
+- Veil/Erato (Skirmish), Rotation C
+- Veil/Erato (Skirmish), Rotation C
+- Veil/Erato (Skirmish), Rotation C
+- Veil/Erato (Skirmish), Rotation C
+- Veil/Erato (Skirmish), Rotation C
+- Veil/Erato (Skirmish), Rotation C
+- Veil/Erato (Skirmish), Rotation C
+- Veil/Erato (Skirmish), Rotation C
+- Mars/Tyana Pass (Defense), Rotation C
+- Mars/Tyana Pass (Defense), Rotation C
+- Eidolon Gantulyst (Capture)
+- Duviri/Endless: Tier 6 (Hard)
+- Duviri/Endless: Tier 6 (Hard)
+- Duviri/Endless: Tier 7 (Hard)
+- Duviri/Endless: Tier 7 (Hard)
+- Eidolon Teralyst (Capture)
+- Eidolon Teralyst (Capture)
+- Eidolon Teralyst (Capture)
+- Eidolon Teralyst (Capture)
+- Sister Of Parvos (Ascension Mode)
+- Sister Of Parvos (Ascension Mode)
+- Pluto/Khufu Envoy (Skirmish), Rotation C
+- Pluto/Khufu Envoy (Skirmish), Rotation C
+- Pluto/Khufu Envoy (Skirmish), Rotation C
+- Pluto/Khufu Envoy (Skirmish), Rotation C
+- Pluto/Khufu Envoy (Skirmish), Rotation C
+- Eidolon Teralyst
+- Neptune/Mammon's Prospect (Skirmish), Rotation C
+- Neptune/Mammon's Prospect (Skirmish), Rotation C
+- Neptune/Mammon's Prospect (Skirmish), Rotation C
+- Neptune/Mammon's Prospect (Skirmish), Rotation C
+- Venus/Vesper Strait (Skirmish), Rotation C
+- Venus/Vesper Strait (Skirmish), Rotation C
+- Venus/Vesper Strait (Skirmish), Rotation C
+- Venus/Vesper Strait (Skirmish), Rotation C
+- Eidolon Gantulyst
+- Duviri Static Undercroft Portal
+- Duviri Static Undercroft Portal
+- Duviri Static Undercroft Portal
+- Duviri Static Undercroft Portal
+- Duviri Static Undercroft Portal
+- Duviri Static Undercroft Portal
+- Duviri Static Undercroft Portal
+- Duviri Static Undercroft Portal
+- Duviri Static Undercroft Portal
+- Duviri Static Undercroft Portal
+- Duviri Static Undercroft Portal
+- Duviri Static Undercroft Portal
+- Duviri Static Undercroft Portal
+- Duviri Static Undercroft Portal
+- Lua/Circulus (Survival), Rotation B
+- Temporal Archimedea Gold Rewards
+- Temporal Archimedea Gold Rewards
+- Temporal Archimedea Gold Rewards
+- Temporal Archimedea Silver Rewards
+- Temporal Archimedea Silver Rewards
+- Temporal Archimedea Silver Rewards
+- Duviri/Endless: Repeated Rewards (Hard)
+- Duviri/Endless: Repeated Rewards (Hard)
+- Eidolon Gantulyst (Capture)
+- Eidolon Gantulyst (Capture)
+- Eidolon Gantulyst (Capture)
+- Eidolon Gantulyst (Capture)
+- Pluto/Khufu Envoy (Skirmish), Rotation C
+- Pluto/Khufu Envoy (Skirmish), Rotation C
+- Pluto/Khufu Envoy (Skirmish), Rotation C
+- Pluto/Khufu Envoy (Skirmish), Rotation C
+- Pluto/Khufu Envoy (Skirmish), Rotation C
+- Pluto/Khufu Envoy (Skirmish), Rotation C
+- Duviri Static Undercroft Portal (Steel Path)
+- Duviri Static Undercroft Portal (Steel Path)
+- Eidolon Gantulyst
+- Eidolon Gantulyst
+- Eidolon Gantulyst
+- Eidolon Gantulyst
+- Lua/Circulus (Survival), Rotation C
+- Neptune/Mammon's Prospect (Skirmish), Rotation C
+- Neptune/Mammon's Prospect (Skirmish), Rotation C
+- Neptune/Mammon's Prospect (Skirmish), Rotation C
+- Neptune/Mammon's Prospect (Skirmish), Rotation C
+- Neptune/Mammon's Prospect (Skirmish), Rotation C
+- Neptune/Mammon's Prospect (Skirmish), Rotation C
+- Venus/Vesper Strait (Skirmish), Rotation C
+- Venus/Vesper Strait (Skirmish), Rotation C
+- Venus/Vesper Strait (Skirmish), Rotation C
+- Venus/Vesper Strait (Skirmish), Rotation C
+- Venus/Vesper Strait (Skirmish), Rotation C
+- Venus/Vesper Strait (Skirmish), Rotation C
+- Eidolon Hydrolyst (Capture)
+- Eidolon Hydrolyst (Capture)
+- Eidolon Hydrolyst
+- Eidolon Gantulyst (Capture)
+- Eidolon Teralyst (Capture)
+- Eidolon Teralyst (Capture)
+- Eidolon Teralyst (Capture)
+- Eidolon Teralyst (Capture)
+- Eidolon Teralyst (Capture)
+- H-09 Apex
+- H-09 Apex
+- H-09 Apex
+- H-09 Apex
+- H-09 Apex
+- H-09 Efervon Tank
+- H-09 Efervon Tank
+- H-09 Efervon Tank
+- H-09 Efervon Tank
+- H-09 Efervon Tank
+- Höllvania/Antivirus Bounty (Caches)
+- Höllvania/Antivirus Bounty (Caches)
+- Höllvania/Antivirus Bounty (Caches)
+- Höllvania/Antivirus Bounty (Caches)
+- Höllvania/Antivirus Bounty (Caches)
+- Höllvania/Exterminate: Scaldra (Caches)
+- Höllvania/Exterminate: Scaldra (Caches)
+- Höllvania/Exterminate: Scaldra (Caches)
+- Höllvania/Exterminate: Scaldra (Caches)
+- Höllvania/Exterminate: Scaldra (Caches)
+- Höllvania/Exterminate: Techrot (Caches)
+- Höllvania/Exterminate: Techrot (Caches)
+- Höllvania/Exterminate: Techrot (Caches)
+- Höllvania/Exterminate: Techrot (Caches)
+- Höllvania/Exterminate: Techrot (Caches)
+- Scaldra Screamer
+- Scaldra Screamer
+- Scaldra Screamer
+- Scaldra Screamer
+- Scaldra Screamer
+- Eidolon Hydrolyst (Capture)
+- Eidolon Hydrolyst (Capture)
+- Temporal Archimedea Legendary Rewards
+- Temporal Archimedea Legendary Rewards
+- Temporal Archimedea Legendary Rewards
+- Eidolon Hydrolyst
+- Eidolon Hydrolyst
+- Eidolon Hydrolyst
+- Eidolon Gantulyst (Capture)
+- Eidolon Gantulyst (Capture)
+- Eidolon Teralyst
+- Eidolon Teralyst
+- Eidolon Teralyst
+- Eidolon Teralyst
+- Eidolon Teralyst
+- Eidolon Gantulyst
+- Eidolon Teralyst (Capture)
+- Eidolon Hydrolyst (Capture)
+- Eidolon Gantulyst
+- Eidolon Gantulyst
+- Eidolon Teralyst
+- Sister Of Parvos (Ascension Hard Mode)
+- Sister Of Parvos (Ascension Hard Mode)
+- Eidolon Hydrolyst (Capture)
+- Eidolon Hydrolyst
+- Eidolon Hydrolyst
+- Duviri/Endless: Tier 2 (Hard)
+- Duviri/Endless: Tier 8 (Hard)
+

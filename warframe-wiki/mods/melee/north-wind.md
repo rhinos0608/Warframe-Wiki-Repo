@@ -1,0 +1,255 @@
+---
+acquisition:
+- Aurax Baculus
+- Guardsman
+- Arid Butcher
+- Frontier Butcher
+- Narmer Butcher
+- Bailiff
+- Butcher
+- Drahk Master
+- Drekar Manic
+- Frontier Bailiff
+- Kuva Butcher
+- Kuva Drahk Master
+- Tusk Butcher
+- Axio Moa
+- Bailiff Defector
+- Bailiff
+- Drover Bursa
+- Kuva Bailiff
+- Minima Moa
+- Moa
+- Orm Moa
+- Ratel
+- Tarask Bursa
+- Taro Moa
+- Vapos Moa
+- Vorac Moa
+- Ceres/Lex (Capture)
+- Earth/Mantle (Capture)
+- Eris/Cosis (Capture)
+- Eris/Isos (Capture)
+- Europa/Abaddon (Capture)
+- Europa/Beleth (Capture)
+- Europa/Cryotic Front (Capture)
+- Jupiter/Ananke (Capture)
+- Lua/Copernicus (Capture)
+- Mars/Ara (Capture)
+- Mars/Quirinus (Capture)
+- Mercury/Elion (Capture)
+- Neptune/Galatea (Capture)
+- Phobos/Limtoc (Capture)
+- Phobos/Skyresh (Capture)
+- Phobos/Todd (Capture)
+- Pluto/Corb (Capture)
+- Pluto/Hydra (Capture)
+- Saturn/Cassini (Capture)
+- Saturn/Phoebe (Capture)
+- Uranus/Ariel (Capture)
+- Uranus/Trinculo (Capture)
+- Venus/Venera (Capture)
+- Aurax Atloc Raknoid
+- Ghoul Devourer
+- Kyta Raknoid
+- Mite Raknoid
+- Narmer Mite
+- Narmer Raknoid
+- Narmer Scyto Raknoid
+- Scyto Raknoid
+- Terra Anti Moa
+- Terra Moa
+- Terra Railgun Moa
+- Terra Shockwave Moa
+- Ghoul Rictus
+- 'Duviri/Endless: Tier 1 (Normal)'
+- 'Duviri/Endless: Tier 3 (Normal)'
+- Jackal
+- Terra Ambulas
+- Terra Anti Moa
+- Terra Elite Embattor Moa
+- Terra Elite Raptor Sx
+- Terra Embattor Moa
+- Terra Jackal
+- Terra Moa
+- Terra Railgun Moa
+- Terra Raptor Sx
+- Terra Shockwave Moa
+- Coolant Raknoid
+- Grineer Manic
+- Ceres/Bode (Spy), Rotation B
+- Ceres/Cinxia (Interception), Rotation B
+- Earth/Gaia (Interception), Rotation B
+- Europa/Valac (Spy), Rotation B
+- Jupiter/Amalthea (Spy), Rotation B
+- Mars/Alator (Interception), Rotation B
+- Mercury/Odin (Interception), Rotation B
+- Saturn/Aegaeon (Spy), Rotation B
+- Saturn/Dione (Spy), Rotation B
+- Venus/Cytherean (Interception), Rotation B
+- Europa/Paimon (Defense), Rotation B
+- Jupiter/Io (Defense), Rotation B
+- Saturn/Helene (Defense), Rotation B
+- Sedna/Camenae (Defense), Rotation B
+- Eris/Ixodes (Defense), Rotation B
+- Eris/Kala-Azar (Defense), Rotation B
+- Eris/Oestrus (Infested Salvage), Rotation B
+- Kuva Fortress/Nabuk (Defense), Rotation B
+- Lua/StöFler (Defense), Rotation B
+- Neptune/Proteus (Defense), Rotation B
+- Pluto/Outer Terminus (Defense), Rotation B
+- Sedna/Hydron (Defense), Rotation B
+- Uranus/Bianca (Defense), Rotation B
+- Uranus/Miranda (Defense), Rotation B
+- Uranus/Stephano (Defense), Rotation B
+- Hyena Ln2
+- Hyena Ng
+- Hyena Pack
+- Hyena Pb
+- Hyena Th
+- Europa/Ose (Interception), Rotation B
+- Jupiter/Callisto (Interception), Rotation B
+- Saturn/Rhea (Interception), Rotation B
+- Uranus/Umbriel (Interception), Rotation B
+- Lua/Pavlov (Spy), Rotation B
+- Profit-Taker
+- Wolf Of Saturn Six
+- Zealoid Prelate
+category: Mods
+description: ''
+drain: 6
+image: ../images/north-wind-22586567de.jpg
+last_updated: '2025-09-17'
+name: North Wind
+polarity: vazarin
+rarity: Uncommon
+release_date: '2012-10-25'
+source: WFCD
+tags:
+- Melee Mod
+- Mods
+tradable: true
+type: Melee Mod
+---
+
+# North Wind
+
+## Acquisition
+
+Available from:
+- Aurax Baculus
+- Guardsman
+- Arid Butcher
+- Frontier Butcher
+- Narmer Butcher
+- Bailiff
+- Butcher
+- Drahk Master
+- Drekar Manic
+- Frontier Bailiff
+- Kuva Butcher
+- Kuva Drahk Master
+- Tusk Butcher
+- Axio Moa
+- Bailiff Defector
+- Bailiff
+- Drover Bursa
+- Kuva Bailiff
+- Minima Moa
+- Moa
+- Orm Moa
+- Ratel
+- Tarask Bursa
+- Taro Moa
+- Vapos Moa
+- Vorac Moa
+- Ceres/Lex (Capture)
+- Earth/Mantle (Capture)
+- Eris/Cosis (Capture)
+- Eris/Isos (Capture)
+- Europa/Abaddon (Capture)
+- Europa/Beleth (Capture)
+- Europa/Cryotic Front (Capture)
+- Jupiter/Ananke (Capture)
+- Lua/Copernicus (Capture)
+- Mars/Ara (Capture)
+- Mars/Quirinus (Capture)
+- Mercury/Elion (Capture)
+- Neptune/Galatea (Capture)
+- Phobos/Limtoc (Capture)
+- Phobos/Skyresh (Capture)
+- Phobos/Todd (Capture)
+- Pluto/Corb (Capture)
+- Pluto/Hydra (Capture)
+- Saturn/Cassini (Capture)
+- Saturn/Phoebe (Capture)
+- Uranus/Ariel (Capture)
+- Uranus/Trinculo (Capture)
+- Venus/Venera (Capture)
+- Aurax Atloc Raknoid
+- Ghoul Devourer
+- Kyta Raknoid
+- Mite Raknoid
+- Narmer Mite
+- Narmer Raknoid
+- Narmer Scyto Raknoid
+- Scyto Raknoid
+- Terra Anti Moa
+- Terra Moa
+- Terra Railgun Moa
+- Terra Shockwave Moa
+- Ghoul Rictus
+- Duviri/Endless: Tier 1 (Normal)
+- Duviri/Endless: Tier 3 (Normal)
+- Jackal
+- Terra Ambulas
+- Terra Anti Moa
+- Terra Elite Embattor Moa
+- Terra Elite Raptor Sx
+- Terra Embattor Moa
+- Terra Jackal
+- Terra Moa
+- Terra Railgun Moa
+- Terra Raptor Sx
+- Terra Shockwave Moa
+- Coolant Raknoid
+- Grineer Manic
+- Ceres/Bode (Spy), Rotation B
+- Ceres/Cinxia (Interception), Rotation B
+- Earth/Gaia (Interception), Rotation B
+- Europa/Valac (Spy), Rotation B
+- Jupiter/Amalthea (Spy), Rotation B
+- Mars/Alator (Interception), Rotation B
+- Mercury/Odin (Interception), Rotation B
+- Saturn/Aegaeon (Spy), Rotation B
+- Saturn/Dione (Spy), Rotation B
+- Venus/Cytherean (Interception), Rotation B
+- Europa/Paimon (Defense), Rotation B
+- Jupiter/Io (Defense), Rotation B
+- Saturn/Helene (Defense), Rotation B
+- Sedna/Camenae (Defense), Rotation B
+- Eris/Ixodes (Defense), Rotation B
+- Eris/Kala-Azar (Defense), Rotation B
+- Eris/Oestrus (Infested Salvage), Rotation B
+- Kuva Fortress/Nabuk (Defense), Rotation B
+- Lua/StöFler (Defense), Rotation B
+- Neptune/Proteus (Defense), Rotation B
+- Pluto/Outer Terminus (Defense), Rotation B
+- Sedna/Hydron (Defense), Rotation B
+- Uranus/Bianca (Defense), Rotation B
+- Uranus/Miranda (Defense), Rotation B
+- Uranus/Stephano (Defense), Rotation B
+- Hyena Ln2
+- Hyena Ng
+- Hyena Pack
+- Hyena Pb
+- Hyena Th
+- Europa/Ose (Interception), Rotation B
+- Jupiter/Callisto (Interception), Rotation B
+- Saturn/Rhea (Interception), Rotation B
+- Uranus/Umbriel (Interception), Rotation B
+- Lua/Pavlov (Spy), Rotation B
+- Profit-Taker
+- Wolf Of Saturn Six
+- Zealoid Prelate
+

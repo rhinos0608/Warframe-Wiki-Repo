@@ -1,0 +1,78 @@
+---
+category: Relics
+description: An artifact containing Orokin secrets. It can only be opened through
+  the power of the Void.
+image: ../images/lith-intact.png
+last_updated: '2025-09-17'
+name: Lith S12 Intact
+rewards:
+- chance: 2
+  item:
+    name: Strun Prime Blueprint
+    uniqueName: /Lotus/Types/Game/Projections/T1VoidProjectionGarudaPrimeEBronze
+    warframeMarket:
+      id: 6139101930dd5b004b7f909f
+      urlName: strun_prime_blueprint
+  rarity: Rare
+- chance: 11
+  item:
+    name: Gara Prime Neuroptics Blueprint
+    uniqueName: /Lotus/Types/Game/Projections/T1VoidProjectionGarudaPrimeEBronze
+    warframeMarket:
+      id: 60ad4a1cf1904300d012c702
+      urlName: gara_prime_neuroptics_blueprint
+  rarity: Uncommon
+- chance: 11
+  item:
+    name: Braton Prime Blueprint
+    uniqueName: /Lotus/Types/Game/Projections/T1VoidProjectionGarudaPrimeEBronze
+    warframeMarket:
+      id: 54a73e65e779893a797fff33
+      urlName: braton_prime_blueprint
+  rarity: Uncommon
+- chance: 25.33
+  item:
+    name: Corvas Prime Stock
+    uniqueName: /Lotus/Types/Game/Projections/T1VoidProjectionGarudaPrimeEBronze
+    warframeMarket:
+      id: 6242037666a58f0108c3d484
+      urlName: corvas_prime_stock
+  rarity: Uncommon
+- chance: 25.33
+  item:
+    name: Forma Blueprint
+    uniqueName: /Lotus/Types/Game/Projections/T1VoidProjectionGarudaPrimeEBronze
+  rarity: Uncommon
+- chance: 25.33
+  item:
+    name: Bronco Prime Blueprint
+    uniqueName: /Lotus/Types/Game/Projections/T1VoidProjectionGarudaPrimeEBronze
+    warframeMarket:
+      id: 54a73e65e779893a797fff37
+      urlName: bronco_prime_blueprint
+  rarity: Uncommon
+source: WFCD
+tags:
+- Relic
+- Relics
+tradable: true
+type: Relic
+---
+
+# Lith S12 Intact
+
+An artifact containing Orokin secrets. It can only be opened through the power of the Void.
+
+## Relic Information
+
+## Rewards
+
+| Item | Rarity | Chance |
+|------|---------|--------|
+| Unknown | Rare | 2 |
+| Unknown | Uncommon | 11 |
+| Unknown | Uncommon | 11 |
+| Unknown | Uncommon | 25.33 |
+| Unknown | Uncommon | 25.33 |
+| Unknown | Uncommon | 25.33 |
+

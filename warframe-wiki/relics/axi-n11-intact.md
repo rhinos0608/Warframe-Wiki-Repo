@@ -1,0 +1,78 @@
+---
+category: Relics
+description: An artifact containing Orokin secrets. It can only be opened through
+  the power of the Void.
+image: ../images/axi-intact.png
+last_updated: '2025-09-17'
+name: Axi N11 Intact
+rewards:
+- chance: 2
+  item:
+    name: Nagantaka Prime Blueprint
+    uniqueName: /Lotus/Types/Game/Projections/T4VoidProjectionGarudaKhoraVaultBBronze
+    warframeMarket:
+      id: 6242037666a58f0108c3d482
+      urlName: nagantaka_prime_blueprint
+  rarity: Rare
+- chance: 11
+  item:
+    name: Garuda Prime Chassis Blueprint
+    uniqueName: /Lotus/Types/Game/Projections/T4VoidProjectionGarudaKhoraVaultBBronze
+    warframeMarket:
+      id: 6242037666a58f0108c3d479
+      urlName: garuda_prime_chassis_blueprint
+  rarity: Uncommon
+- chance: 11
+  item:
+    name: Fang Prime Handle
+    uniqueName: /Lotus/Types/Game/Projections/T4VoidProjectionGarudaKhoraVaultBBronze
+    warframeMarket:
+      id: 54a73e65e779893a797fff42
+      urlName: fang_prime_handle
+  rarity: Uncommon
+- chance: 25.33
+  item:
+    name: Khora Prime Systems Blueprint
+    uniqueName: /Lotus/Types/Game/Projections/T4VoidProjectionGarudaKhoraVaultBBronze
+    warframeMarket:
+      id: 62d3494175156700ce450e04
+      urlName: khora_prime_systems_blueprint
+  rarity: Uncommon
+- chance: 25.33
+  item:
+    name: Burston Prime Receiver
+    uniqueName: /Lotus/Types/Game/Projections/T4VoidProjectionGarudaKhoraVaultBBronze
+    warframeMarket:
+      id: 54a73e65e779893a797fff3b
+      urlName: burston_prime_receiver
+  rarity: Uncommon
+- chance: 25.33
+  item:
+    name: Forma Blueprint
+    uniqueName: /Lotus/Types/Game/Projections/T4VoidProjectionGarudaKhoraVaultBBronze
+  rarity: Uncommon
+source: WFCD
+tags:
+- Relic
+- Relics
+tradable: true
+type: Relic
+---
+
+# Axi N11 Intact
+
+An artifact containing Orokin secrets. It can only be opened through the power of the Void.
+
+## Relic Information
+
+## Rewards
+
+| Item | Rarity | Chance |
+|------|---------|--------|
+| Unknown | Rare | 2 |
+| Unknown | Uncommon | 11 |
+| Unknown | Uncommon | 11 |
+| Unknown | Uncommon | 25.33 |
+| Unknown | Uncommon | 25.33 |
+| Unknown | Uncommon | 25.33 |
+

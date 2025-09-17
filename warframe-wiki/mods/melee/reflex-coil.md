@@ -1,0 +1,241 @@
+---
+acquisition:
+- Aurax Baculus
+- Guardsman
+- Arid Butcher
+- Frontier Butcher
+- Narmer Butcher
+- Bailiff
+- Butcher
+- Drahk Master
+- Drekar Manic
+- Frontier Bailiff
+- Kuva Butcher
+- Kuva Drahk Master
+- Tusk Butcher
+- Kuva Lich Agor Rok (Level 0 - 69)
+- Drekar Butcher
+- Aurax Atloc Raknoid
+- Ghoul Devourer
+- Kyta Raknoid
+- Mite Raknoid
+- Narmer Mite
+- Narmer Raknoid
+- Narmer Scyto Raknoid
+- Scyto Raknoid
+- Terra Anti Moa
+- Terra Moa
+- Terra Railgun Moa
+- Terra Shockwave Moa
+- Ghoul Rictus
+- Raptor Mt
+- Raptor Ns
+- Raptor Rv
+- Raptor
+- 'Duviri/Endless: Tier 1 (Normal)'
+- 'Duviri/Endless: Tier 3 (Normal)'
+- Jackal
+- Terra Ambulas
+- Terra Anti Moa
+- Terra Elite Embattor Moa
+- Terra Elite Raptor Sx
+- Terra Embattor Moa
+- Terra Jackal
+- Terra Moa
+- Terra Railgun Moa
+- Terra Raptor Sx
+- Terra Shockwave Moa
+- Coolant Raknoid
+- Kuva Lich Agor Rok (Level 80 - 100)
+- Another Betrayer, Rotation B
+- Ceres/Seimeni (Defense), Rotation B
+- Earth/Coba (Defense), Rotation B
+- Eris/Akkad (Defense), Rotation B
+- Europa/Larzac (Defense), Rotation B
+- Family Reunion, Rotation B
+- Hot Mess, Rotation B
+- Jupiter/Sinai (Defense), Rotation B
+- Mars/Kadesh (Defense), Rotation B
+- Phobos/Opik (Rush), Rotation B
+- Pluto/Sechura (Defense), Rotation B
+- Recover The Orokin Archive, Rotation B
+- Sedna/Sangeru (Defense), Rotation B
+- Sunkiller, Rotation B
+- Table For Two, Rotation B
+- The Aftermath, Rotation B
+- Time's Up, Rotation B
+- Venus/Romula (Defense), Rotation B
+- Grineer Manic
+- Ceres/Bode (Spy), Rotation B
+- Ceres/Cinxia (Interception), Rotation B
+- Earth/Gaia (Interception), Rotation B
+- Europa/Valac (Spy), Rotation B
+- Jupiter/Amalthea (Spy), Rotation B
+- Mars/Alator (Interception), Rotation B
+- Mercury/Odin (Interception), Rotation B
+- Saturn/Aegaeon (Spy), Rotation B
+- Saturn/Dione (Spy), Rotation B
+- Venus/Cytherean (Interception), Rotation B
+- Europa/Paimon (Defense), Rotation B
+- Jupiter/Io (Defense), Rotation B
+- Saturn/Helene (Defense), Rotation B
+- Sedna/Camenae (Defense), Rotation B
+- Eris/Ixodes (Defense), Rotation B
+- Eris/Kala-Azar (Defense), Rotation B
+- Eris/Oestrus (Infested Salvage), Rotation B
+- Kuva Fortress/Nabuk (Defense), Rotation B
+- Lua/StöFler (Defense), Rotation B
+- Neptune/Proteus (Defense), Rotation B
+- Pluto/Outer Terminus (Defense), Rotation B
+- Sedna/Hydron (Defense), Rotation B
+- Uranus/Bianca (Defense), Rotation B
+- Uranus/Miranda (Defense), Rotation B
+- Uranus/Stephano (Defense), Rotation B
+- Europa/Ose (Interception), Rotation B
+- Jupiter/Callisto (Interception), Rotation B
+- Saturn/Rhea (Interception), Rotation B
+- Uranus/Umbriel (Interception), Rotation B
+- Lua/Pavlov (Spy), Rotation B
+- The Sergeant
+- Ceres/Casta (Defense), Rotation B
+- Ceres/Egeria (Defense), Rotation B
+- Ceres/Varro (Defense), Rotation B
+- Earth/Lith (Defense), Rotation B
+- Mars/Spear (Defense), Rotation B
+- Mercury/Lares (Defense), Rotation B
+- Phobos/Drunlo (Defense), Rotation B
+- Phobos/Gulliver (Defense), Rotation B
+- Venus/Tessera (Defense), Rotation B
+- Profit-Taker
+- Raptor
+category: Mods
+description: ''
+drain: 2
+image: ../images/reflex-coil-39737ca69c.jpg
+last_updated: '2025-09-17'
+name: Reflex Coil
+polarity: naramon
+rarity: Uncommon
+release_date: '2012-10-25'
+source: WFCD
+tags:
+- Melee Mod
+- Mods
+tradable: true
+type: Melee Mod
+---
+
+# Reflex Coil
+
+## Acquisition
+
+Available from:
+- Aurax Baculus
+- Guardsman
+- Arid Butcher
+- Frontier Butcher
+- Narmer Butcher
+- Bailiff
+- Butcher
+- Drahk Master
+- Drekar Manic
+- Frontier Bailiff
+- Kuva Butcher
+- Kuva Drahk Master
+- Tusk Butcher
+- Kuva Lich Agor Rok (Level 0 - 69)
+- Drekar Butcher
+- Aurax Atloc Raknoid
+- Ghoul Devourer
+- Kyta Raknoid
+- Mite Raknoid
+- Narmer Mite
+- Narmer Raknoid
+- Narmer Scyto Raknoid
+- Scyto Raknoid
+- Terra Anti Moa
+- Terra Moa
+- Terra Railgun Moa
+- Terra Shockwave Moa
+- Ghoul Rictus
+- Raptor Mt
+- Raptor Ns
+- Raptor Rv
+- Raptor
+- Duviri/Endless: Tier 1 (Normal)
+- Duviri/Endless: Tier 3 (Normal)
+- Jackal
+- Terra Ambulas
+- Terra Anti Moa
+- Terra Elite Embattor Moa
+- Terra Elite Raptor Sx
+- Terra Embattor Moa
+- Terra Jackal
+- Terra Moa
+- Terra Railgun Moa
+- Terra Raptor Sx
+- Terra Shockwave Moa
+- Coolant Raknoid
+- Kuva Lich Agor Rok (Level 80 - 100)
+- Another Betrayer, Rotation B
+- Ceres/Seimeni (Defense), Rotation B
+- Earth/Coba (Defense), Rotation B
+- Eris/Akkad (Defense), Rotation B
+- Europa/Larzac (Defense), Rotation B
+- Family Reunion, Rotation B
+- Hot Mess, Rotation B
+- Jupiter/Sinai (Defense), Rotation B
+- Mars/Kadesh (Defense), Rotation B
+- Phobos/Opik (Rush), Rotation B
+- Pluto/Sechura (Defense), Rotation B
+- Recover The Orokin Archive, Rotation B
+- Sedna/Sangeru (Defense), Rotation B
+- Sunkiller, Rotation B
+- Table For Two, Rotation B
+- The Aftermath, Rotation B
+- Time's Up, Rotation B
+- Venus/Romula (Defense), Rotation B
+- Grineer Manic
+- Ceres/Bode (Spy), Rotation B
+- Ceres/Cinxia (Interception), Rotation B
+- Earth/Gaia (Interception), Rotation B
+- Europa/Valac (Spy), Rotation B
+- Jupiter/Amalthea (Spy), Rotation B
+- Mars/Alator (Interception), Rotation B
+- Mercury/Odin (Interception), Rotation B
+- Saturn/Aegaeon (Spy), Rotation B
+- Saturn/Dione (Spy), Rotation B
+- Venus/Cytherean (Interception), Rotation B
+- Europa/Paimon (Defense), Rotation B
+- Jupiter/Io (Defense), Rotation B
+- Saturn/Helene (Defense), Rotation B
+- Sedna/Camenae (Defense), Rotation B
+- Eris/Ixodes (Defense), Rotation B
+- Eris/Kala-Azar (Defense), Rotation B
+- Eris/Oestrus (Infested Salvage), Rotation B
+- Kuva Fortress/Nabuk (Defense), Rotation B
+- Lua/StöFler (Defense), Rotation B
+- Neptune/Proteus (Defense), Rotation B
+- Pluto/Outer Terminus (Defense), Rotation B
+- Sedna/Hydron (Defense), Rotation B
+- Uranus/Bianca (Defense), Rotation B
+- Uranus/Miranda (Defense), Rotation B
+- Uranus/Stephano (Defense), Rotation B
+- Europa/Ose (Interception), Rotation B
+- Jupiter/Callisto (Interception), Rotation B
+- Saturn/Rhea (Interception), Rotation B
+- Uranus/Umbriel (Interception), Rotation B
+- Lua/Pavlov (Spy), Rotation B
+- The Sergeant
+- Ceres/Casta (Defense), Rotation B
+- Ceres/Egeria (Defense), Rotation B
+- Ceres/Varro (Defense), Rotation B
+- Earth/Lith (Defense), Rotation B
+- Mars/Spear (Defense), Rotation B
+- Mercury/Lares (Defense), Rotation B
+- Phobos/Drunlo (Defense), Rotation B
+- Phobos/Gulliver (Defense), Rotation B
+- Venus/Tessera (Defense), Rotation B
+- Profit-Taker
+- Raptor
+

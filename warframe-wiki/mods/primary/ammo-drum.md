@@ -1,0 +1,241 @@
+---
+acquisition:
+- Axio Crewman
+- Axio Engineer
+- Axio Moa
+- Axio Tech
+- Corpus Power Carrier
+- Corrupted Power Carrier
+- Crewman
+- Deimos Mutalist Osprey Carrier
+- Denial Bursa
+- Drover Bursa
+- Grineer Power Carrier
+- Hellion Power Carrier
+- Isolator Bursa
+- Juno Crewman
+- Juno Dera Moa
+- Juno Disc Moa
+- Juno Elite Crewman
+- Juno Geminex Moa
+- Juno Glaxion Moa
+- Juno Tech
+- Kuva Hellion Carrier
+- Kuva Power Carrier
+- Minima Moa
+- Moa
+- Mutalist Osprey Carrier
+- Narmer Crewman
+- Narmer Dera Moa
+- Narmer Disc Moa
+- Narmer Geminex Moa
+- Narmer Glaxion Moa
+- Narmer Power Carrier
+- Narmer Tech
+- Nightwatch Carrier
+- Orm Crewman
+- Orm Engineer
+- Orm Moa
+- Orm Tech
+- Ratel
+- Striker Moa
+- Tarask Bursa
+- Taro Crewman
+- Taro Engineer
+- Taro Moa
+- Taro Tech
+- Vapos Crewman
+- Vapos Moa
+- Vorac Crewman
+- Vorac Engineer
+- Vorac Moa
+- Vorac Tech
+- Eidolon Vomvalyst
+- Orb Vallis - Enrichment Labs Enemies
+- Another Betrayer, Rotation A
+- Family Reunion, Rotation A
+- Hot Mess, Rotation A
+- Phobos/Opik (Rush), Rotation A
+- Recover The Orokin Archive, Rotation A
+- Sunkiller, Rotation A
+- Table For Two, Rotation A
+- The Aftermath, Rotation A
+- Time's Up, Rotation A
+- Hellion Power Carrier
+- Ceres/Seimeni (Defense), Rotation A
+- Earth/Coba (Defense), Rotation A
+- Eris/Akkad (Defense), Rotation A
+- Europa/Larzac (Defense), Rotation A
+- Jupiter/Sinai (Defense), Rotation A
+- Mars/Kadesh (Defense), Rotation A
+- Pluto/Sechura (Defense), Rotation A
+- Sedna/Sangeru (Defense), Rotation A
+- Venus/Romula (Defense), Rotation A
+- Ceres/Bode (Spy), Rotation A
+- Ceres/Casta (Defense), Rotation A
+- Ceres/Egeria (Defense), Rotation A
+- Ceres/Varro (Defense), Rotation A
+- Earth/Lith (Defense), Rotation A
+- Europa/Valac (Spy), Rotation A
+- Jupiter/Amalthea (Spy), Rotation A
+- Mars/Spear (Defense), Rotation A
+- Mercury/Lares (Defense), Rotation A
+- Phobos/Drunlo (Defense), Rotation A
+- Phobos/Gulliver (Defense), Rotation A
+- Saturn/Aegaeon (Spy), Rotation A
+- Saturn/Dione (Spy), Rotation A
+- Venus/Tessera (Defense), Rotation A
+- Ceres/Lex (Capture)
+- Earth/Mantle (Capture)
+- Eris/Cosis (Capture)
+- Eris/Isos (Capture)
+- Europa/Abaddon (Capture)
+- Europa/Beleth (Capture)
+- Europa/Cryotic Front (Capture)
+- Jupiter/Ananke (Capture)
+- Lua/Copernicus (Capture)
+- Mars/Ara (Capture)
+- Mars/Quirinus (Capture)
+- Mercury/Elion (Capture)
+- Neptune/Galatea (Capture)
+- Phobos/Limtoc (Capture)
+- Phobos/Skyresh (Capture)
+- Phobos/Todd (Capture)
+- Pluto/Corb (Capture)
+- Pluto/Hydra (Capture)
+- Saturn/Cassini (Capture)
+- Saturn/Phoebe (Capture)
+- Uranus/Ariel (Capture)
+- Uranus/Trinculo (Capture)
+- Venus/Venera (Capture)
+category: Mods
+description: ''
+drain: 2
+image: ../images/ammo-drum-7a09247da9.jpg
+last_updated: '2025-09-17'
+name: Ammo Drum
+polarity: naramon
+rarity: Common
+release_date: '2012-10-25'
+source: WFCD
+tags:
+- Primary Mod
+- Mods
+tradable: true
+type: Primary Mod
+---
+
+# Ammo Drum
+
+## Acquisition
+
+Available from:
+- Axio Crewman
+- Axio Engineer
+- Axio Moa
+- Axio Tech
+- Corpus Power Carrier
+- Corrupted Power Carrier
+- Crewman
+- Deimos Mutalist Osprey Carrier
+- Denial Bursa
+- Drover Bursa
+- Grineer Power Carrier
+- Hellion Power Carrier
+- Isolator Bursa
+- Juno Crewman
+- Juno Dera Moa
+- Juno Disc Moa
+- Juno Elite Crewman
+- Juno Geminex Moa
+- Juno Glaxion Moa
+- Juno Tech
+- Kuva Hellion Carrier
+- Kuva Power Carrier
+- Minima Moa
+- Moa
+- Mutalist Osprey Carrier
+- Narmer Crewman
+- Narmer Dera Moa
+- Narmer Disc Moa
+- Narmer Geminex Moa
+- Narmer Glaxion Moa
+- Narmer Power Carrier
+- Narmer Tech
+- Nightwatch Carrier
+- Orm Crewman
+- Orm Engineer
+- Orm Moa
+- Orm Tech
+- Ratel
+- Striker Moa
+- Tarask Bursa
+- Taro Crewman
+- Taro Engineer
+- Taro Moa
+- Taro Tech
+- Vapos Crewman
+- Vapos Moa
+- Vorac Crewman
+- Vorac Engineer
+- Vorac Moa
+- Vorac Tech
+- Eidolon Vomvalyst
+- Orb Vallis - Enrichment Labs Enemies
+- Another Betrayer, Rotation A
+- Family Reunion, Rotation A
+- Hot Mess, Rotation A
+- Phobos/Opik (Rush), Rotation A
+- Recover The Orokin Archive, Rotation A
+- Sunkiller, Rotation A
+- Table For Two, Rotation A
+- The Aftermath, Rotation A
+- Time's Up, Rotation A
+- Hellion Power Carrier
+- Ceres/Seimeni (Defense), Rotation A
+- Earth/Coba (Defense), Rotation A
+- Eris/Akkad (Defense), Rotation A
+- Europa/Larzac (Defense), Rotation A
+- Jupiter/Sinai (Defense), Rotation A
+- Mars/Kadesh (Defense), Rotation A
+- Pluto/Sechura (Defense), Rotation A
+- Sedna/Sangeru (Defense), Rotation A
+- Venus/Romula (Defense), Rotation A
+- Ceres/Bode (Spy), Rotation A
+- Ceres/Casta (Defense), Rotation A
+- Ceres/Egeria (Defense), Rotation A
+- Ceres/Varro (Defense), Rotation A
+- Earth/Lith (Defense), Rotation A
+- Europa/Valac (Spy), Rotation A
+- Jupiter/Amalthea (Spy), Rotation A
+- Mars/Spear (Defense), Rotation A
+- Mercury/Lares (Defense), Rotation A
+- Phobos/Drunlo (Defense), Rotation A
+- Phobos/Gulliver (Defense), Rotation A
+- Saturn/Aegaeon (Spy), Rotation A
+- Saturn/Dione (Spy), Rotation A
+- Venus/Tessera (Defense), Rotation A
+- Ceres/Lex (Capture)
+- Earth/Mantle (Capture)
+- Eris/Cosis (Capture)
+- Eris/Isos (Capture)
+- Europa/Abaddon (Capture)
+- Europa/Beleth (Capture)
+- Europa/Cryotic Front (Capture)
+- Jupiter/Ananke (Capture)
+- Lua/Copernicus (Capture)
+- Mars/Ara (Capture)
+- Mars/Quirinus (Capture)
+- Mercury/Elion (Capture)
+- Neptune/Galatea (Capture)
+- Phobos/Limtoc (Capture)
+- Phobos/Skyresh (Capture)
+- Phobos/Todd (Capture)
+- Pluto/Corb (Capture)
+- Pluto/Hydra (Capture)
+- Saturn/Cassini (Capture)
+- Saturn/Phoebe (Capture)
+- Uranus/Ariel (Capture)
+- Uranus/Trinculo (Capture)
+- Venus/Venera (Capture)
+

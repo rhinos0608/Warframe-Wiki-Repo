@@ -1,0 +1,231 @@
+---
+acquisition:
+- Arid Eviscerator
+- Arid Trooper
+- Denial Bursa
+- Drekar Eviscerator
+- Drekar Trooper
+- Eviscerator
+- Frontier Eviscerator
+- Frontier Trooper
+- Kuva Eviscerator
+- Kuva Trooper
+- Narmer Trooper
+- Trooper Survivor
+- Trooper
+- Tusk Eviscerator
+- Tusk Trooper
+- Ceres/Lex (Capture)
+- Earth/Mantle (Capture)
+- Eris/Cosis (Capture)
+- Eris/Isos (Capture)
+- Europa/Abaddon (Capture)
+- Europa/Beleth (Capture)
+- Europa/Cryotic Front (Capture)
+- Jupiter/Ananke (Capture)
+- Lua/Copernicus (Capture)
+- Mars/Ara (Capture)
+- Mars/Quirinus (Capture)
+- Mercury/Elion (Capture)
+- Neptune/Galatea (Capture)
+- Phobos/Limtoc (Capture)
+- Phobos/Skyresh (Capture)
+- Phobos/Todd (Capture)
+- Pluto/Corb (Capture)
+- Pluto/Hydra (Capture)
+- Saturn/Cassini (Capture)
+- Saturn/Phoebe (Capture)
+- Uranus/Ariel (Capture)
+- Uranus/Trinculo (Capture)
+- Venus/Venera (Capture)
+- Aurax Atloc Raknoid
+- Kyta Raknoid
+- Mite Raknoid
+- Narmer Mite
+- Narmer Raknoid
+- Narmer Scyto Raknoid
+- Scyto Raknoid
+- Terra Anti Moa
+- Terra Moa
+- Terra Railgun Moa
+- Terra Shockwave Moa
+- 'Duviri/Endless: Tier 1 (Normal)'
+- 'Duviri/Endless: Tier 3 (Normal)'
+- Jackal
+- Terra Ambulas
+- Terra Anti Moa
+- Terra Elite Embattor Moa
+- Terra Elite Raptor Sx
+- Terra Embattor Moa
+- Terra Jackal
+- Terra Moa
+- Terra Railgun Moa
+- Terra Raptor Sx
+- Terra Shockwave Moa
+- Coolant Raknoid
+- Ceres/Bode (Spy), Rotation B
+- Europa/Valac (Spy), Rotation B
+- Jupiter/Amalthea (Spy), Rotation B
+- Saturn/Aegaeon (Spy), Rotation B
+- Saturn/Dione (Spy), Rotation B
+- Eris/Ixodes (Defense), Rotation B
+- Eris/Kala-Azar (Defense), Rotation B
+- Eris/Oestrus (Infested Salvage), Rotation B
+- Kuva Fortress/Nabuk (Defense), Rotation B
+- Lua/StöFler (Defense), Rotation B
+- Neptune/Proteus (Defense), Rotation B
+- Pluto/Outer Terminus (Defense), Rotation B
+- Sedna/Hydron (Defense), Rotation B
+- Uranus/Bianca (Defense), Rotation B
+- Uranus/Miranda (Defense), Rotation B
+- Uranus/Stephano (Defense), Rotation B
+- Lua/Pavlov (Spy), Rotation B
+- The Sergeant
+- Tyl Regor
+- Another Betrayer, Rotation C
+- Family Reunion, Rotation C
+- Hot Mess, Rotation C
+- Phobos/Opik (Rush), Rotation C
+- Recover The Orokin Archive, Rotation C
+- Sunkiller, Rotation C
+- Table For Two, Rotation C
+- The Aftermath, Rotation C
+- Time's Up, Rotation C
+- Ceres/Casta (Defense), Rotation B
+- Ceres/Egeria (Defense), Rotation B
+- Ceres/Varro (Defense), Rotation B
+- Earth/Lith (Defense), Rotation B
+- Mars/Spear (Defense), Rotation B
+- Mercury/Lares (Defense), Rotation B
+- Phobos/Drunlo (Defense), Rotation B
+- Phobos/Gulliver (Defense), Rotation B
+- Venus/Tessera (Defense), Rotation B
+- Profit-Taker
+- Wolf Of Saturn Six
+- Zealoid Prelate
+category: Mods
+description: ''
+drain: 6
+image: ../images/shocking-touch-4e3e9a02d4.jpg
+last_updated: '2025-09-17'
+name: Shocking Touch
+polarity: naramon
+rarity: Uncommon
+release_date: '2012-10-25'
+source: WFCD
+tags:
+- Melee Mod
+- Mods
+tradable: true
+type: Melee Mod
+---
+
+# Shocking Touch
+
+## Acquisition
+
+Available from:
+- Arid Eviscerator
+- Arid Trooper
+- Denial Bursa
+- Drekar Eviscerator
+- Drekar Trooper
+- Eviscerator
+- Frontier Eviscerator
+- Frontier Trooper
+- Kuva Eviscerator
+- Kuva Trooper
+- Narmer Trooper
+- Trooper Survivor
+- Trooper
+- Tusk Eviscerator
+- Tusk Trooper
+- Ceres/Lex (Capture)
+- Earth/Mantle (Capture)
+- Eris/Cosis (Capture)
+- Eris/Isos (Capture)
+- Europa/Abaddon (Capture)
+- Europa/Beleth (Capture)
+- Europa/Cryotic Front (Capture)
+- Jupiter/Ananke (Capture)
+- Lua/Copernicus (Capture)
+- Mars/Ara (Capture)
+- Mars/Quirinus (Capture)
+- Mercury/Elion (Capture)
+- Neptune/Galatea (Capture)
+- Phobos/Limtoc (Capture)
+- Phobos/Skyresh (Capture)
+- Phobos/Todd (Capture)
+- Pluto/Corb (Capture)
+- Pluto/Hydra (Capture)
+- Saturn/Cassini (Capture)
+- Saturn/Phoebe (Capture)
+- Uranus/Ariel (Capture)
+- Uranus/Trinculo (Capture)
+- Venus/Venera (Capture)
+- Aurax Atloc Raknoid
+- Kyta Raknoid
+- Mite Raknoid
+- Narmer Mite
+- Narmer Raknoid
+- Narmer Scyto Raknoid
+- Scyto Raknoid
+- Terra Anti Moa
+- Terra Moa
+- Terra Railgun Moa
+- Terra Shockwave Moa
+- Duviri/Endless: Tier 1 (Normal)
+- Duviri/Endless: Tier 3 (Normal)
+- Jackal
+- Terra Ambulas
+- Terra Anti Moa
+- Terra Elite Embattor Moa
+- Terra Elite Raptor Sx
+- Terra Embattor Moa
+- Terra Jackal
+- Terra Moa
+- Terra Railgun Moa
+- Terra Raptor Sx
+- Terra Shockwave Moa
+- Coolant Raknoid
+- Ceres/Bode (Spy), Rotation B
+- Europa/Valac (Spy), Rotation B
+- Jupiter/Amalthea (Spy), Rotation B
+- Saturn/Aegaeon (Spy), Rotation B
+- Saturn/Dione (Spy), Rotation B
+- Eris/Ixodes (Defense), Rotation B
+- Eris/Kala-Azar (Defense), Rotation B
+- Eris/Oestrus (Infested Salvage), Rotation B
+- Kuva Fortress/Nabuk (Defense), Rotation B
+- Lua/StöFler (Defense), Rotation B
+- Neptune/Proteus (Defense), Rotation B
+- Pluto/Outer Terminus (Defense), Rotation B
+- Sedna/Hydron (Defense), Rotation B
+- Uranus/Bianca (Defense), Rotation B
+- Uranus/Miranda (Defense), Rotation B
+- Uranus/Stephano (Defense), Rotation B
+- Lua/Pavlov (Spy), Rotation B
+- The Sergeant
+- Tyl Regor
+- Another Betrayer, Rotation C
+- Family Reunion, Rotation C
+- Hot Mess, Rotation C
+- Phobos/Opik (Rush), Rotation C
+- Recover The Orokin Archive, Rotation C
+- Sunkiller, Rotation C
+- Table For Two, Rotation C
+- The Aftermath, Rotation C
+- Time's Up, Rotation C
+- Ceres/Casta (Defense), Rotation B
+- Ceres/Egeria (Defense), Rotation B
+- Ceres/Varro (Defense), Rotation B
+- Earth/Lith (Defense), Rotation B
+- Mars/Spear (Defense), Rotation B
+- Mercury/Lares (Defense), Rotation B
+- Phobos/Drunlo (Defense), Rotation B
+- Phobos/Gulliver (Defense), Rotation B
+- Venus/Tessera (Defense), Rotation B
+- Profit-Taker
+- Wolf Of Saturn Six
+- Zealoid Prelate
+

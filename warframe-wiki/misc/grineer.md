@@ -1,0 +1,313 @@
+---
+acquisition:
+- Aurax Baculus
+- Guardsman
+- Bailiff
+- Butcher
+- Corpus Tech
+- Corpus Warden
+- Drahk Master
+- Frontier Bailiff
+- Kuva Butcher
+- Kuva Drahk Master
+- Kuva Scorch
+- Latrox Une
+- Narmer Corpus Tech
+- Narmer Crewman Warden
+- Narmer Scorch
+- Optio
+- Scorch
+- Tusk Butcher
+- Vapos Tech
+- Juno Geminex Moa
+- Narmer Geminex Moa
+- Axio Moa
+- Bombard
+- Denial Bursa
+- Drekar Butcher
+- Drover Bursa
+- Isolator Bursa
+- Juno Dera Moa
+- Juno Disc Moa
+- Juno Glaxion Moa
+- Kuva Bombard
+- Minima Moa
+- Moa
+- Narmer Bombard
+- Narmer Dera Moa
+- Narmer Disc Moa
+- Narmer Glaxion Moa
+- Orm Moa
+- Ratel
+- Striker Moa
+- Tarask Bursa
+- Taro Moa
+- Tusk Bombard
+- Tusk Mortar Bombard
+- Vapos Moa
+- Vorac Moa
+- Ghoul Devourer
+- Axio Ranger Crewman
+- Narmer Detron Ranger
+- Narmer Elite Ranger
+- Narmer Jailer
+- Narmer Nullifier Ranger
+- Narmer Sniper Ranger
+- Narmer Tech Ranger
+- Orm Ranger Crewman
+- Taro Ranger Crewman
+- Terra Cestra Manker
+- Terra Elite Overtaker
+- Terra Elite Provisor
+- Terra Elite Trencher
+- Terra Jailer
+- Terra Manker
+- Terra Nullifier Crewman
+- Terra Overtaker
+- Terra Provisor
+- Terra Trencher
+- Vapos Detron Ranger
+- Vapos Elite Ranger
+- Vapos Nullifier Ranger
+- Vapos Sniper Ranger
+- Vapos Tech Ranger
+- Vorac Ranger Crewman
+- Ghoul Auger
+- Ghoul Rictus
+- 'Duviri/Endless: Tier 1 (Normal)'
+- 'Duviri/Endless: Tier 1 (Normal)'
+- 'Duviri/Endless: Tier 1 (Normal)'
+- 'Duviri/Endless: Tier 1 (Normal)'
+- 'Duviri/Endless: Tier 3 (Normal)'
+- 'Duviri/Endless: Tier 3 (Normal)'
+- 'Duviri/Endless: Tier 3 (Normal)'
+- 'Duviri/Endless: Tier 3 (Normal)'
+- Terra Manker
+- Terra Overtaker
+- Terra Provisor
+- Terra Trencher
+- Kuva Heavy Gunner
+- Tusk Heavy Gunner
+- Demolisher Bailiff
+- Demolisher Bailiff
+- Demolisher Bailiff
+- Demolisher Bailiff
+- Demolisher Devourer
+- Demolisher Devourer
+- Demolisher Devourer
+- Demolisher Devourer
+- Demolisher Expired
+- Demolisher Expired
+- Demolisher Expired
+- Demolisher Expired
+- Demolisher Heavy Gunner
+- Demolisher Heavy Gunner
+- Demolisher Heavy Gunner
+- Demolisher Heavy Gunner
+- Demolisher Kuva Guardian
+- Demolisher Kuva Guardian
+- Demolisher Kuva Guardian
+- Demolisher Kuva Guardian
+- Demolisher Nox
+- Demolisher Nox
+- Demolisher Nox
+- Demolisher Nox
+- Narmer Demolisher Bailiff
+- Narmer Demolisher Bailiff
+- Narmer Demolisher Bailiff
+- Narmer Demolisher Bailiff
+- Narmer Demolisher Expired
+- Narmer Demolisher Expired
+- Narmer Demolisher Expired
+- Narmer Demolisher Expired
+- Narmer Demolisher Gunner
+- Narmer Demolisher Gunner
+- Narmer Demolisher Gunner
+- Narmer Demolisher Gunner
+- Earth/Everest (Excavation), Rotation C
+- Earth/Tikal (Excavation), Rotation C
+- Mars/Arcadia (Survival), Rotation C
+- Mars/Augustus (Excavation), Rotation C
+- Mercury/Apollodorus (Survival), Rotation C
+- Phobos/Flimnap (Survival), Rotation C
+- Phobos/Stickney (Survival), Rotation C
+- Phobos/Wendell (Excavation), Rotation C
+- Venus/Kiliken (Excavation), Rotation C
+- Venus/V Prime (Survival), Rotation C
+- Drekar Manic Bombard
+- Manic Bombard
+- Mimic
+- Sanctuary Onslaught, Rotation B
+- Sanctuary Onslaught, Rotation A
+- Forgotten Grineer Storage Container (Level 0 - 100)
+- Forgotten Grineer Storage Container (Level 0 - 100)
+- Forgotten Grineer Storage Container (Level 0 - 100)
+- New Loka, Flawless
+- Steel Meridian, General
+- Steel Meridian, General
+category: Skins
+description: Unlocks a collection of colors inspired by Grineer marines.
+image: ../images/grineer-28ab696df7.png
+last_updated: '2025-09-17'
+name: Grineer
+source: WFCD
+tags:
+- Color Palette
+- Skins
+tradable: false
+type: Color Palette
+---
+
+# Grineer
+
+Unlocks a collection of colors inspired by Grineer marines.
+
+## Acquisition
+
+Available from:
+- Aurax Baculus
+- Guardsman
+- Bailiff
+- Butcher
+- Corpus Tech
+- Corpus Warden
+- Drahk Master
+- Frontier Bailiff
+- Kuva Butcher
+- Kuva Drahk Master
+- Kuva Scorch
+- Latrox Une
+- Narmer Corpus Tech
+- Narmer Crewman Warden
+- Narmer Scorch
+- Optio
+- Scorch
+- Tusk Butcher
+- Vapos Tech
+- Juno Geminex Moa
+- Narmer Geminex Moa
+- Axio Moa
+- Bombard
+- Denial Bursa
+- Drekar Butcher
+- Drover Bursa
+- Isolator Bursa
+- Juno Dera Moa
+- Juno Disc Moa
+- Juno Glaxion Moa
+- Kuva Bombard
+- Minima Moa
+- Moa
+- Narmer Bombard
+- Narmer Dera Moa
+- Narmer Disc Moa
+- Narmer Glaxion Moa
+- Orm Moa
+- Ratel
+- Striker Moa
+- Tarask Bursa
+- Taro Moa
+- Tusk Bombard
+- Tusk Mortar Bombard
+- Vapos Moa
+- Vorac Moa
+- Ghoul Devourer
+- Axio Ranger Crewman
+- Narmer Detron Ranger
+- Narmer Elite Ranger
+- Narmer Jailer
+- Narmer Nullifier Ranger
+- Narmer Sniper Ranger
+- Narmer Tech Ranger
+- Orm Ranger Crewman
+- Taro Ranger Crewman
+- Terra Cestra Manker
+- Terra Elite Overtaker
+- Terra Elite Provisor
+- Terra Elite Trencher
+- Terra Jailer
+- Terra Manker
+- Terra Nullifier Crewman
+- Terra Overtaker
+- Terra Provisor
+- Terra Trencher
+- Vapos Detron Ranger
+- Vapos Elite Ranger
+- Vapos Nullifier Ranger
+- Vapos Sniper Ranger
+- Vapos Tech Ranger
+- Vorac Ranger Crewman
+- Ghoul Auger
+- Ghoul Rictus
+- Duviri/Endless: Tier 1 (Normal)
+- Duviri/Endless: Tier 1 (Normal)
+- Duviri/Endless: Tier 1 (Normal)
+- Duviri/Endless: Tier 1 (Normal)
+- Duviri/Endless: Tier 3 (Normal)
+- Duviri/Endless: Tier 3 (Normal)
+- Duviri/Endless: Tier 3 (Normal)
+- Duviri/Endless: Tier 3 (Normal)
+- Terra Manker
+- Terra Overtaker
+- Terra Provisor
+- Terra Trencher
+- Kuva Heavy Gunner
+- Tusk Heavy Gunner
+- Demolisher Bailiff
+- Demolisher Bailiff
+- Demolisher Bailiff
+- Demolisher Bailiff
+- Demolisher Devourer
+- Demolisher Devourer
+- Demolisher Devourer
+- Demolisher Devourer
+- Demolisher Expired
+- Demolisher Expired
+- Demolisher Expired
+- Demolisher Expired
+- Demolisher Heavy Gunner
+- Demolisher Heavy Gunner
+- Demolisher Heavy Gunner
+- Demolisher Heavy Gunner
+- Demolisher Kuva Guardian
+- Demolisher Kuva Guardian
+- Demolisher Kuva Guardian
+- Demolisher Kuva Guardian
+- Demolisher Nox
+- Demolisher Nox
+- Demolisher Nox
+- Demolisher Nox
+- Narmer Demolisher Bailiff
+- Narmer Demolisher Bailiff
+- Narmer Demolisher Bailiff
+- Narmer Demolisher Bailiff
+- Narmer Demolisher Expired
+- Narmer Demolisher Expired
+- Narmer Demolisher Expired
+- Narmer Demolisher Expired
+- Narmer Demolisher Gunner
+- Narmer Demolisher Gunner
+- Narmer Demolisher Gunner
+- Narmer Demolisher Gunner
+- Earth/Everest (Excavation), Rotation C
+- Earth/Tikal (Excavation), Rotation C
+- Mars/Arcadia (Survival), Rotation C
+- Mars/Augustus (Excavation), Rotation C
+- Mercury/Apollodorus (Survival), Rotation C
+- Phobos/Flimnap (Survival), Rotation C
+- Phobos/Stickney (Survival), Rotation C
+- Phobos/Wendell (Excavation), Rotation C
+- Venus/Kiliken (Excavation), Rotation C
+- Venus/V Prime (Survival), Rotation C
+- Drekar Manic Bombard
+- Manic Bombard
+- Mimic
+- Sanctuary Onslaught, Rotation B
+- Sanctuary Onslaught, Rotation A
+- Forgotten Grineer Storage Container (Level 0 - 100)
+- Forgotten Grineer Storage Container (Level 0 - 100)
+- Forgotten Grineer Storage Container (Level 0 - 100)
+- New Loka, Flawless
+- Steel Meridian, General
+- Steel Meridian, General
+

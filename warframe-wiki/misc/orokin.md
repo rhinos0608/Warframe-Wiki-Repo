@@ -1,0 +1,303 @@
+---
+acquisition:
+- Neptune/Cephalon Capture (Conclave), Rotation B
+- Saturn/Annihilation (Conclave), Rotation B
+- Saturn/Cephalon Capture (Conclave), Rotation B
+- Saturn/Lunaro (Conclave), Rotation B
+- Saturn/Team Annihilation (Conclave), Rotation B
+- Saturn/Variant Annihilation (Conclave), Rotation B
+- Saturn/Variant Cephalon Capture (Conclave), Rotation B
+- Saturn/Variant Team Annihilation (Conclave), Rotation B
+- Brachiolyst Disperser
+- Brachiolyst
+- Amalgam Arca Heqet
+- Amalgam Arca Kucumatz
+- Amalgam Cinder Machinist
+- Amalgam Phase Moa
+- Amalgam Swarm Satyr
+- Amalgam Alkonost
+- Amalgam Heqet
+- Amalgam Kucumatz
+- Amalgam Machinist
+- Amalgam Moa
+- Amalgam Osprey
+- Amalgam Satyr
+- Aurax Culveri Moa
+- Aurax Polaris Moa
+- Demolyst Heqet
+- Demolyst Machinist
+- Demolyst Moa
+- Demolyst Osprey
+- Demolyst Satyr
+- Mimic
+- 'Duviri/Endless: Tier 1 (Normal)'
+- 'Duviri/Endless: Tier 1 (Normal)'
+- 'Duviri/Endless: Tier 1 (Normal)'
+- 'Duviri/Endless: Tier 1 (Normal)'
+- 'Duviri/Endless: Tier 3 (Normal)'
+- 'Duviri/Endless: Tier 3 (Normal)'
+- 'Duviri/Endless: Tier 3 (Normal)'
+- 'Duviri/Endless: Tier 3 (Normal)'
+- Aerolyst
+- Ambulas
+- Battalyst
+- Conculyst
+- Decaying Battalyst
+- Decaying Conculyst
+- Erra
+- Hunhow
+- Ortholyst
+- Protector Stalker
+- Shadow Stalker
+- Stalker
+- Summulyst
+- Symbilyst
+- Typholyst
+- Tyro Conculyst
+- Sorties
+- Sorties
+- Alad V
+- Artificer
+- Captain Vor
+- Cinderthresh Hyena
+- Commander
+- Councilor Vay Hek
+- General Sargas Ruk
+- Gyre Hyena
+- Hyena Ln2
+- Hyena Ng
+- Hyena Pack
+- Hyena Pb
+- Hyena Th
+- Icemire Hyena
+- J3 Jordas Golem
+- Jackal
+- Janus Captain Vor
+- Jordas Golem
+- Kela De Thaym
+- Lephantis
+- Lt Lech Kril
+- Mutalist Alad V
+- Neptune/Yursa (Defection), Rotation A
+- Phobos/Memphis (Defection), Rotation A
+- Phorid
+- Rabbleback Hyena
+- Saturn/Caracol (Defection), Rotation A
+- The Sergeant
+- Tyl Regor
+- Vay Hek Terra Frame
+- Mimic
+- Saturn/Caracol (Defection), Rotation B
+- Saturn/Caracol (Defection), Rotation B
+- Saturn/Caracol (Defection), Rotation B
+- Neptune/Yursa (Defection), Rotation B
+- Neptune/Yursa (Defection), Rotation B
+- Neptune/Yursa (Defection), Rotation B
+- Phobos/Memphis (Defection), Rotation B
+- Phobos/Memphis (Defection), Rotation B
+- Phobos/Memphis (Defection), Rotation B
+- Void Surplus
+- Void Surplus
+- Kuva Fortress/Dakata (Caches), Rotation C
+- Lua/Plato (Caches), Rotation C
+- Neptune/Halimede (Caches), Rotation C
+- Neptune/Thalassa (Caches), Rotation C
+- Pluto/Charon (Caches), Rotation C
+- Pluto/Cypress (Caches), Rotation C
+- Sedna/Phithale (Caches), Rotation C
+- Sedna/Rusalka (Caches), Rotation C
+- Uranus/Portia (Caches), Rotation C
+- Hallowed Flame Mission Caches, Rotation B
+- Ceres/Ker (Caches), Rotation C
+- Ceres/Thon (Caches), Rotation C
+- Jupiter/Adrastea (Caches), Rotation C
+- Jupiter/Carpo (Caches), Rotation C
+- Saturn/Calypso (Caches), Rotation C
+- Saturn/Pallene (Caches), Rotation C
+- Venus/Orb Vallis (Level 100 - 100 Orb Vallis Bounty), Rotation A
+- Venus/Orb Vallis (Level 100 - 100 Orb Vallis Bounty), Rotation B
+- Venus/Orb Vallis (Level 100 - 100 Orb Vallis Bounty), Rotation C
+- Venus/Orb Vallis (Level 40 - 60 Orb Vallis Bounty), Rotation A
+- Venus/Orb Vallis (Level 40 - 60 Orb Vallis Bounty), Rotation B
+- Venus/Orb Vallis (Level 40 - 60 Orb Vallis Bounty), Rotation C
+- Deimos/Formido (Caches), Rotation C
+- Venus/Orb Vallis (Level 100 - 100 Orb Vallis Bounty), Rotation A
+- Venus/Orb Vallis (Level 100 - 100 Orb Vallis Bounty), Rotation B
+- Venus/Orb Vallis (Level 100 - 100 Orb Vallis Bounty), Rotation C
+- Venus/Orb Vallis (Level 40 - 60 Orb Vallis Bounty), Rotation A
+- Venus/Orb Vallis (Level 40 - 60 Orb Vallis Bounty), Rotation B
+- Venus/Orb Vallis (Level 40 - 60 Orb Vallis Bounty), Rotation C
+- Venus/Orb Vallis (Level 100 - 100 Orb Vallis Bounty), Rotation A
+- Venus/Orb Vallis (Level 100 - 100 Orb Vallis Bounty), Rotation B
+- Venus/Orb Vallis (Level 100 - 100 Orb Vallis Bounty), Rotation C
+- Venus/Orb Vallis (Level 40 - 60 Orb Vallis Bounty), Rotation A
+- Venus/Orb Vallis (Level 40 - 60 Orb Vallis Bounty), Rotation B
+- Venus/Orb Vallis (Level 40 - 60 Orb Vallis Bounty), Rotation C
+- Corrupted Vor
+- 'Cephalon Simaris, Orokin Derelict Plaza Scene
+
+  '
+- Cephalon Suda, Genius
+category: Skins
+description: 'A set of colors derived from the relics of the Orokin Empire.
+
+
+  Unlocks additional color options for Warframe customization.'
+image: ../images/orokin-e059313541.png
+last_updated: '2025-09-17'
+name: Orokin
+source: WFCD
+tags:
+- Color Palette
+- Skins
+tradable: false
+type: Color Palette
+---
+
+# Orokin
+
+A set of colors derived from the relics of the Orokin Empire.
+
+Unlocks additional color options for Warframe customization.
+
+## Acquisition
+
+Available from:
+- Neptune/Cephalon Capture (Conclave), Rotation B
+- Saturn/Annihilation (Conclave), Rotation B
+- Saturn/Cephalon Capture (Conclave), Rotation B
+- Saturn/Lunaro (Conclave), Rotation B
+- Saturn/Team Annihilation (Conclave), Rotation B
+- Saturn/Variant Annihilation (Conclave), Rotation B
+- Saturn/Variant Cephalon Capture (Conclave), Rotation B
+- Saturn/Variant Team Annihilation (Conclave), Rotation B
+- Brachiolyst Disperser
+- Brachiolyst
+- Amalgam Arca Heqet
+- Amalgam Arca Kucumatz
+- Amalgam Cinder Machinist
+- Amalgam Phase Moa
+- Amalgam Swarm Satyr
+- Amalgam Alkonost
+- Amalgam Heqet
+- Amalgam Kucumatz
+- Amalgam Machinist
+- Amalgam Moa
+- Amalgam Osprey
+- Amalgam Satyr
+- Aurax Culveri Moa
+- Aurax Polaris Moa
+- Demolyst Heqet
+- Demolyst Machinist
+- Demolyst Moa
+- Demolyst Osprey
+- Demolyst Satyr
+- Mimic
+- Duviri/Endless: Tier 1 (Normal)
+- Duviri/Endless: Tier 1 (Normal)
+- Duviri/Endless: Tier 1 (Normal)
+- Duviri/Endless: Tier 1 (Normal)
+- Duviri/Endless: Tier 3 (Normal)
+- Duviri/Endless: Tier 3 (Normal)
+- Duviri/Endless: Tier 3 (Normal)
+- Duviri/Endless: Tier 3 (Normal)
+- Aerolyst
+- Ambulas
+- Battalyst
+- Conculyst
+- Decaying Battalyst
+- Decaying Conculyst
+- Erra
+- Hunhow
+- Ortholyst
+- Protector Stalker
+- Shadow Stalker
+- Stalker
+- Summulyst
+- Symbilyst
+- Typholyst
+- Tyro Conculyst
+- Sorties
+- Sorties
+- Alad V
+- Artificer
+- Captain Vor
+- Cinderthresh Hyena
+- Commander
+- Councilor Vay Hek
+- General Sargas Ruk
+- Gyre Hyena
+- Hyena Ln2
+- Hyena Ng
+- Hyena Pack
+- Hyena Pb
+- Hyena Th
+- Icemire Hyena
+- J3 Jordas Golem
+- Jackal
+- Janus Captain Vor
+- Jordas Golem
+- Kela De Thaym
+- Lephantis
+- Lt Lech Kril
+- Mutalist Alad V
+- Neptune/Yursa (Defection), Rotation A
+- Phobos/Memphis (Defection), Rotation A
+- Phorid
+- Rabbleback Hyena
+- Saturn/Caracol (Defection), Rotation A
+- The Sergeant
+- Tyl Regor
+- Vay Hek Terra Frame
+- Mimic
+- Saturn/Caracol (Defection), Rotation B
+- Saturn/Caracol (Defection), Rotation B
+- Saturn/Caracol (Defection), Rotation B
+- Neptune/Yursa (Defection), Rotation B
+- Neptune/Yursa (Defection), Rotation B
+- Neptune/Yursa (Defection), Rotation B
+- Phobos/Memphis (Defection), Rotation B
+- Phobos/Memphis (Defection), Rotation B
+- Phobos/Memphis (Defection), Rotation B
+- Void Surplus
+- Void Surplus
+- Kuva Fortress/Dakata (Caches), Rotation C
+- Lua/Plato (Caches), Rotation C
+- Neptune/Halimede (Caches), Rotation C
+- Neptune/Thalassa (Caches), Rotation C
+- Pluto/Charon (Caches), Rotation C
+- Pluto/Cypress (Caches), Rotation C
+- Sedna/Phithale (Caches), Rotation C
+- Sedna/Rusalka (Caches), Rotation C
+- Uranus/Portia (Caches), Rotation C
+- Hallowed Flame Mission Caches, Rotation B
+- Ceres/Ker (Caches), Rotation C
+- Ceres/Thon (Caches), Rotation C
+- Jupiter/Adrastea (Caches), Rotation C
+- Jupiter/Carpo (Caches), Rotation C
+- Saturn/Calypso (Caches), Rotation C
+- Saturn/Pallene (Caches), Rotation C
+- Venus/Orb Vallis (Level 100 - 100 Orb Vallis Bounty), Rotation A
+- Venus/Orb Vallis (Level 100 - 100 Orb Vallis Bounty), Rotation B
+- Venus/Orb Vallis (Level 100 - 100 Orb Vallis Bounty), Rotation C
+- Venus/Orb Vallis (Level 40 - 60 Orb Vallis Bounty), Rotation A
+- Venus/Orb Vallis (Level 40 - 60 Orb Vallis Bounty), Rotation B
+- Venus/Orb Vallis (Level 40 - 60 Orb Vallis Bounty), Rotation C
+- Deimos/Formido (Caches), Rotation C
+- Venus/Orb Vallis (Level 100 - 100 Orb Vallis Bounty), Rotation A
+- Venus/Orb Vallis (Level 100 - 100 Orb Vallis Bounty), Rotation B
+- Venus/Orb Vallis (Level 100 - 100 Orb Vallis Bounty), Rotation C
+- Venus/Orb Vallis (Level 40 - 60 Orb Vallis Bounty), Rotation A
+- Venus/Orb Vallis (Level 40 - 60 Orb Vallis Bounty), Rotation B
+- Venus/Orb Vallis (Level 40 - 60 Orb Vallis Bounty), Rotation C
+- Venus/Orb Vallis (Level 100 - 100 Orb Vallis Bounty), Rotation A
+- Venus/Orb Vallis (Level 100 - 100 Orb Vallis Bounty), Rotation B
+- Venus/Orb Vallis (Level 100 - 100 Orb Vallis Bounty), Rotation C
+- Venus/Orb Vallis (Level 40 - 60 Orb Vallis Bounty), Rotation A
+- Venus/Orb Vallis (Level 40 - 60 Orb Vallis Bounty), Rotation B
+- Venus/Orb Vallis (Level 40 - 60 Orb Vallis Bounty), Rotation C
+- Corrupted Vor
+- Cephalon Simaris, Orokin Derelict Plaza Scene
+
+- Cephalon Suda, Genius
+

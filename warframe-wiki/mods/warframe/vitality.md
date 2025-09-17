@@ -1,0 +1,330 @@
+---
+acquisition:
+- Corrupted Drahk
+- Drahk
+- Kubrow
+- Kuva Drahk
+- Tamm
+- Fusion Moa
+- Kuva Roller
+- Latcher
+- Roller Sentry
+- Roller
+- Tusk Roller
+- Vapos Fusion Moa
+- Attack Drone
+- Carabus
+- Frontier Regulator
+- Juno Oxium Osprey
+- Kuva Napalm
+- Napalm
+- Narmer Napalm
+- Narmer Observation Drone
+- Narmer Oxium Osprey
+- Narmer Regulator
+- Nemes
+- Observation Drone
+- Oxium Osprey
+- Rathuum Broadcaster
+- Regulator
+- Remech Osprey
+- Sensor Regulator
+- Taro Secura Osprey
+- Tusk Napalm
+- Vapos Oxium Osprey
+- Arid Hellion
+- Arid Lancer
+- Coildrive
+- Drekar Elite Lancer
+- Drekar Lancer
+- Drekar Scorpion
+- Frontier Hellion
+- Frontier Lancer
+- Hellion
+- Kuva Hellion
+- Kuva Lancer
+- Kuva Lich Agor Rok (Level 0 - 69)
+- Lancer Survivor
+- Lancer
+- Narmer Coildrive
+- Narmer Commander
+- Narmer Hellion
+- Narmer Lancer
+- Nightwatch Reaver
+- Rogg-417
+- Scaldra Ti-92
+- Special Duty Coildrive
+- Tusk Hellion
+- Tusk Lancer
+- Tusk Reaver
+- Anti Moa
+- Axio Disc Moa
+- Orm Disc Moa
+- Taro Disc Moa
+- Vapos Anti Moa
+- Vorac Disc Moa
+- Primm
+- Terra Attack Drone
+- Terra Shield Osprey
+- Verd-Ie
+- Kuva Lich Agor Rok (Level 70 - 79)
+- Orb Vallis - Spaceport Enemies
+- Earth/Cervantes (Caches), Rotation C
+- Terra Attack Drone
+- Terra Shield Osprey
+- Ceres/Seimeni (Defense), Rotation A
+- Earth/Coba (Defense), Rotation A
+- Eris/Akkad (Defense), Rotation A
+- Europa/Larzac (Defense), Rotation A
+- Jupiter/Sinai (Defense), Rotation A
+- Mars/Kadesh (Defense), Rotation A
+- Pluto/Sechura (Defense), Rotation A
+- Sedna/Sangeru (Defense), Rotation A
+- Venus/Romula (Defense), Rotation A
+- Ceres/Bode (Spy), Rotation A
+- Europa/Ose (Interception), Rotation A
+- Europa/Valac (Spy), Rotation A
+- Jupiter/Amalthea (Spy), Rotation A
+- Jupiter/Callisto (Interception), Rotation A
+- Saturn/Aegaeon (Spy), Rotation A
+- Saturn/Dione (Spy), Rotation A
+- Saturn/Rhea (Interception), Rotation A
+- Uranus/Umbriel (Interception), Rotation A
+- Ceres/Cinxia (Interception), Rotation A
+- Earth/Gaia (Interception), Rotation A
+- Eris/Ixodes (Defense), Rotation A
+- Eris/Kala-Azar (Defense), Rotation A
+- Eris/Oestrus (Infested Salvage), Rotation A
+- Eris/Phalan (Interception), Rotation A
+- Eris/Sporid (Interception), Rotation A
+- Eris/Xini (Interception), Rotation A
+- Kuva Fortress/Nabuk (Defense), Rotation A
+- Lua/StöFler (Defense), Rotation A
+- Mars/Alator (Interception), Rotation A
+- Mercury/Odin (Interception), Rotation A
+- Neptune/Proteus (Defense), Rotation A
+- Pluto/Cerberus (Interception), Rotation A
+- Pluto/Outer Terminus (Defense), Rotation A
+- Sedna/Berehynia (Interception), Rotation A
+- Sedna/Hydron (Defense), Rotation A
+- Uranus/Bianca (Defense), Rotation A
+- Uranus/Miranda (Defense), Rotation A
+- Uranus/Stephano (Defense), Rotation A
+- Venus/Cytherean (Interception), Rotation A
+- Ceres/Lex (Capture)
+- Earth/Mantle (Capture)
+- Eris/Cosis (Capture)
+- Eris/Isos (Capture)
+- Europa/Abaddon (Capture)
+- Europa/Beleth (Capture)
+- Europa/Cryotic Front (Capture)
+- Jupiter/Ananke (Capture)
+- Lua/Copernicus (Capture)
+- Mars/Ara (Capture)
+- Mars/Quirinus (Capture)
+- Mercury/Elion (Capture)
+- Neptune/Galatea (Capture)
+- Phobos/Limtoc (Capture)
+- Phobos/Skyresh (Capture)
+- Phobos/Todd (Capture)
+- Pluto/Corb (Capture)
+- Pluto/Hydra (Capture)
+- Saturn/Cassini (Capture)
+- Saturn/Phoebe (Capture)
+- Uranus/Ariel (Capture)
+- Uranus/Trinculo (Capture)
+- Venus/Venera (Capture)
+- Another Betrayer, Rotation A
+- Earth/Cetus (Level 5 - 15 Cetus Bounty), Rotation C
+- Family Reunion, Rotation A
+- Hot Mess, Rotation A
+- Phobos/Opik (Rush), Rotation A
+- Recover The Orokin Archive, Rotation A
+- Sunkiller, Rotation A
+- Table For Two, Rotation A
+- The Aftermath, Rotation A
+- Time's Up, Rotation A
+- Earth/Cetus (Level 5 - 15 Cetus Bounty), Rotation C
+- Earth/Cetus (Level 5 - 15 Cetus Bounty), Rotation C
+- Alad V
+- Captain Vor
+- Janus Captain Vor
+- Mutalist Alad V
+- Tyl Regor
+- Kahl's Garrison (Chipper), Fort
+- NecraLoid (Loid), Clearance Modus
+category: Mods
+description: ''
+drain: 2
+image: ../images/vitality-c6e8fc50c0.jpg
+last_updated: '2025-09-17'
+name: Vitality
+polarity: vazarin
+rarity: Common
+source: WFCD
+tags:
+- Warframe Mod
+- Mods
+tradable: true
+type: Warframe Mod
+---
+
+# Vitality
+
+## Acquisition
+
+Available from:
+- Corrupted Drahk
+- Drahk
+- Kubrow
+- Kuva Drahk
+- Tamm
+- Fusion Moa
+- Kuva Roller
+- Latcher
+- Roller Sentry
+- Roller
+- Tusk Roller
+- Vapos Fusion Moa
+- Attack Drone
+- Carabus
+- Frontier Regulator
+- Juno Oxium Osprey
+- Kuva Napalm
+- Napalm
+- Narmer Napalm
+- Narmer Observation Drone
+- Narmer Oxium Osprey
+- Narmer Regulator
+- Nemes
+- Observation Drone
+- Oxium Osprey
+- Rathuum Broadcaster
+- Regulator
+- Remech Osprey
+- Sensor Regulator
+- Taro Secura Osprey
+- Tusk Napalm
+- Vapos Oxium Osprey
+- Arid Hellion
+- Arid Lancer
+- Coildrive
+- Drekar Elite Lancer
+- Drekar Lancer
+- Drekar Scorpion
+- Frontier Hellion
+- Frontier Lancer
+- Hellion
+- Kuva Hellion
+- Kuva Lancer
+- Kuva Lich Agor Rok (Level 0 - 69)
+- Lancer Survivor
+- Lancer
+- Narmer Coildrive
+- Narmer Commander
+- Narmer Hellion
+- Narmer Lancer
+- Nightwatch Reaver
+- Rogg-417
+- Scaldra Ti-92
+- Special Duty Coildrive
+- Tusk Hellion
+- Tusk Lancer
+- Tusk Reaver
+- Anti Moa
+- Axio Disc Moa
+- Orm Disc Moa
+- Taro Disc Moa
+- Vapos Anti Moa
+- Vorac Disc Moa
+- Primm
+- Terra Attack Drone
+- Terra Shield Osprey
+- Verd-Ie
+- Kuva Lich Agor Rok (Level 70 - 79)
+- Orb Vallis - Spaceport Enemies
+- Earth/Cervantes (Caches), Rotation C
+- Terra Attack Drone
+- Terra Shield Osprey
+- Ceres/Seimeni (Defense), Rotation A
+- Earth/Coba (Defense), Rotation A
+- Eris/Akkad (Defense), Rotation A
+- Europa/Larzac (Defense), Rotation A
+- Jupiter/Sinai (Defense), Rotation A
+- Mars/Kadesh (Defense), Rotation A
+- Pluto/Sechura (Defense), Rotation A
+- Sedna/Sangeru (Defense), Rotation A
+- Venus/Romula (Defense), Rotation A
+- Ceres/Bode (Spy), Rotation A
+- Europa/Ose (Interception), Rotation A
+- Europa/Valac (Spy), Rotation A
+- Jupiter/Amalthea (Spy), Rotation A
+- Jupiter/Callisto (Interception), Rotation A
+- Saturn/Aegaeon (Spy), Rotation A
+- Saturn/Dione (Spy), Rotation A
+- Saturn/Rhea (Interception), Rotation A
+- Uranus/Umbriel (Interception), Rotation A
+- Ceres/Cinxia (Interception), Rotation A
+- Earth/Gaia (Interception), Rotation A
+- Eris/Ixodes (Defense), Rotation A
+- Eris/Kala-Azar (Defense), Rotation A
+- Eris/Oestrus (Infested Salvage), Rotation A
+- Eris/Phalan (Interception), Rotation A
+- Eris/Sporid (Interception), Rotation A
+- Eris/Xini (Interception), Rotation A
+- Kuva Fortress/Nabuk (Defense), Rotation A
+- Lua/StöFler (Defense), Rotation A
+- Mars/Alator (Interception), Rotation A
+- Mercury/Odin (Interception), Rotation A
+- Neptune/Proteus (Defense), Rotation A
+- Pluto/Cerberus (Interception), Rotation A
+- Pluto/Outer Terminus (Defense), Rotation A
+- Sedna/Berehynia (Interception), Rotation A
+- Sedna/Hydron (Defense), Rotation A
+- Uranus/Bianca (Defense), Rotation A
+- Uranus/Miranda (Defense), Rotation A
+- Uranus/Stephano (Defense), Rotation A
+- Venus/Cytherean (Interception), Rotation A
+- Ceres/Lex (Capture)
+- Earth/Mantle (Capture)
+- Eris/Cosis (Capture)
+- Eris/Isos (Capture)
+- Europa/Abaddon (Capture)
+- Europa/Beleth (Capture)
+- Europa/Cryotic Front (Capture)
+- Jupiter/Ananke (Capture)
+- Lua/Copernicus (Capture)
+- Mars/Ara (Capture)
+- Mars/Quirinus (Capture)
+- Mercury/Elion (Capture)
+- Neptune/Galatea (Capture)
+- Phobos/Limtoc (Capture)
+- Phobos/Skyresh (Capture)
+- Phobos/Todd (Capture)
+- Pluto/Corb (Capture)
+- Pluto/Hydra (Capture)
+- Saturn/Cassini (Capture)
+- Saturn/Phoebe (Capture)
+- Uranus/Ariel (Capture)
+- Uranus/Trinculo (Capture)
+- Venus/Venera (Capture)
+- Another Betrayer, Rotation A
+- Earth/Cetus (Level 5 - 15 Cetus Bounty), Rotation C
+- Family Reunion, Rotation A
+- Hot Mess, Rotation A
+- Phobos/Opik (Rush), Rotation A
+- Recover The Orokin Archive, Rotation A
+- Sunkiller, Rotation A
+- Table For Two, Rotation A
+- The Aftermath, Rotation A
+- Time's Up, Rotation A
+- Earth/Cetus (Level 5 - 15 Cetus Bounty), Rotation C
+- Earth/Cetus (Level 5 - 15 Cetus Bounty), Rotation C
+- Alad V
+- Captain Vor
+- Janus Captain Vor
+- Mutalist Alad V
+- Tyl Regor
+- Kahl's Garrison (Chipper), Fort
+- NecraLoid (Loid), Clearance Modus
+

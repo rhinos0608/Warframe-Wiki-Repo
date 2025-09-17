@@ -1,0 +1,257 @@
+---
+acquisition:
+- Void/Mithra (Interception), Rotation C
+- Void/Mot (Survival), Rotation C
+- Earth/Cetus (Level 15 - 25 Plague Star), Rotation A
+- Deimos/Cambion Drift (Level 30 - 40 Arcana Isolation Vault), Rotation A
+- Deimos/Cambion Drift (Level 30 - 40 Isolation Vault), Rotation A
+- Earth/Cetus (Level 15 - 25 Plague Star), Rotation A
+- Earth/Cetus (Level 15 - 25 Plague Star), Rotation A
+- Deimos/Cambion Drift (Level 30 - 40 Arcana Isolation Vault), Rotation A
+- Earth/Cetus (Level 15 - 25 Plague Star), Rotation A
+- Elite Sanctuary Onslaught, Rotation C
+- Veil/Calabash (Skirmish)
+- Veil/Numina (Skirmish)
+- Void Storm (Veil Proxima)
+- Void/Belenus (Defense), Rotation C
+- Veil/Arc Silver (Skirmish), Rotation A
+- Veil/Lu-Yan (Skirmish), Rotation A
+- Veil/Erato (Skirmish), Rotation A
+- Jupiter/Ganymede (Disruption), Rotation C
+- Lua/Circulus (Survival), Rotation C
+- Void/Aten (Mobile Defense)
+- Void/Marduk (Sabotage)
+- Eris/Ixodes (Defense), Rotation B
+- Eris/Kala-Azar (Defense), Rotation B
+- Eris/Oestrus (Infested Salvage), Rotation B
+- Kuva Fortress/Nabuk (Defense), Rotation B
+- Lua/StöFler (Defense), Rotation B
+- Neptune/Proteus (Defense), Rotation B
+- Pluto/Outer Terminus (Defense), Rotation B
+- Sedna/Hydron (Defense), Rotation B
+- Uranus/Bianca (Defense), Rotation B
+- Uranus/Miranda (Defense), Rotation B
+- Uranus/Stephano (Defense), Rotation B
+- Mars/Tyana Pass (Defense), Rotation C
+- Kuva Fortress/Taveuni (Survival), Rotation C
+- Höllvania/Solstice Square (Defense), Rotation C
+- 'Faceoff: Single Squad (Steel Path), Rotation B'
+- 'Faceoff: Single Squad, Rotation B'
+- 'Faceoff: Squad VS Squad (Steel Path), Rotation B'
+- 'Faceoff: Squad VS Squad, Rotation B'
+- Uranus/Caelus (Interception), Rotation C
+- Deimos/Armatus (Disruption), Rotation C
+- Neptune/Yursa (Defection), Rotation C
+- Veil/Sabmir Cloud (Skirmish), Rotation B
+- Sedna/Kappa (Disruption), Rotation C
+- Void/Mithra (Interception), Rotation C
+- Void/Mot (Survival), Rotation C
+- Deimos/Terrorem (Survival), Rotation C
+- Eris/Hymeno (Survival), Rotation C
+- Eris/Ixodes (Defense), Rotation C
+- Eris/Kala-Azar (Defense), Rotation C
+- Eris/Nimus (Survival), Rotation C
+- Europa/Cholistan (Excavation), Rotation C
+- Kuva Fortress/Nabuk (Defense), Rotation C
+- Lua/StöFler (Defense), Rotation C
+- Lua/Tycho (Survival), Rotation C
+- Neptune/Despina (Excavation), Rotation C
+- Neptune/Kelashin (Survival), Rotation C
+- Neptune/Proteus (Defense), Rotation C
+- Pluto/Hieracon (Excavation), Rotation C
+- Pluto/Outer Terminus (Defense), Rotation C
+- Pluto/Palus (Survival), Rotation C
+- Sedna/Amarna (Survival), Rotation C
+- Sedna/Hydron (Defense), Rotation C
+- Sedna/Scylla (Survival), Rotation C
+- Sedna/Selkie (Survival), Rotation C
+- Sedna/Yemaja (Survival), Rotation C
+- Uranus/Assur (Survival), Rotation C
+- Uranus/Bianca (Defense), Rotation C
+- Uranus/Cupid (Survival), Rotation C
+- Uranus/Miranda (Defense), Rotation C
+- Uranus/Ophelia (Survival), Rotation C
+- Uranus/Stephano (Defense), Rotation C
+- Lua/Yuvarium (Survival), Rotation C
+- Lua/Apollo (Disruption), Rotation C
+- Eris/Zabala (Survival), Rotation C
+- Eris/Phalan (Interception), Rotation B
+- Eris/Phalan (Interception), Rotation C
+- Eris/Sporid (Interception), Rotation B
+- Eris/Sporid (Interception), Rotation C
+- Eris/Xini (Interception), Rotation B
+- Eris/Xini (Interception), Rotation C
+- Lua/Apollo (Disruption), Rotation B
+- Pluto/Cerberus (Interception), Rotation B
+- Pluto/Cerberus (Interception), Rotation C
+- Sedna/Berehynia (Interception), Rotation B
+- Sedna/Berehynia (Interception), Rotation C
+- Venus/Orb Vallis (Level 50 - 60 PROFIT-TAKER - PHASE 4), Rotation C
+category: Relics
+description: An artifact containing Orokin secrets. It can only be opened through
+  the power of the Void.
+image: ../images/axi-intact.png
+last_updated: '2025-09-17'
+name: Axi S18 Intact
+rewards:
+- chance: 2
+  item:
+    name: Sevagoth Prime Chassis Blueprint
+    uniqueName: /Lotus/Types/Game/Projections/T4VoidProjectionCalibanPrimeABronze
+    warframeMarket:
+      id: 66c6080366bbb2aedca6957e
+      urlName: sevagoth_prime_chassis_blueprint
+  rarity: Rare
+- chance: 11
+  item:
+    name: Vadarya Prime Receiver
+    uniqueName: /Lotus/Types/Game/Projections/T4VoidProjectionCalibanPrimeABronze
+    warframeMarket:
+      id: 68add07d731e63abe79a5d18
+      urlName: vadarya_prime_receiver
+  rarity: Uncommon
+- chance: 11
+  item:
+    name: Velox Prime Blueprint
+    uniqueName: /Lotus/Types/Game/Projections/T4VoidProjectionCalibanPrimeABronze
+    warframeMarket:
+      id: 663267c4e85cac3856c86db5
+      urlName: velox_prime_blueprint
+  rarity: Uncommon
+- chance: 25.33
+  item:
+    name: Forma Blueprint
+    uniqueName: /Lotus/Types/Game/Projections/T4VoidProjectionCalibanPrimeABronze
+  rarity: Uncommon
+- chance: 25.33
+  item:
+    name: Paris Prime String
+    uniqueName: /Lotus/Types/Game/Projections/T4VoidProjectionCalibanPrimeABronze
+    warframeMarket:
+      id: 54a73e65e779893a797fff56
+      urlName: paris_prime_string
+  rarity: Uncommon
+- chance: 25.33
+  item:
+    name: Cedo Prime Stock
+    uniqueName: /Lotus/Types/Game/Projections/T4VoidProjectionCalibanPrimeABronze
+    warframeMarket:
+      id: 67acd8fd125398d92c8bb4e3
+      urlName: cedo_prime_stock
+  rarity: Uncommon
+source: WFCD
+tags:
+- Relic
+- Relics
+tradable: true
+type: Relic
+---
+
+# Axi S18 Intact
+
+An artifact containing Orokin secrets. It can only be opened through the power of the Void.
+
+## Relic Information
+
+## Rewards
+
+| Item | Rarity | Chance |
+|------|---------|--------|
+| Unknown | Rare | 2 |
+| Unknown | Uncommon | 11 |
+| Unknown | Uncommon | 11 |
+| Unknown | Uncommon | 25.33 |
+| Unknown | Uncommon | 25.33 |
+| Unknown | Uncommon | 25.33 |
+
+## Acquisition
+
+Available from:
+- Void/Mithra (Interception), Rotation C
+- Void/Mot (Survival), Rotation C
+- Earth/Cetus (Level 15 - 25 Plague Star), Rotation A
+- Deimos/Cambion Drift (Level 30 - 40 Arcana Isolation Vault), Rotation A
+- Deimos/Cambion Drift (Level 30 - 40 Isolation Vault), Rotation A
+- Earth/Cetus (Level 15 - 25 Plague Star), Rotation A
+- Earth/Cetus (Level 15 - 25 Plague Star), Rotation A
+- Deimos/Cambion Drift (Level 30 - 40 Arcana Isolation Vault), Rotation A
+- Earth/Cetus (Level 15 - 25 Plague Star), Rotation A
+- Elite Sanctuary Onslaught, Rotation C
+- Veil/Calabash (Skirmish)
+- Veil/Numina (Skirmish)
+- Void Storm (Veil Proxima)
+- Void/Belenus (Defense), Rotation C
+- Veil/Arc Silver (Skirmish), Rotation A
+- Veil/Lu-Yan (Skirmish), Rotation A
+- Veil/Erato (Skirmish), Rotation A
+- Jupiter/Ganymede (Disruption), Rotation C
+- Lua/Circulus (Survival), Rotation C
+- Void/Aten (Mobile Defense)
+- Void/Marduk (Sabotage)
+- Eris/Ixodes (Defense), Rotation B
+- Eris/Kala-Azar (Defense), Rotation B
+- Eris/Oestrus (Infested Salvage), Rotation B
+- Kuva Fortress/Nabuk (Defense), Rotation B
+- Lua/StöFler (Defense), Rotation B
+- Neptune/Proteus (Defense), Rotation B
+- Pluto/Outer Terminus (Defense), Rotation B
+- Sedna/Hydron (Defense), Rotation B
+- Uranus/Bianca (Defense), Rotation B
+- Uranus/Miranda (Defense), Rotation B
+- Uranus/Stephano (Defense), Rotation B
+- Mars/Tyana Pass (Defense), Rotation C
+- Kuva Fortress/Taveuni (Survival), Rotation C
+- Höllvania/Solstice Square (Defense), Rotation C
+- Faceoff: Single Squad (Steel Path), Rotation B
+- Faceoff: Single Squad, Rotation B
+- Faceoff: Squad VS Squad (Steel Path), Rotation B
+- Faceoff: Squad VS Squad, Rotation B
+- Uranus/Caelus (Interception), Rotation C
+- Deimos/Armatus (Disruption), Rotation C
+- Neptune/Yursa (Defection), Rotation C
+- Veil/Sabmir Cloud (Skirmish), Rotation B
+- Sedna/Kappa (Disruption), Rotation C
+- Void/Mithra (Interception), Rotation C
+- Void/Mot (Survival), Rotation C
+- Deimos/Terrorem (Survival), Rotation C
+- Eris/Hymeno (Survival), Rotation C
+- Eris/Ixodes (Defense), Rotation C
+- Eris/Kala-Azar (Defense), Rotation C
+- Eris/Nimus (Survival), Rotation C
+- Europa/Cholistan (Excavation), Rotation C
+- Kuva Fortress/Nabuk (Defense), Rotation C
+- Lua/StöFler (Defense), Rotation C
+- Lua/Tycho (Survival), Rotation C
+- Neptune/Despina (Excavation), Rotation C
+- Neptune/Kelashin (Survival), Rotation C
+- Neptune/Proteus (Defense), Rotation C
+- Pluto/Hieracon (Excavation), Rotation C
+- Pluto/Outer Terminus (Defense), Rotation C
+- Pluto/Palus (Survival), Rotation C
+- Sedna/Amarna (Survival), Rotation C
+- Sedna/Hydron (Defense), Rotation C
+- Sedna/Scylla (Survival), Rotation C
+- Sedna/Selkie (Survival), Rotation C
+- Sedna/Yemaja (Survival), Rotation C
+- Uranus/Assur (Survival), Rotation C
+- Uranus/Bianca (Defense), Rotation C
+- Uranus/Cupid (Survival), Rotation C
+- Uranus/Miranda (Defense), Rotation C
+- Uranus/Ophelia (Survival), Rotation C
+- Uranus/Stephano (Defense), Rotation C
+- Lua/Yuvarium (Survival), Rotation C
+- Lua/Apollo (Disruption), Rotation C
+- Eris/Zabala (Survival), Rotation C
+- Eris/Phalan (Interception), Rotation B
+- Eris/Phalan (Interception), Rotation C
+- Eris/Sporid (Interception), Rotation B
+- Eris/Sporid (Interception), Rotation C
+- Eris/Xini (Interception), Rotation B
+- Eris/Xini (Interception), Rotation C
+- Lua/Apollo (Disruption), Rotation B
+- Pluto/Cerberus (Interception), Rotation B
+- Pluto/Cerberus (Interception), Rotation C
+- Sedna/Berehynia (Interception), Rotation B
+- Sedna/Berehynia (Interception), Rotation C
+- Venus/Orb Vallis (Level 50 - 60 PROFIT-TAKER - PHASE 4), Rotation C
+

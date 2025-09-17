@@ -1,0 +1,257 @@
+---
+acquisition:
+- Kuva Roller
+- Latcher
+- Lobber Crawler
+- Roller Sentry
+- Roller
+- Toxic Crawler
+- Tusk Roller
+- Axio Shockwave Moa
+- Breacher Moa
+- Flameblade
+- Kuva Flameblade
+- Narmer Flameblade
+- Narmer Shockwave Moa
+- Orm Shockwave Moa
+- Shockwave Moa
+- Taro Shockwave Moa
+- Test Moa
+- Tusk Flameblade
+- Tusk Predator
+- Vapos Shockwave Moa
+- Vorac Shockwave Moa
+- Axio Railgun Moa
+- Orm Railgun Moa
+- Railgun Moa
+- Taro Railgun Moa
+- Vapos Railgun Moa
+- Vorac Railgun Moa
+- Cinderthresh Hyena
+- Gyre Hyena
+- Icemire Hyena
+- Rabbleback Hyena
+- Ceres/Seimeni (Defense), Rotation A
+- Earth/Coba (Defense), Rotation A
+- Eris/Akkad (Defense), Rotation A
+- Europa/Larzac (Defense), Rotation A
+- Jupiter/Sinai (Defense), Rotation A
+- Mars/Kadesh (Defense), Rotation A
+- Pluto/Sechura (Defense), Rotation A
+- Sedna/Sangeru (Defense), Rotation A
+- Venus/Romula (Defense), Rotation A
+- Ceres/Bode (Spy), Rotation A
+- Ceres/Casta (Defense), Rotation A
+- Ceres/Egeria (Defense), Rotation A
+- Ceres/Varro (Defense), Rotation A
+- Earth/Lith (Defense), Rotation A
+- Europa/Ose (Interception), Rotation A
+- Europa/Valac (Spy), Rotation A
+- Jupiter/Amalthea (Spy), Rotation A
+- Jupiter/Callisto (Interception), Rotation A
+- Mars/Spear (Defense), Rotation A
+- Mercury/Lares (Defense), Rotation A
+- Phobos/Drunlo (Defense), Rotation A
+- Phobos/Gulliver (Defense), Rotation A
+- Saturn/Aegaeon (Spy), Rotation A
+- Saturn/Dione (Spy), Rotation A
+- Saturn/Rhea (Interception), Rotation A
+- Uranus/Umbriel (Interception), Rotation A
+- Venus/Tessera (Defense), Rotation A
+- Ceres/Cinxia (Interception), Rotation A
+- Earth/Gaia (Interception), Rotation A
+- Eris/Ixodes (Defense), Rotation A
+- Eris/Kala-Azar (Defense), Rotation A
+- Eris/Oestrus (Infested Salvage), Rotation A
+- Eris/Phalan (Interception), Rotation A
+- Eris/Sporid (Interception), Rotation A
+- Eris/Xini (Interception), Rotation A
+- Kuva Fortress/Nabuk (Defense), Rotation A
+- Lua/StöFler (Defense), Rotation A
+- Mars/Alator (Interception), Rotation A
+- Mercury/Odin (Interception), Rotation A
+- Neptune/Proteus (Defense), Rotation A
+- Pluto/Cerberus (Interception), Rotation A
+- Pluto/Outer Terminus (Defense), Rotation A
+- Sedna/Berehynia (Interception), Rotation A
+- Sedna/Hydron (Defense), Rotation A
+- Uranus/Bianca (Defense), Rotation A
+- Uranus/Miranda (Defense), Rotation A
+- Uranus/Stephano (Defense), Rotation A
+- Venus/Cytherean (Interception), Rotation A
+- Ceres/Lex (Capture)
+- Earth/Mantle (Capture)
+- Eris/Cosis (Capture)
+- Eris/Isos (Capture)
+- Europa/Abaddon (Capture)
+- Europa/Beleth (Capture)
+- Europa/Cryotic Front (Capture)
+- Jupiter/Ananke (Capture)
+- Lua/Copernicus (Capture)
+- Mars/Ara (Capture)
+- Mars/Quirinus (Capture)
+- Mercury/Elion (Capture)
+- Neptune/Galatea (Capture)
+- Phobos/Limtoc (Capture)
+- Phobos/Skyresh (Capture)
+- Phobos/Todd (Capture)
+- Pluto/Corb (Capture)
+- Pluto/Hydra (Capture)
+- Saturn/Cassini (Capture)
+- Saturn/Phoebe (Capture)
+- Uranus/Ariel (Capture)
+- Uranus/Trinculo (Capture)
+- Venus/Venera (Capture)
+- Another Betrayer, Rotation A
+- Family Reunion, Rotation A
+- Hot Mess, Rotation A
+- Phobos/Opik (Rush), Rotation A
+- Recover The Orokin Archive, Rotation A
+- Sunkiller, Rotation A
+- Table For Two, Rotation A
+- The Aftermath, Rotation A
+- Time's Up, Rotation A
+- Hyena Ln2
+- Hyena Ng
+- Hyena Pack
+- Hyena Pb
+- Hyena Th
+category: Mods
+description: ''
+drain: 2
+image: ../images/trick-mag-23c8d6b0c7.jpg
+last_updated: '2025-09-17'
+name: Trick Mag
+polarity: naramon
+rarity: Common
+release_date: '2012-10-25'
+source: WFCD
+tags:
+- Secondary Mod
+- Mods
+tradable: true
+type: Secondary Mod
+---
+
+# Trick Mag
+
+## Acquisition
+
+Available from:
+- Kuva Roller
+- Latcher
+- Lobber Crawler
+- Roller Sentry
+- Roller
+- Toxic Crawler
+- Tusk Roller
+- Axio Shockwave Moa
+- Breacher Moa
+- Flameblade
+- Kuva Flameblade
+- Narmer Flameblade
+- Narmer Shockwave Moa
+- Orm Shockwave Moa
+- Shockwave Moa
+- Taro Shockwave Moa
+- Test Moa
+- Tusk Flameblade
+- Tusk Predator
+- Vapos Shockwave Moa
+- Vorac Shockwave Moa
+- Axio Railgun Moa
+- Orm Railgun Moa
+- Railgun Moa
+- Taro Railgun Moa
+- Vapos Railgun Moa
+- Vorac Railgun Moa
+- Cinderthresh Hyena
+- Gyre Hyena
+- Icemire Hyena
+- Rabbleback Hyena
+- Ceres/Seimeni (Defense), Rotation A
+- Earth/Coba (Defense), Rotation A
+- Eris/Akkad (Defense), Rotation A
+- Europa/Larzac (Defense), Rotation A
+- Jupiter/Sinai (Defense), Rotation A
+- Mars/Kadesh (Defense), Rotation A
+- Pluto/Sechura (Defense), Rotation A
+- Sedna/Sangeru (Defense), Rotation A
+- Venus/Romula (Defense), Rotation A
+- Ceres/Bode (Spy), Rotation A
+- Ceres/Casta (Defense), Rotation A
+- Ceres/Egeria (Defense), Rotation A
+- Ceres/Varro (Defense), Rotation A
+- Earth/Lith (Defense), Rotation A
+- Europa/Ose (Interception), Rotation A
+- Europa/Valac (Spy), Rotation A
+- Jupiter/Amalthea (Spy), Rotation A
+- Jupiter/Callisto (Interception), Rotation A
+- Mars/Spear (Defense), Rotation A
+- Mercury/Lares (Defense), Rotation A
+- Phobos/Drunlo (Defense), Rotation A
+- Phobos/Gulliver (Defense), Rotation A
+- Saturn/Aegaeon (Spy), Rotation A
+- Saturn/Dione (Spy), Rotation A
+- Saturn/Rhea (Interception), Rotation A
+- Uranus/Umbriel (Interception), Rotation A
+- Venus/Tessera (Defense), Rotation A
+- Ceres/Cinxia (Interception), Rotation A
+- Earth/Gaia (Interception), Rotation A
+- Eris/Ixodes (Defense), Rotation A
+- Eris/Kala-Azar (Defense), Rotation A
+- Eris/Oestrus (Infested Salvage), Rotation A
+- Eris/Phalan (Interception), Rotation A
+- Eris/Sporid (Interception), Rotation A
+- Eris/Xini (Interception), Rotation A
+- Kuva Fortress/Nabuk (Defense), Rotation A
+- Lua/StöFler (Defense), Rotation A
+- Mars/Alator (Interception), Rotation A
+- Mercury/Odin (Interception), Rotation A
+- Neptune/Proteus (Defense), Rotation A
+- Pluto/Cerberus (Interception), Rotation A
+- Pluto/Outer Terminus (Defense), Rotation A
+- Sedna/Berehynia (Interception), Rotation A
+- Sedna/Hydron (Defense), Rotation A
+- Uranus/Bianca (Defense), Rotation A
+- Uranus/Miranda (Defense), Rotation A
+- Uranus/Stephano (Defense), Rotation A
+- Venus/Cytherean (Interception), Rotation A
+- Ceres/Lex (Capture)
+- Earth/Mantle (Capture)
+- Eris/Cosis (Capture)
+- Eris/Isos (Capture)
+- Europa/Abaddon (Capture)
+- Europa/Beleth (Capture)
+- Europa/Cryotic Front (Capture)
+- Jupiter/Ananke (Capture)
+- Lua/Copernicus (Capture)
+- Mars/Ara (Capture)
+- Mars/Quirinus (Capture)
+- Mercury/Elion (Capture)
+- Neptune/Galatea (Capture)
+- Phobos/Limtoc (Capture)
+- Phobos/Skyresh (Capture)
+- Phobos/Todd (Capture)
+- Pluto/Corb (Capture)
+- Pluto/Hydra (Capture)
+- Saturn/Cassini (Capture)
+- Saturn/Phoebe (Capture)
+- Uranus/Ariel (Capture)
+- Uranus/Trinculo (Capture)
+- Venus/Venera (Capture)
+- Another Betrayer, Rotation A
+- Family Reunion, Rotation A
+- Hot Mess, Rotation A
+- Phobos/Opik (Rush), Rotation A
+- Recover The Orokin Archive, Rotation A
+- Sunkiller, Rotation A
+- Table For Two, Rotation A
+- The Aftermath, Rotation A
+- Time's Up, Rotation A
+- Hyena Ln2
+- Hyena Ng
+- Hyena Pack
+- Hyena Pb
+- Hyena Th
+

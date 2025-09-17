@@ -1,0 +1,356 @@
+---
+acquisition:
+- Corrupted Drahk
+- Drahk
+- Kubrow
+- Kuva Drahk
+- Tamm
+- Fusion Moa
+- Kuva Roller
+- Latcher
+- Roller Sentry
+- Roller
+- Tusk Roller
+- Vapos Fusion Moa
+- Attack Drone
+- Carabus
+- Frontier Regulator
+- Juno Oxium Osprey
+- Kuva Napalm
+- Napalm
+- Narmer Napalm
+- Narmer Observation Drone
+- Narmer Oxium Osprey
+- Narmer Regulator
+- Nemes
+- Observation Drone
+- Oxium Osprey
+- Rathuum Broadcaster
+- Regulator
+- Remech Osprey
+- Sensor Regulator
+- Taro Secura Osprey
+- Tusk Napalm
+- Vapos Oxium Osprey
+- Arid Hellion
+- Arid Lancer
+- Coildrive
+- Drekar Elite Lancer
+- Drekar Lancer
+- Drekar Scorpion
+- Frontier Hellion
+- Frontier Lancer
+- Hellion
+- Kuva Hellion
+- Kuva Lancer
+- Kuva Lich Agor Rok (Level 0 - 69)
+- Lancer Survivor
+- Lancer
+- Narmer Coildrive
+- Narmer Commander
+- Narmer Hellion
+- Narmer Lancer
+- Nightwatch Reaver
+- Rogg-417
+- Scaldra Ti-92
+- Special Duty Coildrive
+- Tusk Hellion
+- Tusk Lancer
+- Tusk Reaver
+- Anti Moa
+- Axio Disc Moa
+- Orm Disc Moa
+- Taro Disc Moa
+- Vapos Anti Moa
+- Vorac Disc Moa
+- Primm
+- Terra Attack Drone
+- Terra Shield Osprey
+- Verd-Ie
+- Kuva Lich Agor Rok (Level 70 - 79)
+- Orb Vallis - Spaceport Enemies
+- Earth/Cervantes (Caches), Rotation C
+- Terra Attack Drone
+- Terra Shield Osprey
+- Ceres/Seimeni (Defense), Rotation A
+- Earth/Coba (Defense), Rotation A
+- Eris/Akkad (Defense), Rotation A
+- Europa/Larzac (Defense), Rotation A
+- Jupiter/Sinai (Defense), Rotation A
+- Mars/Kadesh (Defense), Rotation A
+- Pluto/Sechura (Defense), Rotation A
+- Sedna/Sangeru (Defense), Rotation A
+- Venus/Romula (Defense), Rotation A
+- Ceres/Bode (Spy), Rotation A
+- Europa/Ose (Interception), Rotation A
+- Europa/Valac (Spy), Rotation A
+- Jupiter/Amalthea (Spy), Rotation A
+- Jupiter/Callisto (Interception), Rotation A
+- Saturn/Aegaeon (Spy), Rotation A
+- Saturn/Dione (Spy), Rotation A
+- Saturn/Rhea (Interception), Rotation A
+- Uranus/Umbriel (Interception), Rotation A
+- Ceres/Cinxia (Interception), Rotation A
+- Earth/Gaia (Interception), Rotation A
+- Eris/Ixodes (Defense), Rotation A
+- Eris/Kala-Azar (Defense), Rotation A
+- Eris/Oestrus (Infested Salvage), Rotation A
+- Eris/Phalan (Interception), Rotation A
+- Eris/Sporid (Interception), Rotation A
+- Eris/Xini (Interception), Rotation A
+- Kuva Fortress/Nabuk (Defense), Rotation A
+- Lua/StöFler (Defense), Rotation A
+- Mars/Alator (Interception), Rotation A
+- Mercury/Odin (Interception), Rotation A
+- Neptune/Proteus (Defense), Rotation A
+- Pluto/Cerberus (Interception), Rotation A
+- Pluto/Outer Terminus (Defense), Rotation A
+- Sedna/Berehynia (Interception), Rotation A
+- Sedna/Hydron (Defense), Rotation A
+- Uranus/Bianca (Defense), Rotation A
+- Uranus/Miranda (Defense), Rotation A
+- Uranus/Stephano (Defense), Rotation A
+- Venus/Cytherean (Interception), Rotation A
+- Ceres/Lex (Capture)
+- Earth/Mantle (Capture)
+- Eris/Cosis (Capture)
+- Eris/Isos (Capture)
+- Europa/Abaddon (Capture)
+- Europa/Beleth (Capture)
+- Europa/Cryotic Front (Capture)
+- Jupiter/Ananke (Capture)
+- Lua/Copernicus (Capture)
+- Mars/Ara (Capture)
+- Mars/Quirinus (Capture)
+- Mercury/Elion (Capture)
+- Neptune/Galatea (Capture)
+- Phobos/Limtoc (Capture)
+- Phobos/Skyresh (Capture)
+- Phobos/Todd (Capture)
+- Pluto/Corb (Capture)
+- Pluto/Hydra (Capture)
+- Saturn/Cassini (Capture)
+- Saturn/Phoebe (Capture)
+- Uranus/Ariel (Capture)
+- Uranus/Trinculo (Capture)
+- Venus/Venera (Capture)
+- Another Betrayer, Rotation A
+- Earth/Cetus (Level 5 - 15 Cetus Bounty), Rotation C
+- Family Reunion, Rotation A
+- Hot Mess, Rotation A
+- Phobos/Opik (Rush), Rotation A
+- Recover The Orokin Archive, Rotation A
+- Sunkiller, Rotation A
+- Table For Two, Rotation A
+- The Aftermath, Rotation A
+- Time's Up, Rotation A
+- Earth/Cetus (Level 5 - 15 Cetus Bounty), Rotation C
+- Earth/Cetus (Level 5 - 15 Cetus Bounty), Rotation C
+- Alad V
+- Captain Vor
+- Janus Captain Vor
+- Mutalist Alad V
+- Tyl Regor
+- Kahl's Garrison (Chipper), Fort
+- NecraLoid (Loid), Clearance Modus
+description: ''
+drain: 2
+effects:
+- stats:
+  - +9% Health
+- stats:
+  - +18% Health
+- stats:
+  - +27% Health
+- stats:
+  - +36% Health
+- stats:
+  - +45% Health
+- stats:
+  - +55% Health
+image: ../images/vitality-c6e8fc50c0.jpg
+last_updated: '2025-09-17'
+name: Vitality
+polarity: vazarin
+rarity: Common
+source: WFCD
+tags:
+- Mods
+tradable: true
+type: Warframe Mod
+---
+
+# Vitality
+
+## Overview
+
+**Vitality** is a warframe mod with vazarin polarity.
+
+## Effects
+
+| Rank | Effects |
+|------|----------|
+| 0 | stats: ['+9% Health'] |
+| 1 | stats: ['+18% Health'] |
+| 2 | stats: ['+27% Health'] |
+| 3 | stats: ['+36% Health'] |
+| 4 | stats: ['+45% Health'] |
+| 5 | stats: ['+55% Health'] |
+
+## Acquisition
+
+Available from:
+- Corrupted Drahk (0.0011% chance)
+- Drahk (0.0011% chance)
+- Kubrow (0.0011% chance)
+- Kuva Drahk (0.0011% chance)
+- Tamm (0.0011% chance)
+- Fusion Moa (0.0057% chance)
+- Kuva Roller (0.0057% chance)
+- Latcher (0.0057% chance)
+- Roller Sentry (0.0057% chance)
+- Roller (0.0057% chance)
+- Tusk Roller (0.0057% chance)
+- Vapos Fusion Moa (0.0057% chance)
+- Attack Drone (0.0076% chance)
+- Carabus (0.0076% chance)
+- Frontier Regulator (0.0076% chance)
+- Juno Oxium Osprey (0.0076% chance)
+- Kuva Napalm (0.0076% chance)
+- Napalm (0.0076% chance)
+- Narmer Napalm (0.0076% chance)
+- Narmer Observation Drone (0.0076% chance)
+- Narmer Oxium Osprey (0.0076% chance)
+- Narmer Regulator (0.0076% chance)
+- Nemes (0.0076% chance)
+- Observation Drone (0.0076% chance)
+- Oxium Osprey (0.0076% chance)
+- Rathuum Broadcaster (0.0076% chance)
+- Regulator (0.0076% chance)
+- Remech Osprey (0.0076% chance)
+- Sensor Regulator (0.0076% chance)
+- Taro Secura Osprey (0.0076% chance)
+- Tusk Napalm (0.0076% chance)
+- Vapos Oxium Osprey (0.0076% chance)
+- Arid Hellion (0.0114% chance)
+- Arid Lancer (0.0114% chance)
+- Coildrive (0.0114% chance)
+- Drekar Elite Lancer (0.0114% chance)
+- Drekar Lancer (0.0114% chance)
+- Drekar Scorpion (0.0114% chance)
+- Frontier Hellion (0.0114% chance)
+- Frontier Lancer (0.0114% chance)
+- Hellion (0.0114% chance)
+- Kuva Hellion (0.0114% chance)
+- Kuva Lancer (0.0114% chance)
+- Kuva Lich Agor Rok (Level 0 - 69) (0.0114% chance)
+- Lancer Survivor (0.0114% chance)
+- Lancer (0.0114% chance)
+- Narmer Coildrive (0.0114% chance)
+- Narmer Commander (0.0114% chance)
+- Narmer Hellion (0.0114% chance)
+- Narmer Lancer (0.0114% chance)
+- Nightwatch Reaver (0.0114% chance)
+- Rogg-417 (0.0114% chance)
+- Scaldra Ti-92 (0.0114% chance)
+- Special Duty Coildrive (0.0114% chance)
+- Tusk Hellion (0.0114% chance)
+- Tusk Lancer (0.0114% chance)
+- Tusk Reaver (0.0114% chance)
+- Anti Moa (0.0116% chance)
+- Axio Disc Moa (0.0116% chance)
+- Orm Disc Moa (0.0116% chance)
+- Taro Disc Moa (0.0116% chance)
+- Vapos Anti Moa (0.0116% chance)
+- Vorac Disc Moa (0.0116% chance)
+- Primm (0.0126% chance)
+- Terra Attack Drone (0.0126% chance)
+- Terra Shield Osprey (0.0126% chance)
+- Verd-Ie (0.0126% chance)
+- Kuva Lich Agor Rok (Level 70 - 79) (0.0146% chance)
+- Orb Vallis - Spaceport Enemies (0.0177% chance)
+- Earth/Cervantes (Caches), Rotation C (0.0367% chance)
+- Terra Attack Drone (0.0506% chance)
+- Terra Shield Osprey (0.0506% chance)
+- Ceres/Seimeni (Defense), Rotation A (0.069% chance)
+- Earth/Coba (Defense), Rotation A (0.069% chance)
+- Eris/Akkad (Defense), Rotation A (0.069% chance)
+- Europa/Larzac (Defense), Rotation A (0.069% chance)
+- Jupiter/Sinai (Defense), Rotation A (0.069% chance)
+- Mars/Kadesh (Defense), Rotation A (0.069% chance)
+- Pluto/Sechura (Defense), Rotation A (0.069% chance)
+- Sedna/Sangeru (Defense), Rotation A (0.069% chance)
+- Venus/Romula (Defense), Rotation A (0.069% chance)
+- Ceres/Bode (Spy), Rotation A (0.0909% chance)
+- Europa/Ose (Interception), Rotation A (0.0909% chance)
+- Europa/Valac (Spy), Rotation A (0.0909% chance)
+- Jupiter/Amalthea (Spy), Rotation A (0.0909% chance)
+- Jupiter/Callisto (Interception), Rotation A (0.0909% chance)
+- Saturn/Aegaeon (Spy), Rotation A (0.0909% chance)
+- Saturn/Dione (Spy), Rotation A (0.0909% chance)
+- Saturn/Rhea (Interception), Rotation A (0.0909% chance)
+- Uranus/Umbriel (Interception), Rotation A (0.0909% chance)
+- Ceres/Cinxia (Interception), Rotation A (0.1% chance)
+- Earth/Gaia (Interception), Rotation A (0.1% chance)
+- Eris/Ixodes (Defense), Rotation A (0.1% chance)
+- Eris/Kala-Azar (Defense), Rotation A (0.1% chance)
+- Eris/Oestrus (Infested Salvage), Rotation A (0.1% chance)
+- Eris/Phalan (Interception), Rotation A (0.1% chance)
+- Eris/Sporid (Interception), Rotation A (0.1% chance)
+- Eris/Xini (Interception), Rotation A (0.1% chance)
+- Kuva Fortress/Nabuk (Defense), Rotation A (0.1% chance)
+- Lua/StöFler (Defense), Rotation A (0.1% chance)
+- Mars/Alator (Interception), Rotation A (0.1% chance)
+- Mercury/Odin (Interception), Rotation A (0.1% chance)
+- Neptune/Proteus (Defense), Rotation A (0.1% chance)
+- Pluto/Cerberus (Interception), Rotation A (0.1% chance)
+- Pluto/Outer Terminus (Defense), Rotation A (0.1% chance)
+- Sedna/Berehynia (Interception), Rotation A (0.1% chance)
+- Sedna/Hydron (Defense), Rotation A (0.1% chance)
+- Uranus/Bianca (Defense), Rotation A (0.1% chance)
+- Uranus/Miranda (Defense), Rotation A (0.1% chance)
+- Uranus/Stephano (Defense), Rotation A (0.1% chance)
+- Venus/Cytherean (Interception), Rotation A (0.1% chance)
+- Ceres/Lex (Capture) (0.1084% chance)
+- Earth/Mantle (Capture) (0.1084% chance)
+- Eris/Cosis (Capture) (0.1084% chance)
+- Eris/Isos (Capture) (0.1084% chance)
+- Europa/Abaddon (Capture) (0.1084% chance)
+- Europa/Beleth (Capture) (0.1084% chance)
+- Europa/Cryotic Front (Capture) (0.1084% chance)
+- Jupiter/Ananke (Capture) (0.1084% chance)
+- Lua/Copernicus (Capture) (0.1084% chance)
+- Mars/Ara (Capture) (0.1084% chance)
+- Mars/Quirinus (Capture) (0.1084% chance)
+- Mercury/Elion (Capture) (0.1084% chance)
+- Neptune/Galatea (Capture) (0.1084% chance)
+- Phobos/Limtoc (Capture) (0.1084% chance)
+- Phobos/Skyresh (Capture) (0.1084% chance)
+- Phobos/Todd (Capture) (0.1084% chance)
+- Pluto/Corb (Capture) (0.1084% chance)
+- Pluto/Hydra (Capture) (0.1084% chance)
+- Saturn/Cassini (Capture) (0.1084% chance)
+- Saturn/Phoebe (Capture) (0.1084% chance)
+- Uranus/Ariel (Capture) (0.1084% chance)
+- Uranus/Trinculo (Capture) (0.1084% chance)
+- Venus/Venera (Capture) (0.1084% chance)
+- Another Betrayer, Rotation A (0.1518% chance)
+- Earth/Cetus (Level 5 - 15 Cetus Bounty), Rotation C (0.1518% chance)
+- Family Reunion, Rotation A (0.1518% chance)
+- Hot Mess, Rotation A (0.1518% chance)
+- Phobos/Opik (Rush), Rotation A (0.1518% chance)
+- Recover The Orokin Archive, Rotation A (0.1518% chance)
+- Sunkiller, Rotation A (0.1518% chance)
+- Table For Two, Rotation A (0.1518% chance)
+- The Aftermath, Rotation A (0.1518% chance)
+- Time's Up, Rotation A (0.1518% chance)
+- Earth/Cetus (Level 5 - 15 Cetus Bounty), Rotation C (0.1549% chance)
+- Earth/Cetus (Level 5 - 15 Cetus Bounty), Rotation C (0.2% chance)
+- Alad V (0.2529% chance)
+- Captain Vor (0.2529% chance)
+- Janus Captain Vor (0.2529% chance)
+- Mutalist Alad V (0.2529% chance)
+- Tyl Regor (0.2581% chance)
+- Kahl's Garrison (Chipper), Fort (1% chance)
+- NecraLoid (Loid), Clearance Modus (1% chance)
+

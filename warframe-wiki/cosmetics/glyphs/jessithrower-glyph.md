@@ -1,0 +1,18 @@
+---
+category: Glyphs
+description: A Glyph for your profile.
+image: ../images/jessithrower-glyph-b4eea8396e.png
+last_updated: '2025-09-17'
+name: Jessithrower Glyph
+source: WFCD
+tags:
+- Glyph
+- Glyphs
+tradable: false
+type: Glyph
+---
+
+# Jessithrower Glyph
+
+A Glyph for your profile.
+

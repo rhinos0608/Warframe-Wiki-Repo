@@ -1,0 +1,80 @@
+---
+acquisition:
+- Kuva Siphon
+- Kuva Flood
+category: Relics
+description: Holds Requiem Mods and other mysteries.
+image: ../images/requiem-radiant.png
+last_updated: '2025-09-17'
+name: Requiem I Radiant
+rewards:
+- chance: 2
+  item:
+    name: Exilus Weapon Adapter Blueprint
+    uniqueName: /Lotus/Types/Game/Projections/T5VoidProjectionImmortalABronze
+  rarity: Rare
+- chance: 11
+  item:
+    name: Lohk
+    uniqueName: /Lotus/Types/Game/Projections/T5VoidProjectionImmortalABronze
+    warframeMarket:
+      id: 5dbe9b0b7ea27b0ffe3ca26e
+      urlName: lohk
+  rarity: Uncommon
+- chance: 11
+  item:
+    name: Xata
+    uniqueName: /Lotus/Types/Game/Projections/T5VoidProjectionImmortalABronze
+    warframeMarket:
+      id: 5dbe9b127ea27b0ffe3ca285
+      urlName: xata
+  rarity: Uncommon
+- chance: 25.33
+  item:
+    name: 1200X Kuva
+    uniqueName: /Lotus/Types/Game/Projections/T5VoidProjectionImmortalABronze
+  rarity: Uncommon
+- chance: 25.33
+  item:
+    name: Ayatan Amber Star
+    uniqueName: /Lotus/Types/Game/Projections/T5VoidProjectionImmortalABronze
+    warframeMarket:
+      id: 57e91e5cc76eb74c087f492d
+      urlName: ayatan_amber_star
+  rarity: Uncommon
+- chance: 25.33
+  item:
+    name: Riven Sliver
+    uniqueName: /Lotus/Types/Game/Projections/T5VoidProjectionImmortalABronze
+  rarity: Uncommon
+source: WFCD
+tags:
+- Relic
+- Relics
+tradable: true
+type: Relic
+---
+
+# Requiem I Radiant
+
+Holds Requiem Mods and other mysteries.
+
+## Relic Information
+
+## Rewards
+
+| Item | Rarity | Chance |
+|------|---------|--------|
+| Unknown | Rare | 2 |
+| Unknown | Uncommon | 11 |
+| Unknown | Uncommon | 11 |
+| Unknown | Uncommon | 25.33 |
+| Unknown | Uncommon | 25.33 |
+| Unknown | Uncommon | 25.33 |
+
+## Acquisition
+
+Available from:
+- Kuva Siphon
+- Kuva Flood
+

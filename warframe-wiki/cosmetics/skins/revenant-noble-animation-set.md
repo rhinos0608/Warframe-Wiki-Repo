@@ -1,0 +1,23 @@
+---
+category: Skins
+description: This item lets you use Revenant's noble animation set with any Warframe
+  of your choosing.
+image: ../images/revenant-noble-animation-set-eba5a947c8.png
+last_updated: '2025-09-17'
+name: Revenant Noble Animation Set
+source: WFCD
+tags:
+- Skin
+- Skins
+tradable: false
+type: Skin
+---
+
+# Revenant Noble Animation Set
+
+This item lets you use Revenant's noble animation set with any Warframe of your choosing.
+
+## Cosmetic Information
+
+**Revenant Noble Animation Set** is a skin cosmetic item for Skins.
+

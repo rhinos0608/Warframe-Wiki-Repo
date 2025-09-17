@@ -1,0 +1,18 @@
+---
+category: Skins
+description: 'A small wobbly statue of an Executioner from Tactical Alert: Dog Days.'
+image: ../images/noggle-statue---dog-days-executioner-gorth-63d446e906.png
+last_updated: '2025-09-17'
+name: Noggle Statue - Dog Days Executioner Gorth
+source: WFCD
+tags:
+- Ship Decoration
+- Skins
+tradable: false
+type: Ship Decoration
+---
+
+# Noggle Statue - Dog Days Executioner Gorth
+
+A small wobbly statue of an Executioner from Tactical Alert: Dog Days.
+

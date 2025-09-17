@@ -1,0 +1,1805 @@
+---
+acquisition:
+- Kuva Napalm
+- Napalm
+- Narmer Napalm
+- Tusk Napalm
+- 'Duviri/Endless: Tier 1 (Normal)'
+- 'Duviri/Endless: Tier 3 (Normal)'
+- Axi A18 Relic
+- Axi A19 Relic
+- Axi B3 Relic
+- Axi C8 Relic
+- Axi P6 Relic
+- Axi S4 Relic
+- Axi S7 Relic
+- Axi V2 Relic
+- Axi V3 Relic
+- Axi V4 Relic
+- Lith B1 Relic
+- Lith B9 Relic
+- Lith C6 Relic
+- Lith C9 Relic
+- Lith P6 Relic
+- Lith S2 Relic
+- Lith T2 Relic
+- Lith T6 Relic
+- Meso A8 Relic
+- Meso B1 Relic
+- Meso B3 Relic
+- Meso B6 Relic
+- Meso C6 Relic
+- Meso P11 Relic
+- Meso P14 Relic
+- Meso S1 Relic
+- Meso T2 Relic
+- Meso T3 Relic
+- Neo B7 Relic
+- Neo B8 Relic
+- Neo P6 Relic
+- Elite Sanctuary Onslaught, Rotation C
+- Deimos/Cambion Drift (Level 30 - 40 Arcana Isolation Vault), Rotation C
+- Deimos/Cambion Drift (Level 30 - 40 Isolation Vault), Rotation C
+- Deimos/Cambion Drift (Level 40 - 50 Arcana Isolation Vault), Rotation C
+- Deimos/Cambion Drift (Level 40 - 50 Isolation Vault), Rotation C
+- Deimos/Cambion Drift (Level 50 - 60 Arcana Isolation Vault), Rotation C
+- Deimos/Cambion Drift (Level 50 - 60 Isolation Vault), Rotation C
+- Deimos/Cambion Drift (Level 50 - 60 Arcana Isolation Vault), Rotation C
+- Deimos/Cambion Drift (Level 50 - 60 Isolation Vault), Rotation C
+- Axi A18 Relic (Exceptional)
+- Axi A19 Relic (Exceptional)
+- Axi B3 Relic (Exceptional)
+- Axi C8 Relic (Exceptional)
+- Axi P6 Relic (Exceptional)
+- Axi S4 Relic (Exceptional)
+- Axi S7 Relic (Exceptional)
+- Axi V2 Relic (Exceptional)
+- Axi V3 Relic (Exceptional)
+- Axi V4 Relic (Exceptional)
+- Lith B1 Relic (Exceptional)
+- Lith B9 Relic (Exceptional)
+- Lith C6 Relic (Exceptional)
+- Lith C9 Relic (Exceptional)
+- Lith P6 Relic (Exceptional)
+- Lith S2 Relic (Exceptional)
+- Lith T2 Relic (Exceptional)
+- Lith T6 Relic (Exceptional)
+- Meso A8 Relic (Exceptional)
+- Meso B1 Relic (Exceptional)
+- Meso B3 Relic (Exceptional)
+- Meso B6 Relic (Exceptional)
+- Meso C6 Relic (Exceptional)
+- Meso P11 Relic (Exceptional)
+- Meso P14 Relic (Exceptional)
+- Meso S1 Relic (Exceptional)
+- Meso T2 Relic (Exceptional)
+- Meso T3 Relic (Exceptional)
+- Neo B7 Relic (Exceptional)
+- Neo B8 Relic (Exceptional)
+- Neo P6 Relic (Exceptional)
+- Deimos/Cambion Drift (Level 50 - 60 Arcana Isolation Vault), Rotation C
+- 'Operation: Orphix Venom, Rotation B'
+- 'Operation: Orphix Venom, Rotation B'
+- Axi A18 Relic (Flawless)
+- Axi A19 Relic (Flawless)
+- Axi B3 Relic (Flawless)
+- Axi C8 Relic (Flawless)
+- Axi P6 Relic (Flawless)
+- Axi S4 Relic (Flawless)
+- Axi S7 Relic (Flawless)
+- Axi V2 Relic (Flawless)
+- Axi V3 Relic (Flawless)
+- Axi V4 Relic (Flawless)
+- Deimos/Cambion Drift (Level 30 - 40 Arcana Isolation Vault), Rotation C
+- Deimos/Cambion Drift (Level 40 - 50 Arcana Isolation Vault), Rotation C
+- Deimos/Cambion Drift (Level 50 - 60 Arcana Isolation Vault), Rotation C
+- Lith B1 Relic (Flawless)
+- Lith B9 Relic (Flawless)
+- Lith C6 Relic (Flawless)
+- Lith C9 Relic (Flawless)
+- Lith P6 Relic (Flawless)
+- Lith S2 Relic (Flawless)
+- Lith T2 Relic (Flawless)
+- Lith T6 Relic (Flawless)
+- Lua/Yuvarium (Survival), Rotation B
+- Meso A8 Relic (Flawless)
+- Meso B1 Relic (Flawless)
+- Meso B3 Relic (Flawless)
+- Meso B6 Relic (Flawless)
+- Meso C6 Relic (Flawless)
+- Meso P11 Relic (Flawless)
+- Meso P14 Relic (Flawless)
+- Meso S1 Relic (Flawless)
+- Meso T2 Relic (Flawless)
+- Meso T3 Relic (Flawless)
+- Neo B7 Relic (Flawless)
+- Neo B8 Relic (Flawless)
+- Neo P6 Relic (Flawless)
+- Pluto/Fenton's Field (Caches), Rotation B
+- Pluto/Khufu Envoy (Caches), Rotation B
+- Pluto/Obol Crossing (Caches), Rotation B
+- Pluto/Peregrine Axis (Caches), Rotation B
+- Pluto/Profit Margin (Caches), Rotation B
+- Pluto/Seven Sirens (Caches), Rotation B
+- Veil/Arc Silver (Caches), Rotation B
+- Veil/Calabash (Caches), Rotation B
+- Veil/Erato (Caches), Rotation B
+- Veil/Lu-Yan (Caches), Rotation B
+- Veil/Numina (Caches), Rotation B
+- Veil/Sabmir Cloud (Caches), Rotation B
+- Deimos/Cambion Drift (Level 50 - 60 Arcana Isolation Vault), Rotation C
+- Mars/Tyana Pass (Defense), Rotation B
+- Axi A18 Relic (Radiant)
+- Axi A19 Relic (Radiant)
+- Axi B3 Relic (Radiant)
+- Axi C8 Relic (Radiant)
+- Axi P6 Relic (Radiant)
+- Axi S4 Relic (Radiant)
+- Axi S7 Relic (Radiant)
+- Axi V2 Relic (Radiant)
+- Axi V3 Relic (Radiant)
+- Axi V4 Relic (Radiant)
+- Lith B1 Relic (Radiant)
+- Lith B9 Relic (Radiant)
+- Lith C6 Relic (Radiant)
+- Lith C9 Relic (Radiant)
+- Lith P6 Relic (Radiant)
+- Lith S2 Relic (Radiant)
+- Lith T2 Relic (Radiant)
+- Lith T6 Relic (Radiant)
+- Meso A8 Relic (Radiant)
+- Meso B1 Relic (Radiant)
+- Meso B3 Relic (Radiant)
+- Meso B6 Relic (Radiant)
+- Meso C6 Relic (Radiant)
+- Meso P11 Relic (Radiant)
+- Meso P14 Relic (Radiant)
+- Meso S1 Relic (Radiant)
+- Meso T2 Relic (Radiant)
+- Meso T3 Relic (Radiant)
+- Neo B7 Relic (Radiant)
+- Neo B8 Relic (Radiant)
+- Neo P6 Relic (Radiant)
+- Lua/Circulus (Survival), Rotation B
+- Axi C7 Relic
+- Axi C9 Relic
+- Axi D2 Relic
+- Axi D5 Relic
+- Axi G6 Relic
+- Axi G7 Relic
+- Axi H7 Relic
+- Axi K10 Relic
+- Axi K12 Relic
+- Axi M2 Relic
+- Axi P2 Relic
+- Axi P5 Relic
+- Axi P7 Relic
+- Axi S10 Relic
+- Axi S12 Relic
+- Axi T6 Relic
+- Axi V11 Relic
+- Lith B5 Relic
+- Lith C11 Relic
+- Lith C12 Relic
+- Lith C4 Relic
+- Lith C8 Relic
+- Lith D6 Relic
+- Lith G3 Relic
+- Lith G5 Relic
+- Lith G8 Relic
+- Lith G9 Relic
+- Lith H6 Relic
+- Lith H6 Relic
+- Lith H8 Relic
+- Lith K10 Relic
+- Lith K9 Relic
+- Lith M3 Relic
+- Lith N11 Relic
+- Lith N16 Relic
+- Lith Q1 Relic
+- Lith R2 Relic
+- Lith T8 Relic
+- Lith V10 Relic
+- Lith V8 Relic
+- Lith W3 Relic
+- Lith Y1 Relic
+- Lith Z3 Relic
+- Meso A7 Relic
+- Meso C9 Relic
+- Meso D7 Relic
+- Meso E2 Relic
+- Meso G3 Relic
+- Meso G5 Relic
+- Meso G9 Relic
+- Meso M5 Relic
+- Meso N10 Relic
+- Meso N13 Relic
+- Meso S11 Relic
+- Meso S12 Relic
+- Meso T5 Relic
+- Meso T5 Relic
+- Meso V10 Relic
+- Meso W3 Relic
+- Meso Z4 Relic
+- Neo A12 Relic
+- Neo A8 Relic
+- Neo B1 Relic
+- Neo D5 Relic
+- Neo K4 Relic
+- Neo N17 Relic
+- Neo P1 Relic
+- Neo P3 Relic
+- Neo P7 Relic
+- 'Operation: Orphix Venom, Rotation B'
+- Axi C7 Relic (Exceptional)
+- Axi C9 Relic (Exceptional)
+- Axi D2 Relic (Exceptional)
+- Axi D5 Relic (Exceptional)
+- Axi G6 Relic (Exceptional)
+- Axi G7 Relic (Exceptional)
+- Axi H7 Relic (Exceptional)
+- Axi K10 Relic (Exceptional)
+- Axi K12 Relic (Exceptional)
+- Axi M2 Relic (Exceptional)
+- Axi P2 Relic (Exceptional)
+- Axi P5 Relic (Exceptional)
+- Axi P7 Relic (Exceptional)
+- Axi S10 Relic (Exceptional)
+- Axi S12 Relic (Exceptional)
+- Axi T6 Relic (Exceptional)
+- Axi V11 Relic (Exceptional)
+- Lith B5 Relic (Exceptional)
+- Lith C11 Relic (Exceptional)
+- Lith C12 Relic (Exceptional)
+- Lith C4 Relic (Exceptional)
+- Lith C8 Relic (Exceptional)
+- Lith D6 Relic (Exceptional)
+- Lith G3 Relic (Exceptional)
+- Lith G5 Relic (Exceptional)
+- Lith G8 Relic (Exceptional)
+- Lith G9 Relic (Exceptional)
+- Lith H6 Relic (Exceptional)
+- Lith H6 Relic (Exceptional)
+- Lith H8 Relic (Exceptional)
+- Lith K10 Relic (Exceptional)
+- Lith K9 Relic (Exceptional)
+- Lith M3 Relic (Exceptional)
+- Lith N11 Relic (Exceptional)
+- Lith N16 Relic (Exceptional)
+- Lith Q1 Relic (Exceptional)
+- Lith R2 Relic (Exceptional)
+- Lith T8 Relic (Exceptional)
+- Lith V10 Relic (Exceptional)
+- Lith V8 Relic (Exceptional)
+- Lith W3 Relic (Exceptional)
+- Lith Y1 Relic (Exceptional)
+- Lith Z3 Relic (Exceptional)
+- Meso A7 Relic (Exceptional)
+- Meso C9 Relic (Exceptional)
+- Meso D7 Relic (Exceptional)
+- Meso E2 Relic (Exceptional)
+- Meso G3 Relic (Exceptional)
+- Meso G5 Relic (Exceptional)
+- Meso G9 Relic (Exceptional)
+- Meso M5 Relic (Exceptional)
+- Meso N10 Relic (Exceptional)
+- Meso N13 Relic (Exceptional)
+- Meso S11 Relic (Exceptional)
+- Meso S12 Relic (Exceptional)
+- Meso T5 Relic (Exceptional)
+- Meso T5 Relic (Exceptional)
+- Meso V10 Relic (Exceptional)
+- Meso W3 Relic (Exceptional)
+- Meso Z4 Relic (Exceptional)
+- Neo A12 Relic (Exceptional)
+- Neo A8 Relic (Exceptional)
+- Neo B1 Relic (Exceptional)
+- Neo D5 Relic (Exceptional)
+- Neo K4 Relic (Exceptional)
+- Neo N17 Relic (Exceptional)
+- Neo P1 Relic (Exceptional)
+- Neo P3 Relic (Exceptional)
+- Neo P7 Relic (Exceptional)
+- Deimos/Munio (Defense), Rotation C
+- Deimos/Cambire (Alchemy), Rotation C
+- Axi A1 Relic (Radiant)
+- Axi A15 Relic (Radiant)
+- Axi A4 Relic (Radiant)
+- Axi A6 Relic (Radiant)
+- Axi A8 Relic (Radiant)
+- Axi A9 Relic (Radiant)
+- Axi B3 Relic (Radiant)
+- Axi D3 Relic (Radiant)
+- Axi E2 Relic (Radiant)
+- Axi F1 Relic (Radiant)
+- Axi F3 Relic (Radiant)
+- Axi G5 Relic (Radiant)
+- Axi G8 Relic (Radiant)
+- Axi K4 Relic (Radiant)
+- Axi L5 Relic (Radiant)
+- Axi O3 Relic (Radiant)
+- Axi R1 Relic (Radiant)
+- Axi R3 Relic (Radiant)
+- Axi R4 Relic (Radiant)
+- Axi S18 Relic (Radiant)
+- Axi S3 Relic (Radiant)
+- Axi T2 Relic (Radiant)
+- Lith A7 Relic (Radiant)
+- Lith B2 Relic (Radiant)
+- Lith B8 Relic (Radiant)
+- Lith D3 Relic (Radiant)
+- Lith G2 Relic (Radiant)
+- Lith G6 Relic (Radiant)
+- Lith K1 Relic (Radiant)
+- Lith K10 Relic (Radiant)
+- Lith K11 Relic (Radiant)
+- Lith K12 Relic (Radiant)
+- Lith M5 Relic (Radiant)
+- Lith N10 Relic (Radiant)
+- Lith N13 Relic (Radiant)
+- Lith N3 Relic (Radiant)
+- Lith N5 Relic (Radiant)
+- Lith N9 Relic (Radiant)
+- Lith O4 Relic (Radiant)
+- Lith P1 Relic (Radiant)
+- Lith P3 Relic (Radiant)
+- Lith Q2 Relic (Radiant)
+- Lith R3 Relic (Radiant)
+- Lith S12 Relic (Radiant)
+- Lith S9 Relic (Radiant)
+- Lith S9 Relic (Radiant)
+- Lith T10 Relic (Radiant)
+- Lith T3 Relic (Radiant)
+- Lith V1 Relic (Radiant)
+- Lith W4 Relic (Radiant)
+- Meso A1 Relic (Radiant)
+- Meso A3 Relic (Radiant)
+- Meso C3 Relic (Radiant)
+- Meso C4 Relic (Radiant)
+- Meso C5 Relic (Radiant)
+- Meso D3 Relic (Radiant)
+- Meso F2 Relic (Radiant)
+- Meso F4 Relic (Radiant)
+- Meso G5 Relic (Radiant)
+- Meso G6 Relic (Radiant)
+- Meso G7 Relic (Radiant)
+- Meso G8 Relic (Radiant)
+- Meso K3 Relic (Radiant)
+- Meso M5 Relic (Radiant)
+- Meso N1 Relic (Radiant)
+- Meso N3 Relic (Radiant)
+- Meso N5 Relic (Radiant)
+- Meso O5 Relic (Radiant)
+- Meso P13 Relic (Radiant)
+- Meso P16 Relic (Radiant)
+- Meso R6 Relic (Radiant)
+- Meso S1 Relic (Radiant)
+- Meso S14 Relic (Radiant)
+- Meso S5 Relic (Radiant)
+- Meso T1 Relic (Radiant)
+- Meso T7 Relic (Radiant)
+- Meso T8 Relic (Radiant)
+- Meso W2 Relic (Radiant)
+- Neo A10 Relic (Radiant)
+- Neo A14 Relic (Radiant)
+- Neo B2 Relic (Radiant)
+- Neo B2 Relic (Radiant)
+- Neo B4 Relic (Radiant)
+- Neo C2 Relic (Radiant)
+- Neo C3 Relic (Radiant)
+- Neo C5 Relic (Radiant)
+- Neo D2 Relic (Radiant)
+- Neo G5 Relic (Radiant)
+- Neo H2 Relic (Radiant)
+- Neo K8 Relic (Radiant)
+- Neo M2 Relic (Radiant)
+- Neo N11 Relic (Radiant)
+- Neo N16 Relic (Radiant)
+- Neo N4 Relic (Radiant)
+- Neo P2 Relic (Radiant)
+- Neo P5 Relic (Radiant)
+- Neo R2 Relic (Radiant)
+- Neo R4 Relic (Radiant)
+- Neo S10 Relic (Radiant)
+- Neo S16 Relic (Radiant)
+- Neo S2 Relic (Radiant)
+- Neo T4 Relic (Radiant)
+- Neo T6 Relic (Radiant)
+- Neo V2 Relic (Radiant)
+- Neo V4 Relic (Radiant)
+- Neo V6 Relic (Radiant)
+- Neo Z2 Relic (Radiant)
+- Neo Z4 Relic (Radiant)
+- Neo Z5 Relic (Radiant)
+- Neo Z8 Relic (Radiant)
+- Axi C7 Relic (Flawless)
+- Axi C9 Relic (Flawless)
+- Axi D2 Relic (Flawless)
+- Axi D5 Relic (Flawless)
+- Axi G6 Relic (Flawless)
+- Axi G7 Relic (Flawless)
+- Axi H7 Relic (Flawless)
+- Axi K10 Relic (Flawless)
+- Axi K12 Relic (Flawless)
+- Axi M2 Relic (Flawless)
+- Axi P2 Relic (Flawless)
+- Axi P5 Relic (Flawless)
+- Axi P7 Relic (Flawless)
+- Axi S10 Relic (Flawless)
+- Axi S12 Relic (Flawless)
+- Axi T6 Relic (Flawless)
+- Axi V11 Relic (Flawless)
+- Lith B5 Relic (Flawless)
+- Lith C11 Relic (Flawless)
+- Lith C12 Relic (Flawless)
+- Lith C4 Relic (Flawless)
+- Lith C8 Relic (Flawless)
+- Lith D6 Relic (Flawless)
+- Lith G3 Relic (Flawless)
+- Lith G5 Relic (Flawless)
+- Lith G8 Relic (Flawless)
+- Lith G9 Relic (Flawless)
+- Lith H6 Relic (Flawless)
+- Lith H6 Relic (Flawless)
+- Lith H8 Relic (Flawless)
+- Lith K10 Relic (Flawless)
+- Lith K9 Relic (Flawless)
+- Lith M3 Relic (Flawless)
+- Lith N11 Relic (Flawless)
+- Lith N16 Relic (Flawless)
+- Lith Q1 Relic (Flawless)
+- Lith R2 Relic (Flawless)
+- Lith T8 Relic (Flawless)
+- Lith V10 Relic (Flawless)
+- Lith V8 Relic (Flawless)
+- Lith W3 Relic (Flawless)
+- Lith Y1 Relic (Flawless)
+- Lith Z3 Relic (Flawless)
+- Meso A7 Relic (Flawless)
+- Meso C9 Relic (Flawless)
+- Meso D7 Relic (Flawless)
+- Meso E2 Relic (Flawless)
+- Meso G3 Relic (Flawless)
+- Meso G5 Relic (Flawless)
+- Meso G9 Relic (Flawless)
+- Meso M5 Relic (Flawless)
+- Meso N10 Relic (Flawless)
+- Meso N13 Relic (Flawless)
+- Meso S11 Relic (Flawless)
+- Meso S12 Relic (Flawless)
+- Meso T5 Relic (Flawless)
+- Meso T5 Relic (Flawless)
+- Meso V10 Relic (Flawless)
+- Meso W3 Relic (Flawless)
+- Meso Z4 Relic (Flawless)
+- Neo A12 Relic (Flawless)
+- Neo A8 Relic (Flawless)
+- Neo B1 Relic (Flawless)
+- Neo D5 Relic (Flawless)
+- Neo K4 Relic (Flawless)
+- Neo N17 Relic (Flawless)
+- Neo P1 Relic (Flawless)
+- Neo P3 Relic (Flawless)
+- Neo P7 Relic (Flawless)
+- Deimos/Persto (Survival), Rotation B
+- Razorback
+- Axi A1 Relic (Flawless)
+- Axi A15 Relic (Flawless)
+- Axi A4 Relic (Flawless)
+- Axi A6 Relic (Flawless)
+- Axi A8 Relic (Flawless)
+- Axi A9 Relic (Flawless)
+- Axi B3 Relic (Flawless)
+- Axi C7 Relic (Radiant)
+- Axi C9 Relic (Radiant)
+- Axi D2 Relic (Radiant)
+- Axi D3 Relic (Flawless)
+- Axi D5 Relic (Radiant)
+- Axi E2 Relic (Flawless)
+- Axi F1 Relic (Flawless)
+- Axi F3 Relic (Flawless)
+- Axi G5 Relic (Flawless)
+- Axi G6 Relic (Radiant)
+- Axi G7 Relic (Radiant)
+- Axi G8 Relic (Flawless)
+- Axi H7 Relic (Radiant)
+- Axi K10 Relic (Radiant)
+- Axi K12 Relic (Radiant)
+- Axi K4 Relic (Flawless)
+- Axi L5 Relic (Flawless)
+- Axi M2 Relic (Radiant)
+- Axi O3 Relic (Flawless)
+- Axi P2 Relic (Radiant)
+- Axi P5 Relic (Radiant)
+- Axi P7 Relic (Radiant)
+- Axi R1 Relic (Flawless)
+- Axi R3 Relic (Flawless)
+- Axi R4 Relic (Flawless)
+- Axi S10 Relic (Radiant)
+- Axi S12 Relic (Radiant)
+- Axi S18 Relic (Flawless)
+- Axi S3 Relic (Flawless)
+- Axi T2 Relic (Flawless)
+- Axi T6 Relic (Radiant)
+- Axi V11 Relic (Radiant)
+- Lith A7 Relic (Flawless)
+- Lith B2 Relic (Flawless)
+- Lith B5 Relic (Radiant)
+- Lith B8 Relic (Flawless)
+- Lith C11 Relic (Radiant)
+- Lith C12 Relic (Radiant)
+- Lith C4 Relic (Radiant)
+- Lith C8 Relic (Radiant)
+- Lith D3 Relic (Flawless)
+- Lith D6 Relic (Radiant)
+- Lith G2 Relic (Flawless)
+- Lith G3 Relic (Radiant)
+- Lith G5 Relic (Radiant)
+- Lith G6 Relic (Flawless)
+- Lith G8 Relic (Radiant)
+- Lith G9 Relic (Radiant)
+- Lith H6 Relic (Radiant)
+- Lith H6 Relic (Radiant)
+- Lith H8 Relic (Radiant)
+- Lith K1 Relic (Flawless)
+- Lith K10 Relic (Flawless)
+- Lith K10 Relic (Radiant)
+- Lith K11 Relic (Flawless)
+- Lith K12 Relic (Flawless)
+- Lith K9 Relic (Radiant)
+- Lith M3 Relic (Radiant)
+- Lith M5 Relic (Flawless)
+- Lith N10 Relic (Flawless)
+- Lith N11 Relic (Radiant)
+- Lith N13 Relic (Flawless)
+- Lith N16 Relic (Radiant)
+- Lith N3 Relic (Flawless)
+- Lith N5 Relic (Flawless)
+- Lith N9 Relic (Flawless)
+- Lith O4 Relic (Flawless)
+- Lith P1 Relic (Flawless)
+- Lith P3 Relic (Flawless)
+- Lith Q1 Relic (Radiant)
+- Lith Q2 Relic (Flawless)
+- Lith R2 Relic (Radiant)
+- Lith R3 Relic (Flawless)
+- Lith S12 Relic (Flawless)
+- Lith S9 Relic (Flawless)
+- Lith S9 Relic (Flawless)
+- Lith T10 Relic (Flawless)
+- Lith T3 Relic (Flawless)
+- Lith T8 Relic (Radiant)
+- Lith V1 Relic (Flawless)
+- Lith V10 Relic (Radiant)
+- Lith V8 Relic (Radiant)
+- Lith W3 Relic (Radiant)
+- Lith W4 Relic (Flawless)
+- Lith Y1 Relic (Radiant)
+- Lith Z3 Relic (Radiant)
+- Meso A1 Relic (Flawless)
+- Meso A3 Relic (Flawless)
+- Meso A7 Relic (Radiant)
+- Meso C3 Relic (Flawless)
+- Meso C4 Relic (Flawless)
+- Meso C5 Relic (Flawless)
+- Meso C9 Relic (Radiant)
+- Meso D3 Relic (Flawless)
+- Meso D7 Relic (Radiant)
+- Meso E2 Relic (Radiant)
+- Meso F2 Relic (Flawless)
+- Meso F4 Relic (Flawless)
+- Meso G3 Relic (Radiant)
+- Meso G5 Relic (Flawless)
+- Meso G5 Relic (Radiant)
+- Meso G6 Relic (Flawless)
+- Meso G7 Relic (Flawless)
+- Meso G8 Relic (Flawless)
+- Meso G9 Relic (Radiant)
+- Meso K3 Relic (Flawless)
+- Meso M5 Relic (Flawless)
+- Meso M5 Relic (Radiant)
+- Meso N1 Relic (Flawless)
+- Meso N10 Relic (Radiant)
+- Meso N13 Relic (Radiant)
+- Meso N3 Relic (Flawless)
+- Meso N5 Relic (Flawless)
+- Meso O5 Relic (Flawless)
+- Meso P13 Relic (Flawless)
+- Meso P16 Relic (Flawless)
+- Meso R6 Relic (Flawless)
+- Meso S1 Relic (Flawless)
+- Meso S11 Relic (Radiant)
+- Meso S12 Relic (Radiant)
+- Meso S14 Relic (Flawless)
+- Meso S5 Relic (Flawless)
+- Meso T1 Relic (Flawless)
+- Meso T5 Relic (Radiant)
+- Meso T5 Relic (Radiant)
+- Meso T7 Relic (Flawless)
+- Meso T8 Relic (Flawless)
+- Meso V10 Relic (Radiant)
+- Meso W2 Relic (Flawless)
+- Meso W3 Relic (Radiant)
+- Meso Z4 Relic (Radiant)
+- Neo A10 Relic (Flawless)
+- Neo A12 Relic (Radiant)
+- Neo A14 Relic (Flawless)
+- Neo A8 Relic (Radiant)
+- Neo B1 Relic (Radiant)
+- Neo B2 Relic (Flawless)
+- Neo B2 Relic (Flawless)
+- Neo B4 Relic (Flawless)
+- Neo C2 Relic (Flawless)
+- Neo C3 Relic (Flawless)
+- Neo C5 Relic (Flawless)
+- Neo D2 Relic (Flawless)
+- Neo D5 Relic (Radiant)
+- Neo G5 Relic (Flawless)
+- Neo H2 Relic (Flawless)
+- Neo K4 Relic (Radiant)
+- Neo K8 Relic (Flawless)
+- Neo M2 Relic (Flawless)
+- Neo N11 Relic (Flawless)
+- Neo N16 Relic (Flawless)
+- Neo N17 Relic (Radiant)
+- Neo N4 Relic (Flawless)
+- Neo P1 Relic (Radiant)
+- Neo P2 Relic (Flawless)
+- Neo P3 Relic (Radiant)
+- Neo P5 Relic (Flawless)
+- Neo P7 Relic (Radiant)
+- Neo R2 Relic (Flawless)
+- Neo R4 Relic (Flawless)
+- Neo S10 Relic (Flawless)
+- Neo S16 Relic (Flawless)
+- Neo S2 Relic (Flawless)
+- Neo T4 Relic (Flawless)
+- Neo T6 Relic (Flawless)
+- Neo V2 Relic (Flawless)
+- Neo V4 Relic (Flawless)
+- Neo V6 Relic (Flawless)
+- Neo Z2 Relic (Flawless)
+- Neo Z4 Relic (Flawless)
+- Neo Z5 Relic (Flawless)
+- Neo Z8 Relic (Flawless)
+- Axi A1 Relic (Exceptional)
+- Axi A15 Relic (Exceptional)
+- Axi A4 Relic (Exceptional)
+- Axi A6 Relic (Exceptional)
+- Axi A8 Relic (Exceptional)
+- Axi A9 Relic (Exceptional)
+- Axi B3 Relic (Exceptional)
+- Axi D3 Relic (Exceptional)
+- Axi E2 Relic (Exceptional)
+- Axi F1 Relic (Exceptional)
+- Axi F3 Relic (Exceptional)
+- Axi G5 Relic (Exceptional)
+- Axi G8 Relic (Exceptional)
+- Axi K4 Relic (Exceptional)
+- Axi L5 Relic (Exceptional)
+- Axi O3 Relic (Exceptional)
+- Axi R1 Relic (Exceptional)
+- Axi R3 Relic (Exceptional)
+- Axi R4 Relic (Exceptional)
+- Axi S18 Relic (Exceptional)
+- Axi S3 Relic (Exceptional)
+- Axi T2 Relic (Exceptional)
+- Lith A7 Relic (Exceptional)
+- Lith B2 Relic (Exceptional)
+- Lith B8 Relic (Exceptional)
+- Lith D3 Relic (Exceptional)
+- Lith G2 Relic (Exceptional)
+- Lith G6 Relic (Exceptional)
+- Lith K1 Relic (Exceptional)
+- Lith K10 Relic (Exceptional)
+- Lith K11 Relic (Exceptional)
+- Lith K12 Relic (Exceptional)
+- Lith M5 Relic (Exceptional)
+- Lith N10 Relic (Exceptional)
+- Lith N13 Relic (Exceptional)
+- Lith N3 Relic (Exceptional)
+- Lith N5 Relic (Exceptional)
+- Lith N9 Relic (Exceptional)
+- Lith O4 Relic (Exceptional)
+- Lith P1 Relic (Exceptional)
+- Lith P3 Relic (Exceptional)
+- Lith Q2 Relic (Exceptional)
+- Lith R3 Relic (Exceptional)
+- Lith S12 Relic (Exceptional)
+- Lith S9 Relic (Exceptional)
+- Lith S9 Relic (Exceptional)
+- Lith T10 Relic (Exceptional)
+- Lith T3 Relic (Exceptional)
+- Lith V1 Relic (Exceptional)
+- Lith W4 Relic (Exceptional)
+- Meso A1 Relic (Exceptional)
+- Meso A3 Relic (Exceptional)
+- Meso C3 Relic (Exceptional)
+- Meso C4 Relic (Exceptional)
+- Meso C5 Relic (Exceptional)
+- Meso D3 Relic (Exceptional)
+- Meso F2 Relic (Exceptional)
+- Meso F4 Relic (Exceptional)
+- Meso G5 Relic (Exceptional)
+- Meso G6 Relic (Exceptional)
+- Meso G7 Relic (Exceptional)
+- Meso G8 Relic (Exceptional)
+- Meso K3 Relic (Exceptional)
+- Meso M5 Relic (Exceptional)
+- Meso N1 Relic (Exceptional)
+- Meso N3 Relic (Exceptional)
+- Meso N5 Relic (Exceptional)
+- Meso O5 Relic (Exceptional)
+- Meso P13 Relic (Exceptional)
+- Meso P16 Relic (Exceptional)
+- Meso R6 Relic (Exceptional)
+- Meso S1 Relic (Exceptional)
+- Meso S14 Relic (Exceptional)
+- Meso S5 Relic (Exceptional)
+- Meso T1 Relic (Exceptional)
+- Meso T7 Relic (Exceptional)
+- Meso T8 Relic (Exceptional)
+- Meso W2 Relic (Exceptional)
+- Neo A10 Relic (Exceptional)
+- Neo A14 Relic (Exceptional)
+- Neo B2 Relic (Exceptional)
+- Neo B2 Relic (Exceptional)
+- Neo B4 Relic (Exceptional)
+- Neo C2 Relic (Exceptional)
+- Neo C3 Relic (Exceptional)
+- Neo C5 Relic (Exceptional)
+- Neo D2 Relic (Exceptional)
+- Neo G5 Relic (Exceptional)
+- Neo H2 Relic (Exceptional)
+- Neo K8 Relic (Exceptional)
+- Neo M2 Relic (Exceptional)
+- Neo N11 Relic (Exceptional)
+- Neo N16 Relic (Exceptional)
+- Neo N4 Relic (Exceptional)
+- Neo P2 Relic (Exceptional)
+- Neo P5 Relic (Exceptional)
+- Neo R2 Relic (Exceptional)
+- Neo R4 Relic (Exceptional)
+- Neo S10 Relic (Exceptional)
+- Neo S16 Relic (Exceptional)
+- Neo S2 Relic (Exceptional)
+- Neo T4 Relic (Exceptional)
+- Neo T6 Relic (Exceptional)
+- Neo V2 Relic (Exceptional)
+- Neo V4 Relic (Exceptional)
+- Neo V6 Relic (Exceptional)
+- Neo Z2 Relic (Exceptional)
+- Neo Z4 Relic (Exceptional)
+- Neo Z5 Relic (Exceptional)
+- Neo Z8 Relic (Exceptional)
+- Axi A1 Relic
+- Axi A15 Relic
+- Axi A4 Relic
+- Axi A6 Relic
+- Axi A8 Relic
+- Axi A9 Relic
+- Axi B3 Relic
+- Axi D3 Relic
+- Axi E2 Relic
+- Axi F1 Relic
+- Axi F3 Relic
+- Axi G5 Relic
+- Axi G8 Relic
+- Axi K4 Relic
+- Axi L5 Relic
+- Axi O3 Relic
+- Axi R1 Relic
+- Axi R3 Relic
+- Axi R4 Relic
+- Axi S18 Relic
+- Axi S3 Relic
+- Axi T2 Relic
+- Lith A7 Relic
+- Lith B2 Relic
+- Lith B8 Relic
+- Lith D3 Relic
+- Lith G2 Relic
+- Lith G6 Relic
+- Lith K1 Relic
+- Lith K10 Relic
+- Lith K11 Relic
+- Lith K12 Relic
+- Lith M5 Relic
+- Lith N10 Relic
+- Lith N13 Relic
+- Lith N3 Relic
+- Lith N5 Relic
+- Lith N9 Relic
+- Lith O4 Relic
+- Lith P1 Relic
+- Lith P3 Relic
+- Lith Q2 Relic
+- Lith R3 Relic
+- Lith S12 Relic
+- Lith S9 Relic
+- Lith S9 Relic
+- Lith T10 Relic
+- Lith T3 Relic
+- Lith V1 Relic
+- Lith W4 Relic
+- Meso A1 Relic
+- Meso A3 Relic
+- Meso C3 Relic
+- Meso C4 Relic
+- Meso C5 Relic
+- Meso D3 Relic
+- Meso F2 Relic
+- Meso F4 Relic
+- Meso G5 Relic
+- Meso G6 Relic
+- Meso G7 Relic
+- Meso G8 Relic
+- Meso K3 Relic
+- Meso M5 Relic
+- Meso N1 Relic
+- Meso N3 Relic
+- Meso N5 Relic
+- Meso O5 Relic
+- Meso P13 Relic
+- Meso P16 Relic
+- Meso R6 Relic
+- Meso S1 Relic
+- Meso S14 Relic
+- Meso S5 Relic
+- Meso T1 Relic
+- Meso T7 Relic
+- Meso T8 Relic
+- Meso W2 Relic
+- Neo A10 Relic
+- Neo A14 Relic
+- Neo B2 Relic
+- Neo B2 Relic
+- Neo B4 Relic
+- Neo C2 Relic
+- Neo C3 Relic
+- Neo C5 Relic
+- Neo D2 Relic
+- Neo G5 Relic
+- Neo H2 Relic
+- Neo K8 Relic
+- Neo M2 Relic
+- Neo N11 Relic
+- Neo N16 Relic
+- Neo N4 Relic
+- Neo P2 Relic
+- Neo P5 Relic
+- Neo R2 Relic
+- Neo R4 Relic
+- Neo S10 Relic
+- Neo S16 Relic
+- Neo S2 Relic
+- Neo T4 Relic
+- Neo T6 Relic
+- Neo V2 Relic
+- Neo V4 Relic
+- Neo V6 Relic
+- Neo Z2 Relic
+- Neo Z4 Relic
+- Neo Z5 Relic
+- Neo Z8 Relic
+- Extended Granum Void, Rotation C
+- Nightmare Granum Void, Rotation C
+- Entrati (Father), Family
+- NecraLoid (Loid), Clearance Agnesis
+- New Loka, Bountiful
+- Red Veil, Honored
+- Steel Meridian, Defender
+- Steel Meridian, Valiant
+- The Perrin Sequence, Executive
+category: Misc
+description: Chipper's current Stock level. Raise his Stock level by completing Kahl's
+  Break Narmer missions.
+image: ../images/stock-96fc348387.png
+last_updated: '2025-09-17'
+name: Stock
+source: WFCD
+tags:
+- Misc
+tradable: false
+type: Misc
+---
+
+# Stock
+
+Chipper's current Stock level. Raise his Stock level by completing Kahl's Break Narmer missions.
+
+## Acquisition
+
+Available from:
+- Kuva Napalm
+- Napalm
+- Narmer Napalm
+- Tusk Napalm
+- Duviri/Endless: Tier 1 (Normal)
+- Duviri/Endless: Tier 3 (Normal)
+- Axi A18 Relic
+- Axi A19 Relic
+- Axi B3 Relic
+- Axi C8 Relic
+- Axi P6 Relic
+- Axi S4 Relic
+- Axi S7 Relic
+- Axi V2 Relic
+- Axi V3 Relic
+- Axi V4 Relic
+- Lith B1 Relic
+- Lith B9 Relic
+- Lith C6 Relic
+- Lith C9 Relic
+- Lith P6 Relic
+- Lith S2 Relic
+- Lith T2 Relic
+- Lith T6 Relic
+- Meso A8 Relic
+- Meso B1 Relic
+- Meso B3 Relic
+- Meso B6 Relic
+- Meso C6 Relic
+- Meso P11 Relic
+- Meso P14 Relic
+- Meso S1 Relic
+- Meso T2 Relic
+- Meso T3 Relic
+- Neo B7 Relic
+- Neo B8 Relic
+- Neo P6 Relic
+- Elite Sanctuary Onslaught, Rotation C
+- Deimos/Cambion Drift (Level 30 - 40 Arcana Isolation Vault), Rotation C
+- Deimos/Cambion Drift (Level 30 - 40 Isolation Vault), Rotation C
+- Deimos/Cambion Drift (Level 40 - 50 Arcana Isolation Vault), Rotation C
+- Deimos/Cambion Drift (Level 40 - 50 Isolation Vault), Rotation C
+- Deimos/Cambion Drift (Level 50 - 60 Arcana Isolation Vault), Rotation C
+- Deimos/Cambion Drift (Level 50 - 60 Isolation Vault), Rotation C
+- Deimos/Cambion Drift (Level 50 - 60 Arcana Isolation Vault), Rotation C
+- Deimos/Cambion Drift (Level 50 - 60 Isolation Vault), Rotation C
+- Axi A18 Relic (Exceptional)
+- Axi A19 Relic (Exceptional)
+- Axi B3 Relic (Exceptional)
+- Axi C8 Relic (Exceptional)
+- Axi P6 Relic (Exceptional)
+- Axi S4 Relic (Exceptional)
+- Axi S7 Relic (Exceptional)
+- Axi V2 Relic (Exceptional)
+- Axi V3 Relic (Exceptional)
+- Axi V4 Relic (Exceptional)
+- Lith B1 Relic (Exceptional)
+- Lith B9 Relic (Exceptional)
+- Lith C6 Relic (Exceptional)
+- Lith C9 Relic (Exceptional)
+- Lith P6 Relic (Exceptional)
+- Lith S2 Relic (Exceptional)
+- Lith T2 Relic (Exceptional)
+- Lith T6 Relic (Exceptional)
+- Meso A8 Relic (Exceptional)
+- Meso B1 Relic (Exceptional)
+- Meso B3 Relic (Exceptional)
+- Meso B6 Relic (Exceptional)
+- Meso C6 Relic (Exceptional)
+- Meso P11 Relic (Exceptional)
+- Meso P14 Relic (Exceptional)
+- Meso S1 Relic (Exceptional)
+- Meso T2 Relic (Exceptional)
+- Meso T3 Relic (Exceptional)
+- Neo B7 Relic (Exceptional)
+- Neo B8 Relic (Exceptional)
+- Neo P6 Relic (Exceptional)
+- Deimos/Cambion Drift (Level 50 - 60 Arcana Isolation Vault), Rotation C
+- Operation: Orphix Venom, Rotation B
+- Operation: Orphix Venom, Rotation B
+- Axi A18 Relic (Flawless)
+- Axi A19 Relic (Flawless)
+- Axi B3 Relic (Flawless)
+- Axi C8 Relic (Flawless)
+- Axi P6 Relic (Flawless)
+- Axi S4 Relic (Flawless)
+- Axi S7 Relic (Flawless)
+- Axi V2 Relic (Flawless)
+- Axi V3 Relic (Flawless)
+- Axi V4 Relic (Flawless)
+- Deimos/Cambion Drift (Level 30 - 40 Arcana Isolation Vault), Rotation C
+- Deimos/Cambion Drift (Level 40 - 50 Arcana Isolation Vault), Rotation C
+- Deimos/Cambion Drift (Level 50 - 60 Arcana Isolation Vault), Rotation C
+- Lith B1 Relic (Flawless)
+- Lith B9 Relic (Flawless)
+- Lith C6 Relic (Flawless)
+- Lith C9 Relic (Flawless)
+- Lith P6 Relic (Flawless)
+- Lith S2 Relic (Flawless)
+- Lith T2 Relic (Flawless)
+- Lith T6 Relic (Flawless)
+- Lua/Yuvarium (Survival), Rotation B
+- Meso A8 Relic (Flawless)
+- Meso B1 Relic (Flawless)
+- Meso B3 Relic (Flawless)
+- Meso B6 Relic (Flawless)
+- Meso C6 Relic (Flawless)
+- Meso P11 Relic (Flawless)
+- Meso P14 Relic (Flawless)
+- Meso S1 Relic (Flawless)
+- Meso T2 Relic (Flawless)
+- Meso T3 Relic (Flawless)
+- Neo B7 Relic (Flawless)
+- Neo B8 Relic (Flawless)
+- Neo P6 Relic (Flawless)
+- Pluto/Fenton's Field (Caches), Rotation B
+- Pluto/Khufu Envoy (Caches), Rotation B
+- Pluto/Obol Crossing (Caches), Rotation B
+- Pluto/Peregrine Axis (Caches), Rotation B
+- Pluto/Profit Margin (Caches), Rotation B
+- Pluto/Seven Sirens (Caches), Rotation B
+- Veil/Arc Silver (Caches), Rotation B
+- Veil/Calabash (Caches), Rotation B
+- Veil/Erato (Caches), Rotation B
+- Veil/Lu-Yan (Caches), Rotation B
+- Veil/Numina (Caches), Rotation B
+- Veil/Sabmir Cloud (Caches), Rotation B
+- Deimos/Cambion Drift (Level 50 - 60 Arcana Isolation Vault), Rotation C
+- Mars/Tyana Pass (Defense), Rotation B
+- Axi A18 Relic (Radiant)
+- Axi A19 Relic (Radiant)
+- Axi B3 Relic (Radiant)
+- Axi C8 Relic (Radiant)
+- Axi P6 Relic (Radiant)
+- Axi S4 Relic (Radiant)
+- Axi S7 Relic (Radiant)
+- Axi V2 Relic (Radiant)
+- Axi V3 Relic (Radiant)
+- Axi V4 Relic (Radiant)
+- Lith B1 Relic (Radiant)
+- Lith B9 Relic (Radiant)
+- Lith C6 Relic (Radiant)
+- Lith C9 Relic (Radiant)
+- Lith P6 Relic (Radiant)
+- Lith S2 Relic (Radiant)
+- Lith T2 Relic (Radiant)
+- Lith T6 Relic (Radiant)
+- Meso A8 Relic (Radiant)
+- Meso B1 Relic (Radiant)
+- Meso B3 Relic (Radiant)
+- Meso B6 Relic (Radiant)
+- Meso C6 Relic (Radiant)
+- Meso P11 Relic (Radiant)
+- Meso P14 Relic (Radiant)
+- Meso S1 Relic (Radiant)
+- Meso T2 Relic (Radiant)
+- Meso T3 Relic (Radiant)
+- Neo B7 Relic (Radiant)
+- Neo B8 Relic (Radiant)
+- Neo P6 Relic (Radiant)
+- Lua/Circulus (Survival), Rotation B
+- Axi C7 Relic
+- Axi C9 Relic
+- Axi D2 Relic
+- Axi D5 Relic
+- Axi G6 Relic
+- Axi G7 Relic
+- Axi H7 Relic
+- Axi K10 Relic
+- Axi K12 Relic
+- Axi M2 Relic
+- Axi P2 Relic
+- Axi P5 Relic
+- Axi P7 Relic
+- Axi S10 Relic
+- Axi S12 Relic
+- Axi T6 Relic
+- Axi V11 Relic
+- Lith B5 Relic
+- Lith C11 Relic
+- Lith C12 Relic
+- Lith C4 Relic
+- Lith C8 Relic
+- Lith D6 Relic
+- Lith G3 Relic
+- Lith G5 Relic
+- Lith G8 Relic
+- Lith G9 Relic
+- Lith H6 Relic
+- Lith H6 Relic
+- Lith H8 Relic
+- Lith K10 Relic
+- Lith K9 Relic
+- Lith M3 Relic
+- Lith N11 Relic
+- Lith N16 Relic
+- Lith Q1 Relic
+- Lith R2 Relic
+- Lith T8 Relic
+- Lith V10 Relic
+- Lith V8 Relic
+- Lith W3 Relic
+- Lith Y1 Relic
+- Lith Z3 Relic
+- Meso A7 Relic
+- Meso C9 Relic
+- Meso D7 Relic
+- Meso E2 Relic
+- Meso G3 Relic
+- Meso G5 Relic
+- Meso G9 Relic
+- Meso M5 Relic
+- Meso N10 Relic
+- Meso N13 Relic
+- Meso S11 Relic
+- Meso S12 Relic
+- Meso T5 Relic
+- Meso T5 Relic
+- Meso V10 Relic
+- Meso W3 Relic
+- Meso Z4 Relic
+- Neo A12 Relic
+- Neo A8 Relic
+- Neo B1 Relic
+- Neo D5 Relic
+- Neo K4 Relic
+- Neo N17 Relic
+- Neo P1 Relic
+- Neo P3 Relic
+- Neo P7 Relic
+- Operation: Orphix Venom, Rotation B
+- Axi C7 Relic (Exceptional)
+- Axi C9 Relic (Exceptional)
+- Axi D2 Relic (Exceptional)
+- Axi D5 Relic (Exceptional)
+- Axi G6 Relic (Exceptional)
+- Axi G7 Relic (Exceptional)
+- Axi H7 Relic (Exceptional)
+- Axi K10 Relic (Exceptional)
+- Axi K12 Relic (Exceptional)
+- Axi M2 Relic (Exceptional)
+- Axi P2 Relic (Exceptional)
+- Axi P5 Relic (Exceptional)
+- Axi P7 Relic (Exceptional)
+- Axi S10 Relic (Exceptional)
+- Axi S12 Relic (Exceptional)
+- Axi T6 Relic (Exceptional)
+- Axi V11 Relic (Exceptional)
+- Lith B5 Relic (Exceptional)
+- Lith C11 Relic (Exceptional)
+- Lith C12 Relic (Exceptional)
+- Lith C4 Relic (Exceptional)
+- Lith C8 Relic (Exceptional)
+- Lith D6 Relic (Exceptional)
+- Lith G3 Relic (Exceptional)
+- Lith G5 Relic (Exceptional)
+- Lith G8 Relic (Exceptional)
+- Lith G9 Relic (Exceptional)
+- Lith H6 Relic (Exceptional)
+- Lith H6 Relic (Exceptional)
+- Lith H8 Relic (Exceptional)
+- Lith K10 Relic (Exceptional)
+- Lith K9 Relic (Exceptional)
+- Lith M3 Relic (Exceptional)
+- Lith N11 Relic (Exceptional)
+- Lith N16 Relic (Exceptional)
+- Lith Q1 Relic (Exceptional)
+- Lith R2 Relic (Exceptional)
+- Lith T8 Relic (Exceptional)
+- Lith V10 Relic (Exceptional)
+- Lith V8 Relic (Exceptional)
+- Lith W3 Relic (Exceptional)
+- Lith Y1 Relic (Exceptional)
+- Lith Z3 Relic (Exceptional)
+- Meso A7 Relic (Exceptional)
+- Meso C9 Relic (Exceptional)
+- Meso D7 Relic (Exceptional)
+- Meso E2 Relic (Exceptional)
+- Meso G3 Relic (Exceptional)
+- Meso G5 Relic (Exceptional)
+- Meso G9 Relic (Exceptional)
+- Meso M5 Relic (Exceptional)
+- Meso N10 Relic (Exceptional)
+- Meso N13 Relic (Exceptional)
+- Meso S11 Relic (Exceptional)
+- Meso S12 Relic (Exceptional)
+- Meso T5 Relic (Exceptional)
+- Meso T5 Relic (Exceptional)
+- Meso V10 Relic (Exceptional)
+- Meso W3 Relic (Exceptional)
+- Meso Z4 Relic (Exceptional)
+- Neo A12 Relic (Exceptional)
+- Neo A8 Relic (Exceptional)
+- Neo B1 Relic (Exceptional)
+- Neo D5 Relic (Exceptional)
+- Neo K4 Relic (Exceptional)
+- Neo N17 Relic (Exceptional)
+- Neo P1 Relic (Exceptional)
+- Neo P3 Relic (Exceptional)
+- Neo P7 Relic (Exceptional)
+- Deimos/Munio (Defense), Rotation C
+- Deimos/Cambire (Alchemy), Rotation C
+- Axi A1 Relic (Radiant)
+- Axi A15 Relic (Radiant)
+- Axi A4 Relic (Radiant)
+- Axi A6 Relic (Radiant)
+- Axi A8 Relic (Radiant)
+- Axi A9 Relic (Radiant)
+- Axi B3 Relic (Radiant)
+- Axi D3 Relic (Radiant)
+- Axi E2 Relic (Radiant)
+- Axi F1 Relic (Radiant)
+- Axi F3 Relic (Radiant)
+- Axi G5 Relic (Radiant)
+- Axi G8 Relic (Radiant)
+- Axi K4 Relic (Radiant)
+- Axi L5 Relic (Radiant)
+- Axi O3 Relic (Radiant)
+- Axi R1 Relic (Radiant)
+- Axi R3 Relic (Radiant)
+- Axi R4 Relic (Radiant)
+- Axi S18 Relic (Radiant)
+- Axi S3 Relic (Radiant)
+- Axi T2 Relic (Radiant)
+- Lith A7 Relic (Radiant)
+- Lith B2 Relic (Radiant)
+- Lith B8 Relic (Radiant)
+- Lith D3 Relic (Radiant)
+- Lith G2 Relic (Radiant)
+- Lith G6 Relic (Radiant)
+- Lith K1 Relic (Radiant)
+- Lith K10 Relic (Radiant)
+- Lith K11 Relic (Radiant)
+- Lith K12 Relic (Radiant)
+- Lith M5 Relic (Radiant)
+- Lith N10 Relic (Radiant)
+- Lith N13 Relic (Radiant)
+- Lith N3 Relic (Radiant)
+- Lith N5 Relic (Radiant)
+- Lith N9 Relic (Radiant)
+- Lith O4 Relic (Radiant)
+- Lith P1 Relic (Radiant)
+- Lith P3 Relic (Radiant)
+- Lith Q2 Relic (Radiant)
+- Lith R3 Relic (Radiant)
+- Lith S12 Relic (Radiant)
+- Lith S9 Relic (Radiant)
+- Lith S9 Relic (Radiant)
+- Lith T10 Relic (Radiant)
+- Lith T3 Relic (Radiant)
+- Lith V1 Relic (Radiant)
+- Lith W4 Relic (Radiant)
+- Meso A1 Relic (Radiant)
+- Meso A3 Relic (Radiant)
+- Meso C3 Relic (Radiant)
+- Meso C4 Relic (Radiant)
+- Meso C5 Relic (Radiant)
+- Meso D3 Relic (Radiant)
+- Meso F2 Relic (Radiant)
+- Meso F4 Relic (Radiant)
+- Meso G5 Relic (Radiant)
+- Meso G6 Relic (Radiant)
+- Meso G7 Relic (Radiant)
+- Meso G8 Relic (Radiant)
+- Meso K3 Relic (Radiant)
+- Meso M5 Relic (Radiant)
+- Meso N1 Relic (Radiant)
+- Meso N3 Relic (Radiant)
+- Meso N5 Relic (Radiant)
+- Meso O5 Relic (Radiant)
+- Meso P13 Relic (Radiant)
+- Meso P16 Relic (Radiant)
+- Meso R6 Relic (Radiant)
+- Meso S1 Relic (Radiant)
+- Meso S14 Relic (Radiant)
+- Meso S5 Relic (Radiant)
+- Meso T1 Relic (Radiant)
+- Meso T7 Relic (Radiant)
+- Meso T8 Relic (Radiant)
+- Meso W2 Relic (Radiant)
+- Neo A10 Relic (Radiant)
+- Neo A14 Relic (Radiant)
+- Neo B2 Relic (Radiant)
+- Neo B2 Relic (Radiant)
+- Neo B4 Relic (Radiant)
+- Neo C2 Relic (Radiant)
+- Neo C3 Relic (Radiant)
+- Neo C5 Relic (Radiant)
+- Neo D2 Relic (Radiant)
+- Neo G5 Relic (Radiant)
+- Neo H2 Relic (Radiant)
+- Neo K8 Relic (Radiant)
+- Neo M2 Relic (Radiant)
+- Neo N11 Relic (Radiant)
+- Neo N16 Relic (Radiant)
+- Neo N4 Relic (Radiant)
+- Neo P2 Relic (Radiant)
+- Neo P5 Relic (Radiant)
+- Neo R2 Relic (Radiant)
+- Neo R4 Relic (Radiant)
+- Neo S10 Relic (Radiant)
+- Neo S16 Relic (Radiant)
+- Neo S2 Relic (Radiant)
+- Neo T4 Relic (Radiant)
+- Neo T6 Relic (Radiant)
+- Neo V2 Relic (Radiant)
+- Neo V4 Relic (Radiant)
+- Neo V6 Relic (Radiant)
+- Neo Z2 Relic (Radiant)
+- Neo Z4 Relic (Radiant)
+- Neo Z5 Relic (Radiant)
+- Neo Z8 Relic (Radiant)
+- Axi C7 Relic (Flawless)
+- Axi C9 Relic (Flawless)
+- Axi D2 Relic (Flawless)
+- Axi D5 Relic (Flawless)
+- Axi G6 Relic (Flawless)
+- Axi G7 Relic (Flawless)
+- Axi H7 Relic (Flawless)
+- Axi K10 Relic (Flawless)
+- Axi K12 Relic (Flawless)
+- Axi M2 Relic (Flawless)
+- Axi P2 Relic (Flawless)
+- Axi P5 Relic (Flawless)
+- Axi P7 Relic (Flawless)
+- Axi S10 Relic (Flawless)
+- Axi S12 Relic (Flawless)
+- Axi T6 Relic (Flawless)
+- Axi V11 Relic (Flawless)
+- Lith B5 Relic (Flawless)
+- Lith C11 Relic (Flawless)
+- Lith C12 Relic (Flawless)
+- Lith C4 Relic (Flawless)
+- Lith C8 Relic (Flawless)
+- Lith D6 Relic (Flawless)
+- Lith G3 Relic (Flawless)
+- Lith G5 Relic (Flawless)
+- Lith G8 Relic (Flawless)
+- Lith G9 Relic (Flawless)
+- Lith H6 Relic (Flawless)
+- Lith H6 Relic (Flawless)
+- Lith H8 Relic (Flawless)
+- Lith K10 Relic (Flawless)
+- Lith K9 Relic (Flawless)
+- Lith M3 Relic (Flawless)
+- Lith N11 Relic (Flawless)
+- Lith N16 Relic (Flawless)
+- Lith Q1 Relic (Flawless)
+- Lith R2 Relic (Flawless)
+- Lith T8 Relic (Flawless)
+- Lith V10 Relic (Flawless)
+- Lith V8 Relic (Flawless)
+- Lith W3 Relic (Flawless)
+- Lith Y1 Relic (Flawless)
+- Lith Z3 Relic (Flawless)
+- Meso A7 Relic (Flawless)
+- Meso C9 Relic (Flawless)
+- Meso D7 Relic (Flawless)
+- Meso E2 Relic (Flawless)
+- Meso G3 Relic (Flawless)
+- Meso G5 Relic (Flawless)
+- Meso G9 Relic (Flawless)
+- Meso M5 Relic (Flawless)
+- Meso N10 Relic (Flawless)
+- Meso N13 Relic (Flawless)
+- Meso S11 Relic (Flawless)
+- Meso S12 Relic (Flawless)
+- Meso T5 Relic (Flawless)
+- Meso T5 Relic (Flawless)
+- Meso V10 Relic (Flawless)
+- Meso W3 Relic (Flawless)
+- Meso Z4 Relic (Flawless)
+- Neo A12 Relic (Flawless)
+- Neo A8 Relic (Flawless)
+- Neo B1 Relic (Flawless)
+- Neo D5 Relic (Flawless)
+- Neo K4 Relic (Flawless)
+- Neo N17 Relic (Flawless)
+- Neo P1 Relic (Flawless)
+- Neo P3 Relic (Flawless)
+- Neo P7 Relic (Flawless)
+- Deimos/Persto (Survival), Rotation B
+- Razorback
+- Axi A1 Relic (Flawless)
+- Axi A15 Relic (Flawless)
+- Axi A4 Relic (Flawless)
+- Axi A6 Relic (Flawless)
+- Axi A8 Relic (Flawless)
+- Axi A9 Relic (Flawless)
+- Axi B3 Relic (Flawless)
+- Axi C7 Relic (Radiant)
+- Axi C9 Relic (Radiant)
+- Axi D2 Relic (Radiant)
+- Axi D3 Relic (Flawless)
+- Axi D5 Relic (Radiant)
+- Axi E2 Relic (Flawless)
+- Axi F1 Relic (Flawless)
+- Axi F3 Relic (Flawless)
+- Axi G5 Relic (Flawless)
+- Axi G6 Relic (Radiant)
+- Axi G7 Relic (Radiant)
+- Axi G8 Relic (Flawless)
+- Axi H7 Relic (Radiant)
+- Axi K10 Relic (Radiant)
+- Axi K12 Relic (Radiant)
+- Axi K4 Relic (Flawless)
+- Axi L5 Relic (Flawless)
+- Axi M2 Relic (Radiant)
+- Axi O3 Relic (Flawless)
+- Axi P2 Relic (Radiant)
+- Axi P5 Relic (Radiant)
+- Axi P7 Relic (Radiant)
+- Axi R1 Relic (Flawless)
+- Axi R3 Relic (Flawless)
+- Axi R4 Relic (Flawless)
+- Axi S10 Relic (Radiant)
+- Axi S12 Relic (Radiant)
+- Axi S18 Relic (Flawless)
+- Axi S3 Relic (Flawless)
+- Axi T2 Relic (Flawless)
+- Axi T6 Relic (Radiant)
+- Axi V11 Relic (Radiant)
+- Lith A7 Relic (Flawless)
+- Lith B2 Relic (Flawless)
+- Lith B5 Relic (Radiant)
+- Lith B8 Relic (Flawless)
+- Lith C11 Relic (Radiant)
+- Lith C12 Relic (Radiant)
+- Lith C4 Relic (Radiant)
+- Lith C8 Relic (Radiant)
+- Lith D3 Relic (Flawless)
+- Lith D6 Relic (Radiant)
+- Lith G2 Relic (Flawless)
+- Lith G3 Relic (Radiant)
+- Lith G5 Relic (Radiant)
+- Lith G6 Relic (Flawless)
+- Lith G8 Relic (Radiant)
+- Lith G9 Relic (Radiant)
+- Lith H6 Relic (Radiant)
+- Lith H6 Relic (Radiant)
+- Lith H8 Relic (Radiant)
+- Lith K1 Relic (Flawless)
+- Lith K10 Relic (Flawless)
+- Lith K10 Relic (Radiant)
+- Lith K11 Relic (Flawless)
+- Lith K12 Relic (Flawless)
+- Lith K9 Relic (Radiant)
+- Lith M3 Relic (Radiant)
+- Lith M5 Relic (Flawless)
+- Lith N10 Relic (Flawless)
+- Lith N11 Relic (Radiant)
+- Lith N13 Relic (Flawless)
+- Lith N16 Relic (Radiant)
+- Lith N3 Relic (Flawless)
+- Lith N5 Relic (Flawless)
+- Lith N9 Relic (Flawless)
+- Lith O4 Relic (Flawless)
+- Lith P1 Relic (Flawless)
+- Lith P3 Relic (Flawless)
+- Lith Q1 Relic (Radiant)
+- Lith Q2 Relic (Flawless)
+- Lith R2 Relic (Radiant)
+- Lith R3 Relic (Flawless)
+- Lith S12 Relic (Flawless)
+- Lith S9 Relic (Flawless)
+- Lith S9 Relic (Flawless)
+- Lith T10 Relic (Flawless)
+- Lith T3 Relic (Flawless)
+- Lith T8 Relic (Radiant)
+- Lith V1 Relic (Flawless)
+- Lith V10 Relic (Radiant)
+- Lith V8 Relic (Radiant)
+- Lith W3 Relic (Radiant)
+- Lith W4 Relic (Flawless)
+- Lith Y1 Relic (Radiant)
+- Lith Z3 Relic (Radiant)
+- Meso A1 Relic (Flawless)
+- Meso A3 Relic (Flawless)
+- Meso A7 Relic (Radiant)
+- Meso C3 Relic (Flawless)
+- Meso C4 Relic (Flawless)
+- Meso C5 Relic (Flawless)
+- Meso C9 Relic (Radiant)
+- Meso D3 Relic (Flawless)
+- Meso D7 Relic (Radiant)
+- Meso E2 Relic (Radiant)
+- Meso F2 Relic (Flawless)
+- Meso F4 Relic (Flawless)
+- Meso G3 Relic (Radiant)
+- Meso G5 Relic (Flawless)
+- Meso G5 Relic (Radiant)
+- Meso G6 Relic (Flawless)
+- Meso G7 Relic (Flawless)
+- Meso G8 Relic (Flawless)
+- Meso G9 Relic (Radiant)
+- Meso K3 Relic (Flawless)
+- Meso M5 Relic (Flawless)
+- Meso M5 Relic (Radiant)
+- Meso N1 Relic (Flawless)
+- Meso N10 Relic (Radiant)
+- Meso N13 Relic (Radiant)
+- Meso N3 Relic (Flawless)
+- Meso N5 Relic (Flawless)
+- Meso O5 Relic (Flawless)
+- Meso P13 Relic (Flawless)
+- Meso P16 Relic (Flawless)
+- Meso R6 Relic (Flawless)
+- Meso S1 Relic (Flawless)
+- Meso S11 Relic (Radiant)
+- Meso S12 Relic (Radiant)
+- Meso S14 Relic (Flawless)
+- Meso S5 Relic (Flawless)
+- Meso T1 Relic (Flawless)
+- Meso T5 Relic (Radiant)
+- Meso T5 Relic (Radiant)
+- Meso T7 Relic (Flawless)
+- Meso T8 Relic (Flawless)
+- Meso V10 Relic (Radiant)
+- Meso W2 Relic (Flawless)
+- Meso W3 Relic (Radiant)
+- Meso Z4 Relic (Radiant)
+- Neo A10 Relic (Flawless)
+- Neo A12 Relic (Radiant)
+- Neo A14 Relic (Flawless)
+- Neo A8 Relic (Radiant)
+- Neo B1 Relic (Radiant)
+- Neo B2 Relic (Flawless)
+- Neo B2 Relic (Flawless)
+- Neo B4 Relic (Flawless)
+- Neo C2 Relic (Flawless)
+- Neo C3 Relic (Flawless)
+- Neo C5 Relic (Flawless)
+- Neo D2 Relic (Flawless)
+- Neo D5 Relic (Radiant)
+- Neo G5 Relic (Flawless)
+- Neo H2 Relic (Flawless)
+- Neo K4 Relic (Radiant)
+- Neo K8 Relic (Flawless)
+- Neo M2 Relic (Flawless)
+- Neo N11 Relic (Flawless)
+- Neo N16 Relic (Flawless)
+- Neo N17 Relic (Radiant)
+- Neo N4 Relic (Flawless)
+- Neo P1 Relic (Radiant)
+- Neo P2 Relic (Flawless)
+- Neo P3 Relic (Radiant)
+- Neo P5 Relic (Flawless)
+- Neo P7 Relic (Radiant)
+- Neo R2 Relic (Flawless)
+- Neo R4 Relic (Flawless)
+- Neo S10 Relic (Flawless)
+- Neo S16 Relic (Flawless)
+- Neo S2 Relic (Flawless)
+- Neo T4 Relic (Flawless)
+- Neo T6 Relic (Flawless)
+- Neo V2 Relic (Flawless)
+- Neo V4 Relic (Flawless)
+- Neo V6 Relic (Flawless)
+- Neo Z2 Relic (Flawless)
+- Neo Z4 Relic (Flawless)
+- Neo Z5 Relic (Flawless)
+- Neo Z8 Relic (Flawless)
+- Axi A1 Relic (Exceptional)
+- Axi A15 Relic (Exceptional)
+- Axi A4 Relic (Exceptional)
+- Axi A6 Relic (Exceptional)
+- Axi A8 Relic (Exceptional)
+- Axi A9 Relic (Exceptional)
+- Axi B3 Relic (Exceptional)
+- Axi D3 Relic (Exceptional)
+- Axi E2 Relic (Exceptional)
+- Axi F1 Relic (Exceptional)
+- Axi F3 Relic (Exceptional)
+- Axi G5 Relic (Exceptional)
+- Axi G8 Relic (Exceptional)
+- Axi K4 Relic (Exceptional)
+- Axi L5 Relic (Exceptional)
+- Axi O3 Relic (Exceptional)
+- Axi R1 Relic (Exceptional)
+- Axi R3 Relic (Exceptional)
+- Axi R4 Relic (Exceptional)
+- Axi S18 Relic (Exceptional)
+- Axi S3 Relic (Exceptional)
+- Axi T2 Relic (Exceptional)
+- Lith A7 Relic (Exceptional)
+- Lith B2 Relic (Exceptional)
+- Lith B8 Relic (Exceptional)
+- Lith D3 Relic (Exceptional)
+- Lith G2 Relic (Exceptional)
+- Lith G6 Relic (Exceptional)
+- Lith K1 Relic (Exceptional)
+- Lith K10 Relic (Exceptional)
+- Lith K11 Relic (Exceptional)
+- Lith K12 Relic (Exceptional)
+- Lith M5 Relic (Exceptional)
+- Lith N10 Relic (Exceptional)
+- Lith N13 Relic (Exceptional)
+- Lith N3 Relic (Exceptional)
+- Lith N5 Relic (Exceptional)
+- Lith N9 Relic (Exceptional)
+- Lith O4 Relic (Exceptional)
+- Lith P1 Relic (Exceptional)
+- Lith P3 Relic (Exceptional)
+- Lith Q2 Relic (Exceptional)
+- Lith R3 Relic (Exceptional)
+- Lith S12 Relic (Exceptional)
+- Lith S9 Relic (Exceptional)
+- Lith S9 Relic (Exceptional)
+- Lith T10 Relic (Exceptional)
+- Lith T3 Relic (Exceptional)
+- Lith V1 Relic (Exceptional)
+- Lith W4 Relic (Exceptional)
+- Meso A1 Relic (Exceptional)
+- Meso A3 Relic (Exceptional)
+- Meso C3 Relic (Exceptional)
+- Meso C4 Relic (Exceptional)
+- Meso C5 Relic (Exceptional)
+- Meso D3 Relic (Exceptional)
+- Meso F2 Relic (Exceptional)
+- Meso F4 Relic (Exceptional)
+- Meso G5 Relic (Exceptional)
+- Meso G6 Relic (Exceptional)
+- Meso G7 Relic (Exceptional)
+- Meso G8 Relic (Exceptional)
+- Meso K3 Relic (Exceptional)
+- Meso M5 Relic (Exceptional)
+- Meso N1 Relic (Exceptional)
+- Meso N3 Relic (Exceptional)
+- Meso N5 Relic (Exceptional)
+- Meso O5 Relic (Exceptional)
+- Meso P13 Relic (Exceptional)
+- Meso P16 Relic (Exceptional)
+- Meso R6 Relic (Exceptional)
+- Meso S1 Relic (Exceptional)
+- Meso S14 Relic (Exceptional)
+- Meso S5 Relic (Exceptional)
+- Meso T1 Relic (Exceptional)
+- Meso T7 Relic (Exceptional)
+- Meso T8 Relic (Exceptional)
+- Meso W2 Relic (Exceptional)
+- Neo A10 Relic (Exceptional)
+- Neo A14 Relic (Exceptional)
+- Neo B2 Relic (Exceptional)
+- Neo B2 Relic (Exceptional)
+- Neo B4 Relic (Exceptional)
+- Neo C2 Relic (Exceptional)
+- Neo C3 Relic (Exceptional)
+- Neo C5 Relic (Exceptional)
+- Neo D2 Relic (Exceptional)
+- Neo G5 Relic (Exceptional)
+- Neo H2 Relic (Exceptional)
+- Neo K8 Relic (Exceptional)
+- Neo M2 Relic (Exceptional)
+- Neo N11 Relic (Exceptional)
+- Neo N16 Relic (Exceptional)
+- Neo N4 Relic (Exceptional)
+- Neo P2 Relic (Exceptional)
+- Neo P5 Relic (Exceptional)
+- Neo R2 Relic (Exceptional)
+- Neo R4 Relic (Exceptional)
+- Neo S10 Relic (Exceptional)
+- Neo S16 Relic (Exceptional)
+- Neo S2 Relic (Exceptional)
+- Neo T4 Relic (Exceptional)
+- Neo T6 Relic (Exceptional)
+- Neo V2 Relic (Exceptional)
+- Neo V4 Relic (Exceptional)
+- Neo V6 Relic (Exceptional)
+- Neo Z2 Relic (Exceptional)
+- Neo Z4 Relic (Exceptional)
+- Neo Z5 Relic (Exceptional)
+- Neo Z8 Relic (Exceptional)
+- Axi A1 Relic
+- Axi A15 Relic
+- Axi A4 Relic
+- Axi A6 Relic
+- Axi A8 Relic
+- Axi A9 Relic
+- Axi B3 Relic
+- Axi D3 Relic
+- Axi E2 Relic
+- Axi F1 Relic
+- Axi F3 Relic
+- Axi G5 Relic
+- Axi G8 Relic
+- Axi K4 Relic
+- Axi L5 Relic
+- Axi O3 Relic
+- Axi R1 Relic
+- Axi R3 Relic
+- Axi R4 Relic
+- Axi S18 Relic
+- Axi S3 Relic
+- Axi T2 Relic
+- Lith A7 Relic
+- Lith B2 Relic
+- Lith B8 Relic
+- Lith D3 Relic
+- Lith G2 Relic
+- Lith G6 Relic
+- Lith K1 Relic
+- Lith K10 Relic
+- Lith K11 Relic
+- Lith K12 Relic
+- Lith M5 Relic
+- Lith N10 Relic
+- Lith N13 Relic
+- Lith N3 Relic
+- Lith N5 Relic
+- Lith N9 Relic
+- Lith O4 Relic
+- Lith P1 Relic
+- Lith P3 Relic
+- Lith Q2 Relic
+- Lith R3 Relic
+- Lith S12 Relic
+- Lith S9 Relic
+- Lith S9 Relic
+- Lith T10 Relic
+- Lith T3 Relic
+- Lith V1 Relic
+- Lith W4 Relic
+- Meso A1 Relic
+- Meso A3 Relic
+- Meso C3 Relic
+- Meso C4 Relic
+- Meso C5 Relic
+- Meso D3 Relic
+- Meso F2 Relic
+- Meso F4 Relic
+- Meso G5 Relic
+- Meso G6 Relic
+- Meso G7 Relic
+- Meso G8 Relic
+- Meso K3 Relic
+- Meso M5 Relic
+- Meso N1 Relic
+- Meso N3 Relic
+- Meso N5 Relic
+- Meso O5 Relic
+- Meso P13 Relic
+- Meso P16 Relic
+- Meso R6 Relic
+- Meso S1 Relic
+- Meso S14 Relic
+- Meso S5 Relic
+- Meso T1 Relic
+- Meso T7 Relic
+- Meso T8 Relic
+- Meso W2 Relic
+- Neo A10 Relic
+- Neo A14 Relic
+- Neo B2 Relic
+- Neo B2 Relic
+- Neo B4 Relic
+- Neo C2 Relic
+- Neo C3 Relic
+- Neo C5 Relic
+- Neo D2 Relic
+- Neo G5 Relic
+- Neo H2 Relic
+- Neo K8 Relic
+- Neo M2 Relic
+- Neo N11 Relic
+- Neo N16 Relic
+- Neo N4 Relic
+- Neo P2 Relic
+- Neo P5 Relic
+- Neo R2 Relic
+- Neo R4 Relic
+- Neo S10 Relic
+- Neo S16 Relic
+- Neo S2 Relic
+- Neo T4 Relic
+- Neo T6 Relic
+- Neo V2 Relic
+- Neo V4 Relic
+- Neo V6 Relic
+- Neo Z2 Relic
+- Neo Z4 Relic
+- Neo Z5 Relic
+- Neo Z8 Relic
+- Extended Granum Void, Rotation C
+- Nightmare Granum Void, Rotation C
+- Entrati (Father), Family
+- NecraLoid (Loid), Clearance Agnesis
+- New Loka, Bountiful
+- Red Veil, Honored
+- Steel Meridian, Defender
+- Steel Meridian, Valiant
+- The Perrin Sequence, Executive
+

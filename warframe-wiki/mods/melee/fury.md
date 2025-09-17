@@ -1,0 +1,289 @@
+---
+acquisition:
+- Corrupted Ancient
+- Orb Vallis - Enrichment Labs Enemies
+- Orb Vallis - Spaceport Enemies
+- Axio Elite Crewman
+- Elite Crewman
+- Kuva Powerclaw
+- Machinist
+- Narmer Elite Crewman
+- Narmer Machinist
+- Narmer Powerfist
+- Orm Elite Crewman
+- Powerfist
+- Taro Elite Crewman
+- Vapos Elite Crewman
+- Vorac Elite Crewman
+- Orb Vallis - Temple of Profit Enemies
+- Primm
+- Terra Attack Drone
+- Terra Shield Osprey
+- Verd-Ie
+- Attack Drone
+- Carabus
+- Fog Comba
+- Frontier Regulator
+- Juno Oxium Osprey
+- Narmer Observation Drone
+- Narmer Oxium Osprey
+- Narmer Regulator
+- Nemes
+- Nul Comba
+- Observation Drone
+- Oxium Osprey
+- Rathuum Broadcaster
+- Regulator
+- Remech Osprey
+- Sap Comba
+- Sensor Regulator
+- Slo Comba
+- Taro Secura Osprey
+- Terra Crewman
+- Terra Detron Crewman
+- Terra Elite Crewman
+- Terra Plasmor Crewman
+- Terra Research Crewman
+- Terra Sniper Crewman
+- Vapos Oxium Osprey
+- Corpus Power Carrier
+- Axio Crewman
+- Corpus Power Carrier
+- Corrupted Power Carrier
+- Crewman
+- Deimos Mutalist Osprey Carrier
+- Grineer Power Carrier
+- Hellion Power Carrier
+- Kuva Hellion Carrier
+- Kuva Power Carrier
+- Mutalist Osprey Carrier
+- Narmer Crewman
+- Narmer Power Carrier
+- Nightwatch Carrier
+- Orm Crewman
+- Taro Crewman
+- Vapos Crewman
+- Vorac Crewman
+- Eidolon Vomvalyst
+- Chroma
+- Infested Mesa
+- Tenno Specter
+- Ceres/Seimeni (Defense), Rotation B
+- 'Duviri/Endless: Tier 1 (Normal)'
+- 'Duviri/Endless: Tier 1 (Normal)'
+- 'Duviri/Endless: Tier 3 (Normal)'
+- 'Duviri/Endless: Tier 3 (Normal)'
+- Earth/Coba (Defense), Rotation B
+- Eris/Akkad (Defense), Rotation B
+- Europa/Larzac (Defense), Rotation B
+- Jupiter/Sinai (Defense), Rotation B
+- Mars/Kadesh (Defense), Rotation B
+- Pluto/Sechura (Defense), Rotation B
+- Sedna/Sangeru (Defense), Rotation B
+- Venus/Romula (Defense), Rotation B
+- Terra Attack Drone
+- Terra Shield Osprey
+- Terra Crewman
+- Terra Plasmor Crewman
+- Terra Sniper Crewman
+- 'Duviri/Endless: Tier 6 (Normal)'
+- 'Duviri/Endless: Tier 4 (Normal)'
+- Another Betrayer, Rotation B
+- Family Reunion, Rotation B
+- Hot Mess, Rotation B
+- Phobos/Opik (Rush), Rotation B
+- Recover The Orokin Archive, Rotation B
+- Sunkiller, Rotation B
+- Table For Two, Rotation B
+- The Aftermath, Rotation B
+- Time's Up, Rotation B
+- Hellion Power Carrier
+- Veil/Erato (Skirmish), Rotation C
+- Neptune/Mammon's Prospect (Skirmish), Rotation C
+- 'Duviri/Endless: Tier 9 (Normal)'
+- Ceres/Bode (Spy), Rotation B
+- Europa/Valac (Spy), Rotation B
+- Jupiter/Amalthea (Spy), Rotation B
+- Saturn/Aegaeon (Spy), Rotation B
+- Saturn/Dione (Spy), Rotation B
+- Europa/Paimon (Defense), Rotation B
+- Jupiter/Io (Defense), Rotation B
+- Saturn/Helene (Defense), Rotation B
+- Sedna/Camenae (Defense), Rotation B
+- Necramech (Tier 3)
+- Earth/Cetus (Level 10 - 30 Cetus Bounty), Rotation C
+- Earth/Cetus (Level 10 - 30 Cetus Bounty), Rotation C
+- Eidolon Hydrolyst (Capture)
+- Deimos/Cambion Drift (Level 50 - 60 Arcana Isolation Vault), Rotation A
+- Deimos/Cambion Drift (Level 50 - 60 Arcana Isolation Vault), Rotation B
+- Deimos/Cambion Drift (Level 50 - 60 Arcana Isolation Vault), Rotation C
+- Deimos/Cambion Drift (Level 50 - 60 Isolation Vault), Rotation A
+- Deimos/Cambion Drift (Level 50 - 60 Isolation Vault), Rotation B
+- Deimos/Cambion Drift (Level 50 - 60 Isolation Vault), Rotation C
+- Eidolon Hydrolyst
+- Nightmare Mode Rewards, Rotation B
+- Deimos/Cambion Drift (Level 50 - 60 Arcana Isolation Vault), Rotation A
+- Deimos/Cambion Drift (Level 50 - 60 Arcana Isolation Vault), Rotation B
+- Deimos/Cambion Drift (Level 50 - 60 Arcana Isolation Vault), Rotation C
+- Deimos/Cambion Drift (Level 50 - 60 Arcana Isolation Vault), Rotation A
+- Deimos/Cambion Drift (Level 50 - 60 Arcana Isolation Vault), Rotation B
+- Deimos/Cambion Drift (Level 50 - 60 Arcana Isolation Vault), Rotation C
+- Earth/Cetus (Level 10 - 30 Cetus Bounty), Rotation C
+- Conclave, Mistral
+- Conclave, Whirlwind
+- The Quills, Adherent
+category: Mods
+description: ''
+drain: 4
+image: ../images/fury-2a80ee6136.jpg
+last_updated: '2025-09-17'
+name: Fury
+polarity: madurai
+rarity: Uncommon
+release_date: '2012-10-25'
+source: WFCD
+tags:
+- Melee Mod
+- Mods
+tradable: true
+type: Melee Mod
+---
+
+# Fury
+
+## Acquisition
+
+Available from:
+- Corrupted Ancient
+- Orb Vallis - Enrichment Labs Enemies
+- Orb Vallis - Spaceport Enemies
+- Axio Elite Crewman
+- Elite Crewman
+- Kuva Powerclaw
+- Machinist
+- Narmer Elite Crewman
+- Narmer Machinist
+- Narmer Powerfist
+- Orm Elite Crewman
+- Powerfist
+- Taro Elite Crewman
+- Vapos Elite Crewman
+- Vorac Elite Crewman
+- Orb Vallis - Temple of Profit Enemies
+- Primm
+- Terra Attack Drone
+- Terra Shield Osprey
+- Verd-Ie
+- Attack Drone
+- Carabus
+- Fog Comba
+- Frontier Regulator
+- Juno Oxium Osprey
+- Narmer Observation Drone
+- Narmer Oxium Osprey
+- Narmer Regulator
+- Nemes
+- Nul Comba
+- Observation Drone
+- Oxium Osprey
+- Rathuum Broadcaster
+- Regulator
+- Remech Osprey
+- Sap Comba
+- Sensor Regulator
+- Slo Comba
+- Taro Secura Osprey
+- Terra Crewman
+- Terra Detron Crewman
+- Terra Elite Crewman
+- Terra Plasmor Crewman
+- Terra Research Crewman
+- Terra Sniper Crewman
+- Vapos Oxium Osprey
+- Corpus Power Carrier
+- Axio Crewman
+- Corpus Power Carrier
+- Corrupted Power Carrier
+- Crewman
+- Deimos Mutalist Osprey Carrier
+- Grineer Power Carrier
+- Hellion Power Carrier
+- Kuva Hellion Carrier
+- Kuva Power Carrier
+- Mutalist Osprey Carrier
+- Narmer Crewman
+- Narmer Power Carrier
+- Nightwatch Carrier
+- Orm Crewman
+- Taro Crewman
+- Vapos Crewman
+- Vorac Crewman
+- Eidolon Vomvalyst
+- Chroma
+- Infested Mesa
+- Tenno Specter
+- Ceres/Seimeni (Defense), Rotation B
+- Duviri/Endless: Tier 1 (Normal)
+- Duviri/Endless: Tier 1 (Normal)
+- Duviri/Endless: Tier 3 (Normal)
+- Duviri/Endless: Tier 3 (Normal)
+- Earth/Coba (Defense), Rotation B
+- Eris/Akkad (Defense), Rotation B
+- Europa/Larzac (Defense), Rotation B
+- Jupiter/Sinai (Defense), Rotation B
+- Mars/Kadesh (Defense), Rotation B
+- Pluto/Sechura (Defense), Rotation B
+- Sedna/Sangeru (Defense), Rotation B
+- Venus/Romula (Defense), Rotation B
+- Terra Attack Drone
+- Terra Shield Osprey
+- Terra Crewman
+- Terra Plasmor Crewman
+- Terra Sniper Crewman
+- Duviri/Endless: Tier 6 (Normal)
+- Duviri/Endless: Tier 4 (Normal)
+- Another Betrayer, Rotation B
+- Family Reunion, Rotation B
+- Hot Mess, Rotation B
+- Phobos/Opik (Rush), Rotation B
+- Recover The Orokin Archive, Rotation B
+- Sunkiller, Rotation B
+- Table For Two, Rotation B
+- The Aftermath, Rotation B
+- Time's Up, Rotation B
+- Hellion Power Carrier
+- Veil/Erato (Skirmish), Rotation C
+- Neptune/Mammon's Prospect (Skirmish), Rotation C
+- Duviri/Endless: Tier 9 (Normal)
+- Ceres/Bode (Spy), Rotation B
+- Europa/Valac (Spy), Rotation B
+- Jupiter/Amalthea (Spy), Rotation B
+- Saturn/Aegaeon (Spy), Rotation B
+- Saturn/Dione (Spy), Rotation B
+- Europa/Paimon (Defense), Rotation B
+- Jupiter/Io (Defense), Rotation B
+- Saturn/Helene (Defense), Rotation B
+- Sedna/Camenae (Defense), Rotation B
+- Necramech (Tier 3)
+- Earth/Cetus (Level 10 - 30 Cetus Bounty), Rotation C
+- Earth/Cetus (Level 10 - 30 Cetus Bounty), Rotation C
+- Eidolon Hydrolyst (Capture)
+- Deimos/Cambion Drift (Level 50 - 60 Arcana Isolation Vault), Rotation A
+- Deimos/Cambion Drift (Level 50 - 60 Arcana Isolation Vault), Rotation B
+- Deimos/Cambion Drift (Level 50 - 60 Arcana Isolation Vault), Rotation C
+- Deimos/Cambion Drift (Level 50 - 60 Isolation Vault), Rotation A
+- Deimos/Cambion Drift (Level 50 - 60 Isolation Vault), Rotation B
+- Deimos/Cambion Drift (Level 50 - 60 Isolation Vault), Rotation C
+- Eidolon Hydrolyst
+- Nightmare Mode Rewards, Rotation B
+- Deimos/Cambion Drift (Level 50 - 60 Arcana Isolation Vault), Rotation A
+- Deimos/Cambion Drift (Level 50 - 60 Arcana Isolation Vault), Rotation B
+- Deimos/Cambion Drift (Level 50 - 60 Arcana Isolation Vault), Rotation C
+- Deimos/Cambion Drift (Level 50 - 60 Arcana Isolation Vault), Rotation A
+- Deimos/Cambion Drift (Level 50 - 60 Arcana Isolation Vault), Rotation B
+- Deimos/Cambion Drift (Level 50 - 60 Arcana Isolation Vault), Rotation C
+- Earth/Cetus (Level 10 - 30 Cetus Bounty), Rotation C
+- Conclave, Mistral
+- Conclave, Whirlwind
+- The Quills, Adherent
+

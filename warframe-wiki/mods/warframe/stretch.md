@@ -1,0 +1,304 @@
+---
+acquisition:
+- Primm
+- Terra Attack Drone
+- Terra Shield Osprey
+- Verd-Ie
+- Juno Geminex Moa
+- Narmer Geminex Moa
+- Nox
+- Axio Shockwave Moa
+- Breacher Moa
+- Leech Osprey
+- Narmer Leech Osprey
+- Narmer Mine Osprey
+- Narmer Sapping Osprey
+- Narmer Shockwave Moa
+- Orm Shockwave Moa
+- Sapping Osprey
+- Shockwave Moa
+- Taro Shockwave Moa
+- Test Moa
+- Vapos Sapping Osprey
+- Vapos Shockwave Moa
+- Vorac Shockwave Moa
+- Ceres/Lex (Capture)
+- Earth/Mantle (Capture)
+- Eris/Cosis (Capture)
+- Eris/Isos (Capture)
+- Europa/Abaddon (Capture)
+- Europa/Beleth (Capture)
+- Europa/Cryotic Front (Capture)
+- Jupiter/Ananke (Capture)
+- Lua/Copernicus (Capture)
+- Mars/Ara (Capture)
+- Mars/Quirinus (Capture)
+- Mercury/Elion (Capture)
+- Neptune/Galatea (Capture)
+- Phobos/Limtoc (Capture)
+- Phobos/Skyresh (Capture)
+- Phobos/Todd (Capture)
+- Pluto/Corb (Capture)
+- Pluto/Hydra (Capture)
+- Saturn/Cassini (Capture)
+- Saturn/Phoebe (Capture)
+- Uranus/Ariel (Capture)
+- Uranus/Trinculo (Capture)
+- Venus/Venera (Capture)
+- Aurax Atloc Raknoid
+- Kyta Raknoid
+- Mite Raknoid
+- Narmer Mite
+- Narmer Raknoid
+- Narmer Scyto Raknoid
+- Scyto Raknoid
+- Terra Anti Moa
+- Terra Moa
+- Terra Railgun Moa
+- Terra Shockwave Moa
+- Raptor Mt
+- Raptor Ns
+- Raptor Rv
+- Raptor
+- 'Duviri/Endless: Tier 1 (Normal)'
+- 'Duviri/Endless: Tier 3 (Normal)'
+- Jackal
+- Necramech (Tier 3)
+- Terra Ambulas
+- Terra Anti Moa
+- Terra Attack Drone
+- Terra Elite Embattor Moa
+- Terra Elite Raptor Sx
+- Terra Embattor Moa
+- Terra Jackal
+- Terra Moa
+- Terra Railgun Moa
+- Terra Raptor Sx
+- Terra Shield Osprey
+- Terra Shockwave Moa
+- Coolant Raknoid
+- Another Betrayer, Rotation C
+- Family Reunion, Rotation C
+- Hot Mess, Rotation C
+- Phobos/Opik (Rush), Rotation C
+- Recover The Orokin Archive, Rotation C
+- Sunkiller, Rotation C
+- Table For Two, Rotation C
+- The Aftermath, Rotation C
+- Time's Up, Rotation C
+- Eris/Ixodes (Defense), Rotation C
+- Eris/Kala-Azar (Defense), Rotation C
+- Kuva Fortress/Nabuk (Defense), Rotation C
+- Lua/StöFler (Defense), Rotation C
+- Neptune/Proteus (Defense), Rotation C
+- Pluto/Outer Terminus (Defense), Rotation C
+- Sedna/Hydron (Defense), Rotation C
+- Uranus/Bianca (Defense), Rotation C
+- Uranus/Miranda (Defense), Rotation C
+- Uranus/Stephano (Defense), Rotation C
+- Artificer
+- Councilor Vay Hek
+- Vay Hek Terra Frame
+- Europa/Paimon (Defense), Rotation C
+- Jupiter/Io (Defense), Rotation C
+- Saturn/Helene (Defense), Rotation C
+- Sedna/Camenae (Defense), Rotation C
+- Phorid
+- Eris/Hymeno (Survival), Rotation B
+- Eris/Nimus (Survival), Rotation B
+- Europa/Cholistan (Excavation), Rotation B
+- Kuva Fortress/Taveuni (Survival), Rotation B
+- Lua/Tycho (Survival), Rotation B
+- Neptune/Despina (Excavation), Rotation B
+- Neptune/Kelashin (Survival), Rotation B
+- Pluto/Hieracon (Excavation), Rotation B
+- Pluto/Palus (Survival), Rotation B
+- Sedna/Amarna (Survival), Rotation B
+- Sedna/Scylla (Survival), Rotation B
+- Sedna/Selkie (Survival), Rotation B
+- Sedna/Yemaja (Survival), Rotation B
+- Uranus/Assur (Survival), Rotation B
+- Uranus/Cupid (Survival), Rotation B
+- Uranus/Ophelia (Survival), Rotation B
+- Eris/Cyath (Spy), Rotation C
+- Eris/Gnathos (Spy), Rotation C
+- Neptune/Nereid (Spy), Rotation C
+- Pluto/Oceanum (Spy), Rotation C
+- Sedna/Kelpie (Spy), Rotation C
+- Sedna/Tikoloshe (Spy), Rotation C
+- Uranus/Rosalind (Spy), Rotation C
+- Earth/Cetus (Level 5 - 15 Cetus Bounty), Rotation B
+- Deimos/Cambion Drift (Level 50 - 60 Arcana Isolation Vault), Rotation A
+- Deimos/Cambion Drift (Level 50 - 60 Isolation Vault), Rotation A
+- Earth/Cetus (Level 5 - 15 Cetus Bounty), Rotation B
+- Deimos/Cambion Drift (Level 50 - 60 Arcana Isolation Vault), Rotation A
+- Profit-Taker
+- Raptor
+- Kuva Fortress/Pago (Spy), Rotation A
+- Eris/Oestrus (Infested Salvage), Rotation C
+- Deimos/Cambion Drift (Level 50 - 60 Arcana Isolation Vault), Rotation A
+- Lt Lech Kril
+- Earth/Cetus (Level 5 - 15 Cetus Bounty), Rotation B
+- Kahl's Garrison (Chipper), Fort
+category: Mods
+description: ''
+drain: 4
+image: ../images/stretch-87fa153185.jpg
+last_updated: '2025-09-17'
+name: Stretch
+polarity: naramon
+rarity: Uncommon
+source: WFCD
+tags:
+- Warframe Mod
+- Mods
+tradable: true
+type: Warframe Mod
+---
+
+# Stretch
+
+## Acquisition
+
+Available from:
+- Primm
+- Terra Attack Drone
+- Terra Shield Osprey
+- Verd-Ie
+- Juno Geminex Moa
+- Narmer Geminex Moa
+- Nox
+- Axio Shockwave Moa
+- Breacher Moa
+- Leech Osprey
+- Narmer Leech Osprey
+- Narmer Mine Osprey
+- Narmer Sapping Osprey
+- Narmer Shockwave Moa
+- Orm Shockwave Moa
+- Sapping Osprey
+- Shockwave Moa
+- Taro Shockwave Moa
+- Test Moa
+- Vapos Sapping Osprey
+- Vapos Shockwave Moa
+- Vorac Shockwave Moa
+- Ceres/Lex (Capture)
+- Earth/Mantle (Capture)
+- Eris/Cosis (Capture)
+- Eris/Isos (Capture)
+- Europa/Abaddon (Capture)
+- Europa/Beleth (Capture)
+- Europa/Cryotic Front (Capture)
+- Jupiter/Ananke (Capture)
+- Lua/Copernicus (Capture)
+- Mars/Ara (Capture)
+- Mars/Quirinus (Capture)
+- Mercury/Elion (Capture)
+- Neptune/Galatea (Capture)
+- Phobos/Limtoc (Capture)
+- Phobos/Skyresh (Capture)
+- Phobos/Todd (Capture)
+- Pluto/Corb (Capture)
+- Pluto/Hydra (Capture)
+- Saturn/Cassini (Capture)
+- Saturn/Phoebe (Capture)
+- Uranus/Ariel (Capture)
+- Uranus/Trinculo (Capture)
+- Venus/Venera (Capture)
+- Aurax Atloc Raknoid
+- Kyta Raknoid
+- Mite Raknoid
+- Narmer Mite
+- Narmer Raknoid
+- Narmer Scyto Raknoid
+- Scyto Raknoid
+- Terra Anti Moa
+- Terra Moa
+- Terra Railgun Moa
+- Terra Shockwave Moa
+- Raptor Mt
+- Raptor Ns
+- Raptor Rv
+- Raptor
+- Duviri/Endless: Tier 1 (Normal)
+- Duviri/Endless: Tier 3 (Normal)
+- Jackal
+- Necramech (Tier 3)
+- Terra Ambulas
+- Terra Anti Moa
+- Terra Attack Drone
+- Terra Elite Embattor Moa
+- Terra Elite Raptor Sx
+- Terra Embattor Moa
+- Terra Jackal
+- Terra Moa
+- Terra Railgun Moa
+- Terra Raptor Sx
+- Terra Shield Osprey
+- Terra Shockwave Moa
+- Coolant Raknoid
+- Another Betrayer, Rotation C
+- Family Reunion, Rotation C
+- Hot Mess, Rotation C
+- Phobos/Opik (Rush), Rotation C
+- Recover The Orokin Archive, Rotation C
+- Sunkiller, Rotation C
+- Table For Two, Rotation C
+- The Aftermath, Rotation C
+- Time's Up, Rotation C
+- Eris/Ixodes (Defense), Rotation C
+- Eris/Kala-Azar (Defense), Rotation C
+- Kuva Fortress/Nabuk (Defense), Rotation C
+- Lua/StöFler (Defense), Rotation C
+- Neptune/Proteus (Defense), Rotation C
+- Pluto/Outer Terminus (Defense), Rotation C
+- Sedna/Hydron (Defense), Rotation C
+- Uranus/Bianca (Defense), Rotation C
+- Uranus/Miranda (Defense), Rotation C
+- Uranus/Stephano (Defense), Rotation C
+- Artificer
+- Councilor Vay Hek
+- Vay Hek Terra Frame
+- Europa/Paimon (Defense), Rotation C
+- Jupiter/Io (Defense), Rotation C
+- Saturn/Helene (Defense), Rotation C
+- Sedna/Camenae (Defense), Rotation C
+- Phorid
+- Eris/Hymeno (Survival), Rotation B
+- Eris/Nimus (Survival), Rotation B
+- Europa/Cholistan (Excavation), Rotation B
+- Kuva Fortress/Taveuni (Survival), Rotation B
+- Lua/Tycho (Survival), Rotation B
+- Neptune/Despina (Excavation), Rotation B
+- Neptune/Kelashin (Survival), Rotation B
+- Pluto/Hieracon (Excavation), Rotation B
+- Pluto/Palus (Survival), Rotation B
+- Sedna/Amarna (Survival), Rotation B
+- Sedna/Scylla (Survival), Rotation B
+- Sedna/Selkie (Survival), Rotation B
+- Sedna/Yemaja (Survival), Rotation B
+- Uranus/Assur (Survival), Rotation B
+- Uranus/Cupid (Survival), Rotation B
+- Uranus/Ophelia (Survival), Rotation B
+- Eris/Cyath (Spy), Rotation C
+- Eris/Gnathos (Spy), Rotation C
+- Neptune/Nereid (Spy), Rotation C
+- Pluto/Oceanum (Spy), Rotation C
+- Sedna/Kelpie (Spy), Rotation C
+- Sedna/Tikoloshe (Spy), Rotation C
+- Uranus/Rosalind (Spy), Rotation C
+- Earth/Cetus (Level 5 - 15 Cetus Bounty), Rotation B
+- Deimos/Cambion Drift (Level 50 - 60 Arcana Isolation Vault), Rotation A
+- Deimos/Cambion Drift (Level 50 - 60 Isolation Vault), Rotation A
+- Earth/Cetus (Level 5 - 15 Cetus Bounty), Rotation B
+- Deimos/Cambion Drift (Level 50 - 60 Arcana Isolation Vault), Rotation A
+- Profit-Taker
+- Raptor
+- Kuva Fortress/Pago (Spy), Rotation A
+- Eris/Oestrus (Infested Salvage), Rotation C
+- Deimos/Cambion Drift (Level 50 - 60 Arcana Isolation Vault), Rotation A
+- Lt Lech Kril
+- Earth/Cetus (Level 5 - 15 Cetus Bounty), Rotation B
+- Kahl's Garrison (Chipper), Fort
+
